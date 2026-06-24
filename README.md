@@ -605,14 +605,14 @@ Demo video URL: <PASTE_DEMO_VIDEO_LINK_HERE>
 Open the final PowerPoint deck:
 
 ```text
-outputs/CyberShield_Police_Hackathon_Pitch.pptx
+presentation/CyberShield_Police_Hackathon_Pitch.pptx
 ```
 
 Supporting presentation files:
 
-- `outputs/demo-video-script.md`
-- `outputs/judge-speech.md`
-- `outputs/judge-qna.md`
+- `presentation/demo-video-script.md`
+- `presentation/judge-speech.md`
+- `presentation/judge-qna.md`
 - `docs/presentation-and-demo-kit.md`
 
 These files are included so judges can quickly review the project story, demo flow, speeches, and Q&A.
