@@ -1,5 +1,0 @@
-run = "bash start-replit.sh"
-
-[nix]
-channel = "stable-24_05"
-packages = ["python311", "nodejs_20"]

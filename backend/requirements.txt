@@ -3,4 +3,3 @@ uvicorn
 reportlab
 google-genai
 python-dotenv
-python-pptx

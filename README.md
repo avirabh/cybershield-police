@@ -600,13 +600,24 @@ Add a 2-3 minute walkthrough link here after recording:
 Demo video URL: <PASTE_DEMO_VIDEO_LINK_HERE>
 ```
 
-## Temporary Live Demo
+## Judge Pitch Deck And Demo Materials
 
-Recommended quick option: Replit Preview.
+Open the final PowerPoint deck:
 
-```bash
-bash start-replit.sh
+```text
+outputs/CyberShield_Police_Hackathon_Pitch.pptx
 ```
+
+Supporting presentation files:
+
+- `outputs/demo-video-script.md`
+- `outputs/judge-speech.md`
+- `outputs/judge-qna.md`
+- `docs/presentation-and-demo-kit.md`
+
+These files are included so judges can quickly review the project story, demo flow, speeches, and Q&A.
+
+## Deployment Notes
 
 For split deployment, use Render for the backend and Vercel for the frontend. See:
 

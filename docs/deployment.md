@@ -1,27 +1,26 @@
 # Deployment Guide
 
-CyberShield Police is a local-first hackathon prototype. It can be shown live with Replit for a temporary demo, or split between Render and Vercel for a cleaner public deployment.
+CyberShield Police is a local-first hackathon prototype. It can be shown live on a laptop for judging, or split between Render and Vercel for a cleaner public deployment.
 
-## Option 1: Replit Preview
+## Option 1: Local Judge Demo
 
-1. Create a new Replit project and import the GitHub repository.
-2. Add optional secrets in Replit Secrets:
-   - `GEMINI_API_KEY`
-   - `GEMINI_MODEL=gemini-2.5-flash`
-   - `AI_PROVIDER=multi`
-   - `AI_PROVIDER_ORDER=gemini,openrouter,groq,huggingface`
-   - `OPENROUTER_API_KEY` optional
-   - `GROQ_API_KEY` optional
-   - `HUGGINGFACE_API_KEY` optional
-   - `AI_TIMEOUT_SECONDS=20`
-3. Keep the app working without AI keys by leaving all provider keys blank.
-4. Run:
+Open two terminals.
 
-```bash
-bash start-replit.sh
+Backend:
+
+```powershell
+cd backend
+.\start_backend.bat
 ```
 
-The script installs backend and frontend dependencies, seeds fictional demo data, starts FastAPI on `0.0.0.0:8000`, and starts Vite on `0.0.0.0:5173`.
+Frontend:
+
+```powershell
+cd frontend
+.\start_frontend.bat
+```
+
+Then open `http://127.0.0.1:5173`.
 
 ## Option 2: Render Backend + Vercel Frontend
 
