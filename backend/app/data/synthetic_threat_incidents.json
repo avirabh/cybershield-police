@@ -1,0 +1,1370 @@
+[
+  {
+    "incident_id": "TI-PRK-001",
+    "location": "Addanki",
+    "mandal": "Addanki",
+    "district": "Prakasam",
+    "state": "Andhra Pradesh",
+    "scam_type": "UPI Refund Fraud",
+    "amount_lost": 1495,
+    "payment_mode": "card",
+    "target_group": "Small Business Owner",
+    "incident_date": "2026-06-02",
+    "risk_score": 63,
+    "risk_level": "High",
+    "summary": "Synthetic UPI Refund Fraud incident reported from Addanki, Prakasam. Demo-only intelligence record for hackathon analysis.",
+    "indicators": [
+      "87XXXXXX42",
+      "suspicious-demo-login.example"
+    ]
+  },
+  {
+    "incident_id": "TI-PRK-002",
+    "location": "Podili",
+    "mandal": "Podili",
+    "district": "Prakasam",
+    "state": "Andhra Pradesh",
+    "scam_type": "OTP Fraud",
+    "amount_lost": 760,
+    "payment_mode": "wallet",
+    "target_group": "Adult",
+    "incident_date": "2026-06-03",
+    "risk_score": 58,
+    "risk_level": "High",
+    "summary": "Synthetic OTP Fraud incident reported from Podili, Prakasam. Demo-only intelligence record for hackathon analysis.",
+    "indicators": [
+      "fraudster-demo@upi",
+      "kyc-prakasam-demo.test"
+    ]
+  },
+  {
+    "incident_id": "TI-PRK-003",
+    "location": "Ongole",
+    "mandal": "Ongole Urban",
+    "district": "Prakasam",
+    "state": "Andhra Pradesh",
+    "scam_type": "QR Code Scam",
+    "amount_lost": 1685,
+    "payment_mode": "bank transfer",
+    "target_group": "Senior Citizen",
+    "incident_date": "2026-06-04",
+    "risk_score": 63,
+    "risk_level": "High",
+    "summary": "Synthetic QR Code Scam incident reported from Ongole, Prakasam. Demo-only intelligence record for hackathon analysis.",
+    "indicators": [
+      "refund-desk-demo@upi",
+      "203.0.113.24"
+    ]
+  },
+  {
+    "incident_id": "TI-PRK-004",
+    "location": "Addanki",
+    "mandal": "Addanki",
+    "district": "Prakasam",
+    "state": "Andhra Pradesh",
+    "scam_type": "Fake Loan Processing Fee",
+    "amount_lost": 3500,
+    "payment_mode": "OTP fraud",
+    "target_group": "Student",
+    "incident_date": "2026-06-05",
+    "risk_score": 68,
+    "risk_level": "High",
+    "summary": "Synthetic Fake Loan Processing Fee incident reported from Addanki, Prakasam. Demo-only intelligence record for hackathon analysis.",
+    "indicators": [
+      "ACCT-DEMO-4821",
+      "198.51.100.18"
+    ]
+  },
+  {
+    "incident_id": "TI-PRK-005",
+    "location": "Kandukur",
+    "mandal": "Kandukur",
+    "district": "Prakasam",
+    "state": "Andhra Pradesh",
+    "scam_type": "Fake Job Registration Fee",
+    "amount_lost": 1000,
+    "payment_mode": "UPI",
+    "target_group": "Job Seeker",
+    "incident_date": "2026-06-06",
+    "risk_score": 73,
+    "risk_level": "High",
+    "summary": "Synthetic Fake Job Registration Fee incident reported from Kandukur, Prakasam. Demo-only intelligence record for hackathon analysis.",
+    "indicators": [
+      "ACCT-DEMO-9174",
+      "qr-collect-demo@upi"
+    ]
+  },
+  {
+    "incident_id": "TI-PRK-006",
+    "location": "Darsi",
+    "mandal": "Darsi",
+    "district": "Prakasam",
+    "state": "Andhra Pradesh",
+    "scam_type": "Fake Customer Care Refund",
+    "amount_lost": 1080,
+    "payment_mode": "card",
+    "target_group": "Small Business Owner",
+    "incident_date": "2026-06-07",
+    "risk_score": 78,
+    "risk_level": "Critical",
+    "summary": "Synthetic Fake Customer Care Refund incident reported from Darsi, Prakasam. Demo-only intelligence record for hackathon analysis.",
+    "indicators": [
+      "suspicious-demo-login.example",
+      "job-fee-demo@upi"
+    ]
+  },
+  {
+    "incident_id": "TI-PRK-007",
+    "location": "Vetapalem",
+    "mandal": "Vetapalem",
+    "district": "Prakasam",
+    "state": "Andhra Pradesh",
+    "scam_type": "Lottery/Prize Fee Scam",
+    "amount_lost": 1160,
+    "payment_mode": "wallet",
+    "target_group": "Adult",
+    "incident_date": "2026-06-08",
+    "risk_score": 83,
+    "risk_level": "Critical",
+    "summary": "Synthetic Lottery/Prize Fee Scam incident reported from Vetapalem, Prakasam. Demo-only intelligence record for hackathon analysis.",
+    "indicators": [
+      "kyc-prakasam-demo.test",
+      "loan-fee-demo@upi"
+    ]
+  },
+  {
+    "incident_id": "TI-PRK-008",
+    "location": "Kandukur",
+    "mandal": "Kandukur",
+    "district": "Prakasam",
+    "state": "Andhra Pradesh",
+    "scam_type": "Fake KYC/Bank Alert",
+    "amount_lost": 11340,
+    "payment_mode": "bank transfer",
+    "target_group": "Senior Citizen",
+    "incident_date": "2026-06-09",
+    "risk_score": 96,
+    "risk_level": "Critical",
+    "summary": "Synthetic Fake KYC/Bank Alert incident reported from Kandukur, Prakasam. Demo-only intelligence record for hackathon analysis.",
+    "indicators": [
+      "203.0.113.24",
+      "support-refund-demo.example"
+    ]
+  },
+  {
+    "incident_id": "TI-PRK-009",
+    "location": "Darsi",
+    "mandal": "Darsi",
+    "district": "Prakasam",
+    "state": "Andhra Pradesh",
+    "scam_type": "OTP Fraud",
+    "amount_lost": 1320,
+    "payment_mode": "OTP fraud",
+    "target_group": "Student",
+    "incident_date": "2026-06-10",
+    "risk_score": 48,
+    "risk_level": "Medium",
+    "summary": "Synthetic OTP Fraud incident reported from Darsi, Prakasam. Demo-only intelligence record for hackathon analysis.",
+    "indicators": [
+      "198.51.100.18",
+      "98XXXXXX21"
+    ]
+  },
+  {
+    "incident_id": "TI-PRK-010",
+    "location": "Kanigiri",
+    "mandal": "Kanigiri",
+    "district": "Prakasam",
+    "state": "Andhra Pradesh",
+    "scam_type": "QR Code Scam",
+    "amount_lost": 2350,
+    "payment_mode": "UPI",
+    "target_group": "Job Seeker",
+    "incident_date": "2026-06-11",
+    "risk_score": 53,
+    "risk_level": "High",
+    "summary": "Synthetic QR Code Scam incident reported from Kanigiri, Prakasam. Demo-only intelligence record for hackathon analysis.",
+    "indicators": [
+      "qr-collect-demo@upi",
+      "87XXXXXX42"
+    ]
+  },
+  {
+    "incident_id": "TI-PRK-011",
+    "location": "Yerragondapalem",
+    "mandal": "Yerragondapalem",
+    "district": "Prakasam",
+    "state": "Andhra Pradesh",
+    "scam_type": "Fake Loan Processing Fee",
+    "amount_lost": 4725,
+    "payment_mode": "card",
+    "target_group": "Small Business Owner",
+    "incident_date": "2026-06-12",
+    "risk_score": 58,
+    "risk_level": "High",
+    "summary": "Synthetic Fake Loan Processing Fee incident reported from Yerragondapalem, Prakasam. Demo-only intelligence record for hackathon analysis.",
+    "indicators": [
+      "job-fee-demo@upi",
+      "fraudster-demo@upi"
+    ]
+  },
+  {
+    "incident_id": "TI-PRK-012",
+    "location": "Markapur",
+    "mandal": "Markapur",
+    "district": "Prakasam",
+    "state": "Andhra Pradesh",
+    "scam_type": "Fake Job Registration Fee",
+    "amount_lost": 1560,
+    "payment_mode": "wallet",
+    "target_group": "Adult",
+    "incident_date": "2026-06-13",
+    "risk_score": 63,
+    "risk_level": "High",
+    "summary": "Synthetic Fake Job Registration Fee incident reported from Markapur, Prakasam. Demo-only intelligence record for hackathon analysis.",
+    "indicators": [
+      "loan-fee-demo@upi",
+      "refund-desk-demo@upi"
+    ]
+  },
+  {
+    "incident_id": "TI-PRK-013",
+    "location": "Kanigiri",
+    "mandal": "Kanigiri",
+    "district": "Prakasam",
+    "state": "Andhra Pradesh",
+    "scam_type": "Fake Customer Care Refund",
+    "amount_lost": 1640,
+    "payment_mode": "bank transfer",
+    "target_group": "Senior Citizen",
+    "incident_date": "2026-06-14",
+    "risk_score": 68,
+    "risk_level": "High",
+    "summary": "Synthetic Fake Customer Care Refund incident reported from Kanigiri, Prakasam. Demo-only intelligence record for hackathon analysis.",
+    "indicators": [
+      "support-refund-demo.example",
+      "ACCT-DEMO-4821"
+    ]
+  },
+  {
+    "incident_id": "TI-PRK-014",
+    "location": "Yerragondapalem",
+    "mandal": "Yerragondapalem",
+    "district": "Prakasam",
+    "state": "Andhra Pradesh",
+    "scam_type": "Lottery/Prize Fee Scam",
+    "amount_lost": 1720,
+    "payment_mode": "OTP fraud",
+    "target_group": "Student",
+    "incident_date": "2026-06-15",
+    "risk_score": 73,
+    "risk_level": "High",
+    "summary": "Synthetic Lottery/Prize Fee Scam incident reported from Yerragondapalem, Prakasam. Demo-only intelligence record for hackathon analysis.",
+    "indicators": [
+      "98XXXXXX21",
+      "ACCT-DEMO-9174"
+    ]
+  },
+  {
+    "incident_id": "TI-PRK-015",
+    "location": "Tangutur",
+    "mandal": "Tangutur",
+    "district": "Prakasam",
+    "state": "Andhra Pradesh",
+    "scam_type": "Fake KYC/Bank Alert",
+    "amount_lost": 12950,
+    "payment_mode": "UPI",
+    "target_group": "Job Seeker",
+    "incident_date": "2026-06-16",
+    "risk_score": 88,
+    "risk_level": "Critical",
+    "summary": "Synthetic Fake KYC/Bank Alert incident reported from Tangutur, Prakasam. Demo-only intelligence record for hackathon analysis.",
+    "indicators": [
+      "87XXXXXX42",
+      "suspicious-demo-login.example"
+    ]
+  },
+  {
+    "incident_id": "TI-PRK-016",
+    "location": "Chirala",
+    "mandal": "Chirala",
+    "district": "Prakasam",
+    "state": "Andhra Pradesh",
+    "scam_type": "UPI Refund Fraud",
+    "amount_lost": 2920,
+    "payment_mode": "card",
+    "target_group": "Small Business Owner",
+    "incident_date": "2026-06-17",
+    "risk_score": 93,
+    "risk_level": "Critical",
+    "summary": "Synthetic UPI Refund Fraud incident reported from Chirala, Prakasam. Demo-only intelligence record for hackathon analysis.",
+    "indicators": [
+      "fraudster-demo@upi",
+      "kyc-prakasam-demo.test"
+    ]
+  },
+  {
+    "incident_id": "TI-PRK-017",
+    "location": "Giddalur",
+    "mandal": "Giddalur",
+    "district": "Prakasam",
+    "state": "Andhra Pradesh",
+    "scam_type": "OTP Fraud",
+    "amount_lost": 1960,
+    "payment_mode": "wallet",
+    "target_group": "Adult",
+    "incident_date": "2026-06-18",
+    "risk_score": 88,
+    "risk_level": "Critical",
+    "summary": "Synthetic OTP Fraud incident reported from Giddalur, Prakasam. Demo-only intelligence record for hackathon analysis.",
+    "indicators": [
+      "refund-desk-demo@upi",
+      "203.0.113.24"
+    ]
+  },
+  {
+    "incident_id": "TI-PRK-018",
+    "location": "Tangutur",
+    "mandal": "Tangutur",
+    "district": "Prakasam",
+    "state": "Andhra Pradesh",
+    "scam_type": "Fake Loan Processing Fee",
+    "amount_lost": 5950,
+    "payment_mode": "bank transfer",
+    "target_group": "Senior Citizen",
+    "incident_date": "2026-06-19",
+    "risk_score": 48,
+    "risk_level": "Medium",
+    "summary": "Synthetic Fake Loan Processing Fee incident reported from Tangutur, Prakasam. Demo-only intelligence record for hackathon analysis.",
+    "indicators": [
+      "ACCT-DEMO-4821",
+      "198.51.100.18"
+    ]
+  },
+  {
+    "incident_id": "TI-PRK-019",
+    "location": "Chirala",
+    "mandal": "Chirala",
+    "district": "Prakasam",
+    "state": "Andhra Pradesh",
+    "scam_type": "Fake Job Registration Fee",
+    "amount_lost": 2120,
+    "payment_mode": "OTP fraud",
+    "target_group": "Student",
+    "incident_date": "2026-06-20",
+    "risk_score": 53,
+    "risk_level": "High",
+    "summary": "Synthetic Fake Job Registration Fee incident reported from Chirala, Prakasam. Demo-only intelligence record for hackathon analysis.",
+    "indicators": [
+      "ACCT-DEMO-9174",
+      "qr-collect-demo@upi"
+    ]
+  },
+  {
+    "incident_id": "TI-PRK-020",
+    "location": "Ongole",
+    "mandal": "Ongole Urban",
+    "district": "Prakasam",
+    "state": "Andhra Pradesh",
+    "scam_type": "Fake Customer Care Refund",
+    "amount_lost": 2200,
+    "payment_mode": "UPI",
+    "target_group": "Job Seeker",
+    "incident_date": "2026-06-21",
+    "risk_score": 58,
+    "risk_level": "High",
+    "summary": "Synthetic Fake Customer Care Refund incident reported from Ongole, Prakasam. Demo-only intelligence record for hackathon analysis.",
+    "indicators": [
+      "suspicious-demo-login.example",
+      "job-fee-demo@upi"
+    ]
+  },
+  {
+    "incident_id": "TI-PRK-021",
+    "location": "Addanki",
+    "mandal": "Addanki",
+    "district": "Prakasam",
+    "state": "Andhra Pradesh",
+    "scam_type": "Lottery/Prize Fee Scam",
+    "amount_lost": 2280,
+    "payment_mode": "card",
+    "target_group": "Small Business Owner",
+    "incident_date": "2026-06-01",
+    "risk_score": 63,
+    "risk_level": "High",
+    "summary": "Synthetic Lottery/Prize Fee Scam incident reported from Addanki, Prakasam. Demo-only intelligence record for hackathon analysis.",
+    "indicators": [
+      "kyc-prakasam-demo.test",
+      "loan-fee-demo@upi"
+    ]
+  },
+  {
+    "incident_id": "TI-PRK-022",
+    "location": "Podili",
+    "mandal": "Podili",
+    "district": "Prakasam",
+    "state": "Andhra Pradesh",
+    "scam_type": "Fake KYC/Bank Alert",
+    "amount_lost": 14560,
+    "payment_mode": "wallet",
+    "target_group": "Adult",
+    "incident_date": "2026-06-02",
+    "risk_score": 78,
+    "risk_level": "Critical",
+    "summary": "Synthetic Fake KYC/Bank Alert incident reported from Podili, Prakasam. Demo-only intelligence record for hackathon analysis.",
+    "indicators": [
+      "203.0.113.24",
+      "support-refund-demo.example"
+    ]
+  },
+  {
+    "incident_id": "TI-PRK-023",
+    "location": "Ongole",
+    "mandal": "Ongole Urban",
+    "district": "Prakasam",
+    "state": "Andhra Pradesh",
+    "scam_type": "UPI Refund Fraud",
+    "amount_lost": 3585,
+    "payment_mode": "bank transfer",
+    "target_group": "Senior Citizen",
+    "incident_date": "2026-06-03",
+    "risk_score": 83,
+    "risk_level": "Critical",
+    "summary": "Synthetic UPI Refund Fraud incident reported from Ongole, Prakasam. Demo-only intelligence record for hackathon analysis.",
+    "indicators": [
+      "198.51.100.18",
+      "98XXXXXX21"
+    ]
+  },
+  {
+    "incident_id": "TI-PRK-024",
+    "location": "Addanki",
+    "mandal": "Addanki",
+    "district": "Prakasam",
+    "state": "Andhra Pradesh",
+    "scam_type": "OTP Fraud",
+    "amount_lost": 2520,
+    "payment_mode": "OTP fraud",
+    "target_group": "Student",
+    "incident_date": "2026-06-04",
+    "risk_score": 78,
+    "risk_level": "Critical",
+    "summary": "Synthetic OTP Fraud incident reported from Addanki, Prakasam. Demo-only intelligence record for hackathon analysis.",
+    "indicators": [
+      "qr-collect-demo@upi",
+      "87XXXXXX42"
+    ]
+  },
+  {
+    "incident_id": "TI-PRK-025",
+    "location": "Kandukur",
+    "mandal": "Kandukur",
+    "district": "Prakasam",
+    "state": "Andhra Pradesh",
+    "scam_type": "QR Code Scam",
+    "amount_lost": 3775,
+    "payment_mode": "UPI",
+    "target_group": "Job Seeker",
+    "incident_date": "2026-06-05",
+    "risk_score": 83,
+    "risk_level": "Critical",
+    "summary": "Synthetic QR Code Scam incident reported from Kandukur, Prakasam. Demo-only intelligence record for hackathon analysis.",
+    "indicators": [
+      "job-fee-demo@upi",
+      "fraudster-demo@upi"
+    ]
+  },
+  {
+    "incident_id": "TI-PRK-026",
+    "location": "Darsi",
+    "mandal": "Darsi",
+    "district": "Prakasam",
+    "state": "Andhra Pradesh",
+    "scam_type": "Fake Loan Processing Fee",
+    "amount_lost": 7350,
+    "payment_mode": "card",
+    "target_group": "Small Business Owner",
+    "incident_date": "2026-06-06",
+    "risk_score": 88,
+    "risk_level": "Critical",
+    "summary": "Synthetic Fake Loan Processing Fee incident reported from Darsi, Prakasam. Demo-only intelligence record for hackathon analysis.",
+    "indicators": [
+      "loan-fee-demo@upi",
+      "refund-desk-demo@upi"
+    ]
+  },
+  {
+    "incident_id": "TI-PRK-027",
+    "location": "Vetapalem",
+    "mandal": "Vetapalem",
+    "district": "Prakasam",
+    "state": "Andhra Pradesh",
+    "scam_type": "Fake Customer Care Refund",
+    "amount_lost": 2760,
+    "payment_mode": "wallet",
+    "target_group": "Adult",
+    "incident_date": "2026-06-07",
+    "risk_score": 48,
+    "risk_level": "Medium",
+    "summary": "Synthetic Fake Customer Care Refund incident reported from Vetapalem, Prakasam. Demo-only intelligence record for hackathon analysis.",
+    "indicators": [
+      "support-refund-demo.example",
+      "ACCT-DEMO-4821"
+    ]
+  },
+  {
+    "incident_id": "TI-PRK-028",
+    "location": "Kandukur",
+    "mandal": "Kandukur",
+    "district": "Prakasam",
+    "state": "Andhra Pradesh",
+    "scam_type": "Lottery/Prize Fee Scam",
+    "amount_lost": 2840,
+    "payment_mode": "bank transfer",
+    "target_group": "Senior Citizen",
+    "incident_date": "2026-06-08",
+    "risk_score": 53,
+    "risk_level": "High",
+    "summary": "Synthetic Lottery/Prize Fee Scam incident reported from Kandukur, Prakasam. Demo-only intelligence record for hackathon analysis.",
+    "indicators": [
+      "98XXXXXX21",
+      "ACCT-DEMO-9174"
+    ]
+  },
+  {
+    "incident_id": "TI-PRK-029",
+    "location": "Darsi",
+    "mandal": "Darsi",
+    "district": "Prakasam",
+    "state": "Andhra Pradesh",
+    "scam_type": "Fake KYC/Bank Alert",
+    "amount_lost": 16170,
+    "payment_mode": "OTP fraud",
+    "target_group": "Student",
+    "incident_date": "2026-06-09",
+    "risk_score": 68,
+    "risk_level": "High",
+    "summary": "Synthetic Fake KYC/Bank Alert incident reported from Darsi, Prakasam. Demo-only intelligence record for hackathon analysis.",
+    "indicators": [
+      "87XXXXXX42",
+      "suspicious-demo-login.example"
+    ]
+  },
+  {
+    "incident_id": "TI-PRK-030",
+    "location": "Kanigiri",
+    "mandal": "Kanigiri",
+    "district": "Prakasam",
+    "state": "Andhra Pradesh",
+    "scam_type": "UPI Refund Fraud",
+    "amount_lost": 4250,
+    "payment_mode": "UPI",
+    "target_group": "Job Seeker",
+    "incident_date": "2026-06-10",
+    "risk_score": 73,
+    "risk_level": "High",
+    "summary": "Synthetic UPI Refund Fraud incident reported from Kanigiri, Prakasam. Demo-only intelligence record for hackathon analysis.",
+    "indicators": [
+      "fraudster-demo@upi",
+      "kyc-prakasam-demo.test"
+    ]
+  },
+  {
+    "incident_id": "TI-PRK-031",
+    "location": "Yerragondapalem",
+    "mandal": "Yerragondapalem",
+    "district": "Prakasam",
+    "state": "Andhra Pradesh",
+    "scam_type": "OTP Fraud",
+    "amount_lost": 3080,
+    "payment_mode": "card",
+    "target_group": "Small Business Owner",
+    "incident_date": "2026-06-11",
+    "risk_score": 68,
+    "risk_level": "High",
+    "summary": "Synthetic OTP Fraud incident reported from Yerragondapalem, Prakasam. Demo-only intelligence record for hackathon analysis.",
+    "indicators": [
+      "refund-desk-demo@upi",
+      "203.0.113.24"
+    ]
+  },
+  {
+    "incident_id": "TI-PRK-032",
+    "location": "Markapur",
+    "mandal": "Markapur",
+    "district": "Prakasam",
+    "state": "Andhra Pradesh",
+    "scam_type": "QR Code Scam",
+    "amount_lost": 4440,
+    "payment_mode": "wallet",
+    "target_group": "Adult",
+    "incident_date": "2026-06-12",
+    "risk_score": 73,
+    "risk_level": "High",
+    "summary": "Synthetic QR Code Scam incident reported from Markapur, Prakasam. Demo-only intelligence record for hackathon analysis.",
+    "indicators": [
+      "ACCT-DEMO-4821",
+      "198.51.100.18"
+    ]
+  },
+  {
+    "incident_id": "TI-PRK-033",
+    "location": "Kanigiri",
+    "mandal": "Kanigiri",
+    "district": "Prakasam",
+    "state": "Andhra Pradesh",
+    "scam_type": "Fake Loan Processing Fee",
+    "amount_lost": 8575,
+    "payment_mode": "bank transfer",
+    "target_group": "Senior Citizen",
+    "incident_date": "2026-06-13",
+    "risk_score": 78,
+    "risk_level": "Critical",
+    "summary": "Synthetic Fake Loan Processing Fee incident reported from Kanigiri, Prakasam. Demo-only intelligence record for hackathon analysis.",
+    "indicators": [
+      "ACCT-DEMO-9174",
+      "qr-collect-demo@upi"
+    ]
+  },
+  {
+    "incident_id": "TI-PRK-034",
+    "location": "Yerragondapalem",
+    "mandal": "Yerragondapalem",
+    "district": "Prakasam",
+    "state": "Andhra Pradesh",
+    "scam_type": "Fake Job Registration Fee",
+    "amount_lost": 3320,
+    "payment_mode": "OTP fraud",
+    "target_group": "Student",
+    "incident_date": "2026-06-14",
+    "risk_score": 83,
+    "risk_level": "Critical",
+    "summary": "Synthetic Fake Job Registration Fee incident reported from Yerragondapalem, Prakasam. Demo-only intelligence record for hackathon analysis.",
+    "indicators": [
+      "suspicious-demo-login.example",
+      "job-fee-demo@upi"
+    ]
+  },
+  {
+    "incident_id": "TI-PRK-035",
+    "location": "Tangutur",
+    "mandal": "Tangutur",
+    "district": "Prakasam",
+    "state": "Andhra Pradesh",
+    "scam_type": "Fake Customer Care Refund",
+    "amount_lost": 3400,
+    "payment_mode": "UPI",
+    "target_group": "Job Seeker",
+    "incident_date": "2026-06-15",
+    "risk_score": 88,
+    "risk_level": "Critical",
+    "summary": "Synthetic Fake Customer Care Refund incident reported from Tangutur, Prakasam. Demo-only intelligence record for hackathon analysis.",
+    "indicators": [
+      "kyc-prakasam-demo.test",
+      "loan-fee-demo@upi"
+    ]
+  },
+  {
+    "incident_id": "TI-PRK-036",
+    "location": "Chirala",
+    "mandal": "Chirala",
+    "district": "Prakasam",
+    "state": "Andhra Pradesh",
+    "scam_type": "Fake KYC/Bank Alert",
+    "amount_lost": 17780,
+    "payment_mode": "card",
+    "target_group": "Small Business Owner",
+    "incident_date": "2026-06-16",
+    "risk_score": 58,
+    "risk_level": "High",
+    "summary": "Synthetic Fake KYC/Bank Alert incident reported from Chirala, Prakasam. Demo-only intelligence record for hackathon analysis.",
+    "indicators": [
+      "203.0.113.24",
+      "support-refund-demo.example"
+    ]
+  },
+  {
+    "incident_id": "TI-PRK-037",
+    "location": "Giddalur",
+    "mandal": "Giddalur",
+    "district": "Prakasam",
+    "state": "Andhra Pradesh",
+    "scam_type": "UPI Refund Fraud",
+    "amount_lost": 4915,
+    "payment_mode": "wallet",
+    "target_group": "Adult",
+    "incident_date": "2026-06-17",
+    "risk_score": 63,
+    "risk_level": "High",
+    "summary": "Synthetic UPI Refund Fraud incident reported from Giddalur, Prakasam. Demo-only intelligence record for hackathon analysis.",
+    "indicators": [
+      "198.51.100.18",
+      "98XXXXXX21"
+    ]
+  },
+  {
+    "incident_id": "TI-PRK-038",
+    "location": "Tangutur",
+    "mandal": "Tangutur",
+    "district": "Prakasam",
+    "state": "Andhra Pradesh",
+    "scam_type": "OTP Fraud",
+    "amount_lost": 3640,
+    "payment_mode": "bank transfer",
+    "target_group": "Senior Citizen",
+    "incident_date": "2026-06-18",
+    "risk_score": 58,
+    "risk_level": "High",
+    "summary": "Synthetic OTP Fraud incident reported from Tangutur, Prakasam. Demo-only intelligence record for hackathon analysis.",
+    "indicators": [
+      "qr-collect-demo@upi",
+      "87XXXXXX42"
+    ]
+  },
+  {
+    "incident_id": "TI-PRK-039",
+    "location": "Chirala",
+    "mandal": "Chirala",
+    "district": "Prakasam",
+    "state": "Andhra Pradesh",
+    "scam_type": "QR Code Scam",
+    "amount_lost": 5105,
+    "payment_mode": "OTP fraud",
+    "target_group": "Student",
+    "incident_date": "2026-06-19",
+    "risk_score": 63,
+    "risk_level": "High",
+    "summary": "Synthetic QR Code Scam incident reported from Chirala, Prakasam. Demo-only intelligence record for hackathon analysis.",
+    "indicators": [
+      "job-fee-demo@upi",
+      "fraudster-demo@upi"
+    ]
+  },
+  {
+    "incident_id": "TI-PRK-040",
+    "location": "Ongole",
+    "mandal": "Ongole Urban",
+    "district": "Prakasam",
+    "state": "Andhra Pradesh",
+    "scam_type": "Fake Loan Processing Fee",
+    "amount_lost": 9800,
+    "payment_mode": "UPI",
+    "target_group": "Job Seeker",
+    "incident_date": "2026-06-20",
+    "risk_score": 68,
+    "risk_level": "High",
+    "summary": "Synthetic Fake Loan Processing Fee incident reported from Ongole, Prakasam. Demo-only intelligence record for hackathon analysis.",
+    "indicators": [
+      "loan-fee-demo@upi",
+      "refund-desk-demo@upi"
+    ]
+  },
+  {
+    "incident_id": "TI-PRK-041",
+    "location": "Addanki",
+    "mandal": "Addanki",
+    "district": "Prakasam",
+    "state": "Andhra Pradesh",
+    "scam_type": "Fake Job Registration Fee",
+    "amount_lost": 3880,
+    "payment_mode": "card",
+    "target_group": "Small Business Owner",
+    "incident_date": "2026-06-21",
+    "risk_score": 73,
+    "risk_level": "High",
+    "summary": "Synthetic Fake Job Registration Fee incident reported from Addanki, Prakasam. Demo-only intelligence record for hackathon analysis.",
+    "indicators": [
+      "support-refund-demo.example",
+      "ACCT-DEMO-4821"
+    ]
+  },
+  {
+    "incident_id": "TI-PRK-042",
+    "location": "Podili",
+    "mandal": "Podili",
+    "district": "Prakasam",
+    "state": "Andhra Pradesh",
+    "scam_type": "Fake Customer Care Refund",
+    "amount_lost": 3960,
+    "payment_mode": "wallet",
+    "target_group": "Adult",
+    "incident_date": "2026-06-01",
+    "risk_score": 78,
+    "risk_level": "Critical",
+    "summary": "Synthetic Fake Customer Care Refund incident reported from Podili, Prakasam. Demo-only intelligence record for hackathon analysis.",
+    "indicators": [
+      "98XXXXXX21",
+      "ACCT-DEMO-9174"
+    ]
+  },
+  {
+    "incident_id": "TI-PRK-043",
+    "location": "Ongole",
+    "mandal": "Ongole Urban",
+    "district": "Prakasam",
+    "state": "Andhra Pradesh",
+    "scam_type": "Lottery/Prize Fee Scam",
+    "amount_lost": 4040,
+    "payment_mode": "bank transfer",
+    "target_group": "Senior Citizen",
+    "incident_date": "2026-06-02",
+    "risk_score": 83,
+    "risk_level": "Critical",
+    "summary": "Synthetic Lottery/Prize Fee Scam incident reported from Ongole, Prakasam. Demo-only intelligence record for hackathon analysis.",
+    "indicators": [
+      "87XXXXXX42",
+      "suspicious-demo-login.example"
+    ]
+  },
+  {
+    "incident_id": "TI-PRK-044",
+    "location": "Addanki",
+    "mandal": "Addanki",
+    "district": "Prakasam",
+    "state": "Andhra Pradesh",
+    "scam_type": "Fake KYC/Bank Alert",
+    "amount_lost": 19620,
+    "payment_mode": "OTP fraud",
+    "target_group": "Student",
+    "incident_date": "2026-06-03",
+    "risk_score": 96,
+    "risk_level": "Critical",
+    "summary": "Synthetic Fake KYC/Bank Alert incident reported from Addanki, Prakasam. Demo-only intelligence record for hackathon analysis.",
+    "indicators": [
+      "fraudster-demo@upi",
+      "kyc-prakasam-demo.test"
+    ]
+  },
+  {
+    "incident_id": "TI-PRK-045",
+    "location": "Kandukur",
+    "mandal": "Kandukur",
+    "district": "Prakasam",
+    "state": "Andhra Pradesh",
+    "scam_type": "OTP Fraud",
+    "amount_lost": 4200,
+    "payment_mode": "UPI",
+    "target_group": "Job Seeker",
+    "incident_date": "2026-06-04",
+    "risk_score": 48,
+    "risk_level": "Medium",
+    "summary": "Synthetic OTP Fraud incident reported from Kandukur, Prakasam. Demo-only intelligence record for hackathon analysis.",
+    "indicators": [
+      "refund-desk-demo@upi",
+      "203.0.113.24"
+    ]
+  },
+  {
+    "incident_id": "TI-PRK-046",
+    "location": "Darsi",
+    "mandal": "Darsi",
+    "district": "Prakasam",
+    "state": "Andhra Pradesh",
+    "scam_type": "QR Code Scam",
+    "amount_lost": 5770,
+    "payment_mode": "card",
+    "target_group": "Small Business Owner",
+    "incident_date": "2026-06-05",
+    "risk_score": 53,
+    "risk_level": "High",
+    "summary": "Synthetic QR Code Scam incident reported from Darsi, Prakasam. Demo-only intelligence record for hackathon analysis.",
+    "indicators": [
+      "ACCT-DEMO-4821",
+      "198.51.100.18"
+    ]
+  },
+  {
+    "incident_id": "TI-PRK-047",
+    "location": "Vetapalem",
+    "mandal": "Vetapalem",
+    "district": "Prakasam",
+    "state": "Andhra Pradesh",
+    "scam_type": "Fake Loan Processing Fee",
+    "amount_lost": 11025,
+    "payment_mode": "wallet",
+    "target_group": "Adult",
+    "incident_date": "2026-06-06",
+    "risk_score": 58,
+    "risk_level": "High",
+    "summary": "Synthetic Fake Loan Processing Fee incident reported from Vetapalem, Prakasam. Demo-only intelligence record for hackathon analysis.",
+    "indicators": [
+      "ACCT-DEMO-9174",
+      "qr-collect-demo@upi"
+    ]
+  },
+  {
+    "incident_id": "TI-PRK-048",
+    "location": "Kandukur",
+    "mandal": "Kandukur",
+    "district": "Prakasam",
+    "state": "Andhra Pradesh",
+    "scam_type": "Fake Job Registration Fee",
+    "amount_lost": 4440,
+    "payment_mode": "bank transfer",
+    "target_group": "Senior Citizen",
+    "incident_date": "2026-06-07",
+    "risk_score": 63,
+    "risk_level": "High",
+    "summary": "Synthetic Fake Job Registration Fee incident reported from Kandukur, Prakasam. Demo-only intelligence record for hackathon analysis.",
+    "indicators": [
+      "suspicious-demo-login.example",
+      "job-fee-demo@upi"
+    ]
+  },
+  {
+    "incident_id": "TI-PRK-049",
+    "location": "Darsi",
+    "mandal": "Darsi",
+    "district": "Prakasam",
+    "state": "Andhra Pradesh",
+    "scam_type": "Fake Customer Care Refund",
+    "amount_lost": 4520,
+    "payment_mode": "OTP fraud",
+    "target_group": "Student",
+    "incident_date": "2026-06-08",
+    "risk_score": 68,
+    "risk_level": "High",
+    "summary": "Synthetic Fake Customer Care Refund incident reported from Darsi, Prakasam. Demo-only intelligence record for hackathon analysis.",
+    "indicators": [
+      "kyc-prakasam-demo.test",
+      "loan-fee-demo@upi"
+    ]
+  },
+  {
+    "incident_id": "TI-PRK-050",
+    "location": "Kanigiri",
+    "mandal": "Kanigiri",
+    "district": "Prakasam",
+    "state": "Andhra Pradesh",
+    "scam_type": "Lottery/Prize Fee Scam",
+    "amount_lost": 4600,
+    "payment_mode": "UPI",
+    "target_group": "Job Seeker",
+    "incident_date": "2026-06-09",
+    "risk_score": 73,
+    "risk_level": "High",
+    "summary": "Synthetic Lottery/Prize Fee Scam incident reported from Kanigiri, Prakasam. Demo-only intelligence record for hackathon analysis.",
+    "indicators": [
+      "203.0.113.24",
+      "support-refund-demo.example"
+    ]
+  },
+  {
+    "incident_id": "TI-PRK-051",
+    "location": "Yerragondapalem",
+    "mandal": "Yerragondapalem",
+    "district": "Prakasam",
+    "state": "Andhra Pradesh",
+    "scam_type": "Fake KYC/Bank Alert",
+    "amount_lost": 21230,
+    "payment_mode": "card",
+    "target_group": "Small Business Owner",
+    "incident_date": "2026-06-10",
+    "risk_score": 88,
+    "risk_level": "Critical",
+    "summary": "Synthetic Fake KYC/Bank Alert incident reported from Yerragondapalem, Prakasam. Demo-only intelligence record for hackathon analysis.",
+    "indicators": [
+      "198.51.100.18",
+      "98XXXXXX21"
+    ]
+  },
+  {
+    "incident_id": "TI-PRK-052",
+    "location": "Markapur",
+    "mandal": "Markapur",
+    "district": "Prakasam",
+    "state": "Andhra Pradesh",
+    "scam_type": "UPI Refund Fraud",
+    "amount_lost": 6340,
+    "payment_mode": "wallet",
+    "target_group": "Adult",
+    "incident_date": "2026-06-11",
+    "risk_score": 93,
+    "risk_level": "Critical",
+    "summary": "Synthetic UPI Refund Fraud incident reported from Markapur, Prakasam. Demo-only intelligence record for hackathon analysis.",
+    "indicators": [
+      "qr-collect-demo@upi",
+      "87XXXXXX42"
+    ]
+  },
+  {
+    "incident_id": "TI-PRK-053",
+    "location": "Kanigiri",
+    "mandal": "Kanigiri",
+    "district": "Prakasam",
+    "state": "Andhra Pradesh",
+    "scam_type": "OTP Fraud",
+    "amount_lost": 4840,
+    "payment_mode": "bank transfer",
+    "target_group": "Senior Citizen",
+    "incident_date": "2026-06-12",
+    "risk_score": 88,
+    "risk_level": "Critical",
+    "summary": "Synthetic OTP Fraud incident reported from Kanigiri, Prakasam. Demo-only intelligence record for hackathon analysis.",
+    "indicators": [
+      "job-fee-demo@upi",
+      "fraudster-demo@upi"
+    ]
+  },
+  {
+    "incident_id": "TI-PRK-054",
+    "location": "Yerragondapalem",
+    "mandal": "Yerragondapalem",
+    "district": "Prakasam",
+    "state": "Andhra Pradesh",
+    "scam_type": "Fake Loan Processing Fee",
+    "amount_lost": 12250,
+    "payment_mode": "OTP fraud",
+    "target_group": "Student",
+    "incident_date": "2026-06-13",
+    "risk_score": 48,
+    "risk_level": "Medium",
+    "summary": "Synthetic Fake Loan Processing Fee incident reported from Yerragondapalem, Prakasam. Demo-only intelligence record for hackathon analysis.",
+    "indicators": [
+      "loan-fee-demo@upi",
+      "refund-desk-demo@upi"
+    ]
+  },
+  {
+    "incident_id": "TI-PRK-055",
+    "location": "Tangutur",
+    "mandal": "Tangutur",
+    "district": "Prakasam",
+    "state": "Andhra Pradesh",
+    "scam_type": "Fake Job Registration Fee",
+    "amount_lost": 5000,
+    "payment_mode": "UPI",
+    "target_group": "Job Seeker",
+    "incident_date": "2026-06-14",
+    "risk_score": 53,
+    "risk_level": "High",
+    "summary": "Synthetic Fake Job Registration Fee incident reported from Tangutur, Prakasam. Demo-only intelligence record for hackathon analysis.",
+    "indicators": [
+      "support-refund-demo.example",
+      "ACCT-DEMO-4821"
+    ]
+  },
+  {
+    "incident_id": "TI-PRK-056",
+    "location": "Chirala",
+    "mandal": "Chirala",
+    "district": "Prakasam",
+    "state": "Andhra Pradesh",
+    "scam_type": "Fake Customer Care Refund",
+    "amount_lost": 5080,
+    "payment_mode": "card",
+    "target_group": "Small Business Owner",
+    "incident_date": "2026-06-15",
+    "risk_score": 58,
+    "risk_level": "High",
+    "summary": "Synthetic Fake Customer Care Refund incident reported from Chirala, Prakasam. Demo-only intelligence record for hackathon analysis.",
+    "indicators": [
+      "98XXXXXX21",
+      "ACCT-DEMO-9174"
+    ]
+  },
+  {
+    "incident_id": "TI-PRK-057",
+    "location": "Giddalur",
+    "mandal": "Giddalur",
+    "district": "Prakasam",
+    "state": "Andhra Pradesh",
+    "scam_type": "Lottery/Prize Fee Scam",
+    "amount_lost": 5160,
+    "payment_mode": "wallet",
+    "target_group": "Adult",
+    "incident_date": "2026-06-16",
+    "risk_score": 63,
+    "risk_level": "High",
+    "summary": "Synthetic Lottery/Prize Fee Scam incident reported from Giddalur, Prakasam. Demo-only intelligence record for hackathon analysis.",
+    "indicators": [
+      "87XXXXXX42",
+      "suspicious-demo-login.example"
+    ]
+  },
+  {
+    "incident_id": "TI-PRK-058",
+    "location": "Tangutur",
+    "mandal": "Tangutur",
+    "district": "Prakasam",
+    "state": "Andhra Pradesh",
+    "scam_type": "Fake KYC/Bank Alert",
+    "amount_lost": 22840,
+    "payment_mode": "bank transfer",
+    "target_group": "Senior Citizen",
+    "incident_date": "2026-06-17",
+    "risk_score": 78,
+    "risk_level": "Critical",
+    "summary": "Synthetic Fake KYC/Bank Alert incident reported from Tangutur, Prakasam. Demo-only intelligence record for hackathon analysis.",
+    "indicators": [
+      "fraudster-demo@upi",
+      "kyc-prakasam-demo.test"
+    ]
+  },
+  {
+    "incident_id": "TI-PRK-059",
+    "location": "Chirala",
+    "mandal": "Chirala",
+    "district": "Prakasam",
+    "state": "Andhra Pradesh",
+    "scam_type": "UPI Refund Fraud",
+    "amount_lost": 7005,
+    "payment_mode": "OTP fraud",
+    "target_group": "Student",
+    "incident_date": "2026-06-18",
+    "risk_score": 83,
+    "risk_level": "Critical",
+    "summary": "Synthetic UPI Refund Fraud incident reported from Chirala, Prakasam. Demo-only intelligence record for hackathon analysis.",
+    "indicators": [
+      "refund-desk-demo@upi",
+      "203.0.113.24"
+    ]
+  },
+  {
+    "incident_id": "TI-PRK-060",
+    "location": "Ongole",
+    "mandal": "Ongole Urban",
+    "district": "Prakasam",
+    "state": "Andhra Pradesh",
+    "scam_type": "OTP Fraud",
+    "amount_lost": 5400,
+    "payment_mode": "UPI",
+    "target_group": "Job Seeker",
+    "incident_date": "2026-06-19",
+    "risk_score": 78,
+    "risk_level": "Critical",
+    "summary": "Synthetic OTP Fraud incident reported from Ongole, Prakasam. Demo-only intelligence record for hackathon analysis.",
+    "indicators": [
+      "ACCT-DEMO-4821",
+      "198.51.100.18"
+    ]
+  },
+  {
+    "incident_id": "TI-PRK-061",
+    "location": "Addanki",
+    "mandal": "Addanki",
+    "district": "Prakasam",
+    "state": "Andhra Pradesh",
+    "scam_type": "QR Code Scam",
+    "amount_lost": 7195,
+    "payment_mode": "card",
+    "target_group": "Small Business Owner",
+    "incident_date": "2026-06-20",
+    "risk_score": 83,
+    "risk_level": "Critical",
+    "summary": "Synthetic QR Code Scam incident reported from Addanki, Prakasam. Demo-only intelligence record for hackathon analysis.",
+    "indicators": [
+      "ACCT-DEMO-9174",
+      "qr-collect-demo@upi"
+    ]
+  },
+  {
+    "incident_id": "TI-PRK-062",
+    "location": "Podili",
+    "mandal": "Podili",
+    "district": "Prakasam",
+    "state": "Andhra Pradesh",
+    "scam_type": "Fake Loan Processing Fee",
+    "amount_lost": 13650,
+    "payment_mode": "wallet",
+    "target_group": "Adult",
+    "incident_date": "2026-06-21",
+    "risk_score": 88,
+    "risk_level": "Critical",
+    "summary": "Synthetic Fake Loan Processing Fee incident reported from Podili, Prakasam. Demo-only intelligence record for hackathon analysis.",
+    "indicators": [
+      "suspicious-demo-login.example",
+      "job-fee-demo@upi"
+    ]
+  },
+  {
+    "incident_id": "TI-PRK-063",
+    "location": "Ongole",
+    "mandal": "Ongole Urban",
+    "district": "Prakasam",
+    "state": "Andhra Pradesh",
+    "scam_type": "Fake Customer Care Refund",
+    "amount_lost": 5640,
+    "payment_mode": "bank transfer",
+    "target_group": "Senior Citizen",
+    "incident_date": "2026-06-01",
+    "risk_score": 48,
+    "risk_level": "Medium",
+    "summary": "Synthetic Fake Customer Care Refund incident reported from Ongole, Prakasam. Demo-only intelligence record for hackathon analysis.",
+    "indicators": [
+      "kyc-prakasam-demo.test",
+      "loan-fee-demo@upi"
+    ]
+  },
+  {
+    "incident_id": "TI-PRK-064",
+    "location": "Addanki",
+    "mandal": "Addanki",
+    "district": "Prakasam",
+    "state": "Andhra Pradesh",
+    "scam_type": "Lottery/Prize Fee Scam",
+    "amount_lost": 5720,
+    "payment_mode": "OTP fraud",
+    "target_group": "Student",
+    "incident_date": "2026-06-02",
+    "risk_score": 53,
+    "risk_level": "High",
+    "summary": "Synthetic Lottery/Prize Fee Scam incident reported from Addanki, Prakasam. Demo-only intelligence record for hackathon analysis.",
+    "indicators": [
+      "203.0.113.24",
+      "support-refund-demo.example"
+    ]
+  },
+  {
+    "incident_id": "TI-PRK-065",
+    "location": "Kandukur",
+    "mandal": "Kandukur",
+    "district": "Prakasam",
+    "state": "Andhra Pradesh",
+    "scam_type": "Fake KYC/Bank Alert",
+    "amount_lost": 24450,
+    "payment_mode": "UPI",
+    "target_group": "Job Seeker",
+    "incident_date": "2026-06-03",
+    "risk_score": 68,
+    "risk_level": "High",
+    "summary": "Synthetic Fake KYC/Bank Alert incident reported from Kandukur, Prakasam. Demo-only intelligence record for hackathon analysis.",
+    "indicators": [
+      "198.51.100.18",
+      "98XXXXXX21"
+    ]
+  },
+  {
+    "incident_id": "TI-PRK-066",
+    "location": "Darsi",
+    "mandal": "Darsi",
+    "district": "Prakasam",
+    "state": "Andhra Pradesh",
+    "scam_type": "UPI Refund Fraud",
+    "amount_lost": 7670,
+    "payment_mode": "card",
+    "target_group": "Small Business Owner",
+    "incident_date": "2026-06-04",
+    "risk_score": 73,
+    "risk_level": "High",
+    "summary": "Synthetic UPI Refund Fraud incident reported from Darsi, Prakasam. Demo-only intelligence record for hackathon analysis.",
+    "indicators": [
+      "qr-collect-demo@upi",
+      "87XXXXXX42"
+    ]
+  },
+  {
+    "incident_id": "TI-PRK-067",
+    "location": "Vetapalem",
+    "mandal": "Vetapalem",
+    "district": "Prakasam",
+    "state": "Andhra Pradesh",
+    "scam_type": "OTP Fraud",
+    "amount_lost": 5960,
+    "payment_mode": "wallet",
+    "target_group": "Adult",
+    "incident_date": "2026-06-05",
+    "risk_score": 68,
+    "risk_level": "High",
+    "summary": "Synthetic OTP Fraud incident reported from Vetapalem, Prakasam. Demo-only intelligence record for hackathon analysis.",
+    "indicators": [
+      "job-fee-demo@upi",
+      "fraudster-demo@upi"
+    ]
+  },
+  {
+    "incident_id": "TI-PRK-068",
+    "location": "Kandukur",
+    "mandal": "Kandukur",
+    "district": "Prakasam",
+    "state": "Andhra Pradesh",
+    "scam_type": "QR Code Scam",
+    "amount_lost": 7860,
+    "payment_mode": "bank transfer",
+    "target_group": "Senior Citizen",
+    "incident_date": "2026-06-06",
+    "risk_score": 73,
+    "risk_level": "High",
+    "summary": "Synthetic QR Code Scam incident reported from Kandukur, Prakasam. Demo-only intelligence record for hackathon analysis.",
+    "indicators": [
+      "loan-fee-demo@upi",
+      "refund-desk-demo@upi"
+    ]
+  },
+  {
+    "incident_id": "TI-PRK-069",
+    "location": "Darsi",
+    "mandal": "Darsi",
+    "district": "Prakasam",
+    "state": "Andhra Pradesh",
+    "scam_type": "Fake Loan Processing Fee",
+    "amount_lost": 14875,
+    "payment_mode": "OTP fraud",
+    "target_group": "Student",
+    "incident_date": "2026-06-07",
+    "risk_score": 78,
+    "risk_level": "Critical",
+    "summary": "Synthetic Fake Loan Processing Fee incident reported from Darsi, Prakasam. Demo-only intelligence record for hackathon analysis.",
+    "indicators": [
+      "support-refund-demo.example",
+      "ACCT-DEMO-4821"
+    ]
+  },
+  {
+    "incident_id": "TI-PRK-070",
+    "location": "Kanigiri",
+    "mandal": "Kanigiri",
+    "district": "Prakasam",
+    "state": "Andhra Pradesh",
+    "scam_type": "Fake Job Registration Fee",
+    "amount_lost": 6200,
+    "payment_mode": "UPI",
+    "target_group": "Job Seeker",
+    "incident_date": "2026-06-08",
+    "risk_score": 83,
+    "risk_level": "Critical",
+    "summary": "Synthetic Fake Job Registration Fee incident reported from Kanigiri, Prakasam. Demo-only intelligence record for hackathon analysis.",
+    "indicators": [
+      "98XXXXXX21",
+      "ACCT-DEMO-9174"
+    ]
+  },
+  {
+    "incident_id": "TI-PRK-071",
+    "location": "Yerragondapalem",
+    "mandal": "Yerragondapalem",
+    "district": "Prakasam",
+    "state": "Andhra Pradesh",
+    "scam_type": "Fake Customer Care Refund",
+    "amount_lost": 6280,
+    "payment_mode": "card",
+    "target_group": "Small Business Owner",
+    "incident_date": "2026-06-09",
+    "risk_score": 88,
+    "risk_level": "Critical",
+    "summary": "Synthetic Fake Customer Care Refund incident reported from Yerragondapalem, Prakasam. Demo-only intelligence record for hackathon analysis.",
+    "indicators": [
+      "87XXXXXX42",
+      "suspicious-demo-login.example"
+    ]
+  },
+  {
+    "incident_id": "TI-PRK-072",
+    "location": "Markapur",
+    "mandal": "Markapur",
+    "district": "Prakasam",
+    "state": "Andhra Pradesh",
+    "scam_type": "Fake KYC/Bank Alert",
+    "amount_lost": 26060,
+    "payment_mode": "wallet",
+    "target_group": "Adult",
+    "incident_date": "2026-06-10",
+    "risk_score": 58,
+    "risk_level": "High",
+    "summary": "Synthetic Fake KYC/Bank Alert incident reported from Markapur, Prakasam. Demo-only intelligence record for hackathon analysis.",
+    "indicators": [
+      "fraudster-demo@upi",
+      "kyc-prakasam-demo.test"
+    ]
+  }
+]

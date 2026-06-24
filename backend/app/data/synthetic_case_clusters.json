@@ -1,0 +1,198 @@
+[
+  {
+    "cluster_id": "CL-KYC-OTP-A",
+    "cluster_name": "KYC-OTP Cluster A",
+    "suspected_fraud_pattern": "Fake bank KYC messages with OTP harvesting and lookalike domains",
+    "risk_score": 92,
+    "linked_case_count": 16,
+    "total_amount_lost": 186000,
+    "common_risk_factors": [
+      "KYC/account-blocking threat",
+      "OTP request",
+      "lookalike domain"
+    ],
+    "shared_indicators": [
+      "98XXXXXX21",
+      "kyc-prakasam-demo.test",
+      "ACCT-DEMO-4821"
+    ],
+    "linked_cases": [
+      "TI-PRK-001",
+      "TI-PRK-009",
+      "TI-PRK-017",
+      "TI-PRK-025"
+    ],
+    "recommended_police_action": "Preserve synthetic evidence, compare shared indicators, prioritize victim outreach, and prepare a verified-data request workflow for real deployment.",
+    "evidence_summary": "KYC-OTP Cluster A connects 16 synthetic complaints through 98XXXXXX21, kyc-prakasam-demo.test, ACCT-DEMO-4821 with repeated script and receiver patterns."
+  },
+  {
+    "cluster_id": "CL-UPI-REFUND-B",
+    "cluster_name": "UPI Refund Cluster B",
+    "suspected_fraud_pattern": "Refund and collect-request scripts targeting payment app users",
+    "risk_score": 88,
+    "linked_case_count": 14,
+    "total_amount_lost": 84500,
+    "common_risk_factors": [
+      "refund language",
+      "collect request",
+      "first-time receiver"
+    ],
+    "shared_indicators": [
+      "fraudster-demo@upi",
+      "qr-collect-demo@upi",
+      "203.0.113.24"
+    ],
+    "linked_cases": [
+      "TI-PRK-002",
+      "TI-PRK-010",
+      "TI-PRK-018",
+      "TI-PRK-026"
+    ],
+    "recommended_police_action": "Preserve synthetic evidence, compare shared indicators, prioritize victim outreach, and prepare a verified-data request workflow for real deployment.",
+    "evidence_summary": "UPI Refund Cluster B connects 14 synthetic complaints through fraudster-demo@upi, qr-collect-demo@upi, 203.0.113.24 with repeated script and receiver patterns."
+  },
+  {
+    "cluster_id": "CL-QR-C",
+    "cluster_name": "QR Collect Cluster C",
+    "suspected_fraud_pattern": "QR scan to receive money pattern with UPI PIN pressure",
+    "risk_score": 86,
+    "linked_case_count": 12,
+    "total_amount_lost": 62400,
+    "common_risk_factors": [
+      "QR code request",
+      "UPI PIN pressure",
+      "urgent refund"
+    ],
+    "shared_indicators": [
+      "qr-collect-demo@upi",
+      "scan QR to receive refund"
+    ],
+    "linked_cases": [
+      "TI-PRK-004",
+      "TI-PRK-012",
+      "TI-PRK-020"
+    ],
+    "recommended_police_action": "Preserve synthetic evidence, compare shared indicators, prioritize victim outreach, and prepare a verified-data request workflow for real deployment.",
+    "evidence_summary": "QR Collect Cluster C connects 12 synthetic complaints through qr-collect-demo@upi, scan QR to receive refund with repeated script and receiver patterns."
+  },
+  {
+    "cluster_id": "CL-JOB-D",
+    "cluster_name": "Job Fee Cluster D",
+    "suspected_fraud_pattern": "Student and job-seeker registration fee pattern",
+    "risk_score": 78,
+    "linked_case_count": 9,
+    "total_amount_lost": 39600,
+    "common_risk_factors": [
+      "job registration fee",
+      "training fee",
+      "student targeting"
+    ],
+    "shared_indicators": [
+      "job-fee-demo@upi",
+      "ACCT-DEMO-9174"
+    ],
+    "linked_cases": [
+      "TI-PRK-006",
+      "TI-PRK-014",
+      "TI-PRK-022"
+    ],
+    "recommended_police_action": "Preserve synthetic evidence, compare shared indicators, prioritize victim outreach, and prepare a verified-data request workflow for real deployment.",
+    "evidence_summary": "Job Fee Cluster D connects 9 synthetic complaints through job-fee-demo@upi, ACCT-DEMO-9174 with repeated script and receiver patterns."
+  },
+  {
+    "cluster_id": "CL-LOAN-E",
+    "cluster_name": "Loan Fee Cluster E",
+    "suspected_fraud_pattern": "Fake instant loan approval and processing fee pattern",
+    "risk_score": 80,
+    "linked_case_count": 10,
+    "total_amount_lost": 73100,
+    "common_risk_factors": [
+      "loan approval",
+      "processing fee",
+      "same-day disbursal"
+    ],
+    "shared_indicators": [
+      "loan-fee-demo@upi",
+      "198.51.100.18"
+    ],
+    "linked_cases": [
+      "TI-PRK-005",
+      "TI-PRK-013",
+      "TI-PRK-021"
+    ],
+    "recommended_police_action": "Preserve synthetic evidence, compare shared indicators, prioritize victim outreach, and prepare a verified-data request workflow for real deployment.",
+    "evidence_summary": "Loan Fee Cluster E connects 10 synthetic complaints through loan-fee-demo@upi, 198.51.100.18 with repeated script and receiver patterns."
+  },
+  {
+    "cluster_id": "CL-CARE-F",
+    "cluster_name": "Customer Care Refund Cluster F",
+    "suspected_fraud_pattern": "Fake support desk refund pattern with activation payment demand",
+    "risk_score": 82,
+    "linked_case_count": 8,
+    "total_amount_lost": 45900,
+    "common_risk_factors": [
+      "customer care",
+      "refund desk",
+      "activation amount"
+    ],
+    "shared_indicators": [
+      "refund-desk-demo@upi",
+      "support-refund-demo.example"
+    ],
+    "linked_cases": [
+      "TI-PRK-007",
+      "TI-PRK-015",
+      "TI-PRK-023"
+    ],
+    "recommended_police_action": "Preserve synthetic evidence, compare shared indicators, prioritize victim outreach, and prepare a verified-data request workflow for real deployment.",
+    "evidence_summary": "Customer Care Refund Cluster F connects 8 synthetic complaints through refund-desk-demo@upi, support-refund-demo.example with repeated script and receiver patterns."
+  },
+  {
+    "cluster_id": "CL-PRIZE-G",
+    "cluster_name": "Prize Release Cluster G",
+    "suspected_fraud_pattern": "Lottery and prize release fee pattern in rural areas",
+    "risk_score": 70,
+    "linked_case_count": 6,
+    "total_amount_lost": 28800,
+    "common_risk_factors": [
+      "winner claim",
+      "release fee",
+      "gift reward"
+    ],
+    "shared_indicators": [
+      "prize-release-demo.example",
+      "prize-fee-demo@upi"
+    ],
+    "linked_cases": [
+      "TI-PRK-008",
+      "TI-PRK-016"
+    ],
+    "recommended_police_action": "Preserve synthetic evidence, compare shared indicators, prioritize victim outreach, and prepare a verified-data request workflow for real deployment.",
+    "evidence_summary": "Prize Release Cluster G connects 6 synthetic complaints through prize-release-demo.example, prize-fee-demo@upi with repeated script and receiver patterns."
+  },
+  {
+    "cluster_id": "CL-MIX-H",
+    "cluster_name": "Cross-Channel Cluster H",
+    "suspected_fraud_pattern": "Shared masked phone and domain infrastructure across KYC and UPI refund scripts",
+    "risk_score": 84,
+    "linked_case_count": 11,
+    "total_amount_lost": 112500,
+    "common_risk_factors": [
+      "shared phone placeholder",
+      "shared hosting indicator",
+      "multi-scam scripts"
+    ],
+    "shared_indicators": [
+      "87XXXXXX42",
+      "suspicious-demo-login.example",
+      "refund-desk-demo@upi"
+    ],
+    "linked_cases": [
+      "TI-PRK-030",
+      "TI-PRK-038",
+      "TI-PRK-046"
+    ],
+    "recommended_police_action": "Preserve synthetic evidence, compare shared indicators, prioritize victim outreach, and prepare a verified-data request workflow for real deployment.",
+    "evidence_summary": "Cross-Channel Cluster H connects 11 synthetic complaints through 87XXXXXX42, suspicious-demo-login.example, refund-desk-demo@upi with repeated script and receiver patterns."
+  }
+]

@@ -1,0 +1,514 @@
+[
+  {
+    "indicator_id": "IND-PHONE-001",
+    "indicator_type": "masked_phone",
+    "value": "98XXXXXX21",
+    "risk_score": 86,
+    "related_case_count": 11,
+    "linked_scam_categories": [
+      "Fake KYC/Bank Alert",
+      "OTP Fraud"
+    ],
+    "first_seen": "2026-06-01",
+    "last_seen": "2026-06-11",
+    "related_locations": [
+      "Ongole",
+      "Darsi"
+    ],
+    "related_indicators": [
+      "kyc-prakasam-demo.test",
+      "ACCT-DEMO-4821"
+    ],
+    "police_triage_priority": "Critical Immediate Triage",
+    "intelligence_summary": "Synthetic indicator 98XXXXXX21 links 11 demo reports across Ongole, Darsi. Use only as hackathon intelligence data."
+  },
+  {
+    "indicator_id": "IND-PHONE-002",
+    "indicator_type": "masked_phone",
+    "value": "87XXXXXX42",
+    "risk_score": 78,
+    "related_case_count": 8,
+    "linked_scam_categories": [
+      "Fake Customer Care Refund",
+      "UPI Refund Fraud"
+    ],
+    "first_seen": "2026-06-02",
+    "last_seen": "2026-06-12",
+    "related_locations": [
+      "Chirala",
+      "Vetapalem"
+    ],
+    "related_indicators": [
+      "refund-desk-demo@upi"
+    ],
+    "police_triage_priority": "High Priority",
+    "intelligence_summary": "Synthetic indicator 87XXXXXX42 links 8 demo reports across Chirala, Vetapalem. Use only as hackathon intelligence data."
+  },
+  {
+    "indicator_id": "IND-UPI-001",
+    "indicator_type": "upi_placeholder",
+    "value": "fraudster-demo@upi",
+    "risk_score": 91,
+    "related_case_count": 14,
+    "linked_scam_categories": [
+      "UPI Refund Fraud",
+      "QR Code Scam"
+    ],
+    "first_seen": "2026-06-03",
+    "last_seen": "2026-06-13",
+    "related_locations": [
+      "Ongole",
+      "Kandukur"
+    ],
+    "related_indicators": [
+      "203.0.113.24",
+      "qr-collect-demo@upi"
+    ],
+    "police_triage_priority": "Critical Immediate Triage",
+    "intelligence_summary": "Synthetic indicator fraudster-demo@upi links 14 demo reports across Ongole, Kandukur. Use only as hackathon intelligence data."
+  },
+  {
+    "indicator_id": "IND-UPI-002",
+    "indicator_type": "upi_placeholder",
+    "value": "refund-desk-demo@upi",
+    "risk_score": 84,
+    "related_case_count": 9,
+    "linked_scam_categories": [
+      "Fake Customer Care Refund",
+      "UPI Refund Fraud"
+    ],
+    "first_seen": "2026-06-04",
+    "last_seen": "2026-06-14",
+    "related_locations": [
+      "Chirala",
+      "Tangutur"
+    ],
+    "related_indicators": [
+      "support-refund-demo.example"
+    ],
+    "police_triage_priority": "High Priority",
+    "intelligence_summary": "Synthetic indicator refund-desk-demo@upi links 9 demo reports across Chirala, Tangutur. Use only as hackathon intelligence data."
+  },
+  {
+    "indicator_id": "IND-UPI-003",
+    "indicator_type": "upi_placeholder",
+    "value": "job-fee-demo@upi",
+    "risk_score": 75,
+    "related_case_count": 7,
+    "linked_scam_categories": [
+      "Fake Job Registration Fee"
+    ],
+    "first_seen": "2026-06-05",
+    "last_seen": "2026-06-15",
+    "related_locations": [
+      "Markapur",
+      "Giddalur"
+    ],
+    "related_indicators": [
+      "ACCT-DEMO-9174"
+    ],
+    "police_triage_priority": "High Priority",
+    "intelligence_summary": "Synthetic indicator job-fee-demo@upi links 7 demo reports across Markapur, Giddalur. Use only as hackathon intelligence data."
+  },
+  {
+    "indicator_id": "IND-UPI-004",
+    "indicator_type": "upi_placeholder",
+    "value": "loan-fee-demo@upi",
+    "risk_score": 81,
+    "related_case_count": 10,
+    "linked_scam_categories": [
+      "Fake Loan Processing Fee"
+    ],
+    "first_seen": "2026-06-06",
+    "last_seen": "2026-06-16",
+    "related_locations": [
+      "Kanigiri",
+      "Podili"
+    ],
+    "related_indicators": [
+      "198.51.100.18"
+    ],
+    "police_triage_priority": "High Priority",
+    "intelligence_summary": "Synthetic indicator loan-fee-demo@upi links 10 demo reports across Kanigiri, Podili. Use only as hackathon intelligence data."
+  },
+  {
+    "indicator_id": "IND-UPI-005",
+    "indicator_type": "upi_placeholder",
+    "value": "qr-collect-demo@upi",
+    "risk_score": 88,
+    "related_case_count": 12,
+    "linked_scam_categories": [
+      "QR Code Scam",
+      "UPI Refund Fraud"
+    ],
+    "first_seen": "2026-06-07",
+    "last_seen": "2026-06-17",
+    "related_locations": [
+      "Kandukur",
+      "Ongole"
+    ],
+    "related_indicators": [
+      "fraudster-demo@upi"
+    ],
+    "police_triage_priority": "Critical Immediate Triage",
+    "intelligence_summary": "Synthetic indicator qr-collect-demo@upi links 12 demo reports across Kandukur, Ongole. Use only as hackathon intelligence data."
+  },
+  {
+    "indicator_id": "IND-ACCT-001",
+    "indicator_type": "account_placeholder",
+    "value": "ACCT-DEMO-4821",
+    "risk_score": 82,
+    "related_case_count": 10,
+    "linked_scam_categories": [
+      "Fake KYC/Bank Alert"
+    ],
+    "first_seen": "2026-06-08",
+    "last_seen": "2026-06-18",
+    "related_locations": [
+      "Darsi",
+      "Ongole"
+    ],
+    "related_indicators": [
+      "98XXXXXX21"
+    ],
+    "police_triage_priority": "High Priority",
+    "intelligence_summary": "Synthetic indicator ACCT-DEMO-4821 links 10 demo reports across Darsi, Ongole. Use only as hackathon intelligence data."
+  },
+  {
+    "indicator_id": "IND-ACCT-002",
+    "indicator_type": "account_placeholder",
+    "value": "ACCT-DEMO-9174",
+    "risk_score": 73,
+    "related_case_count": 6,
+    "linked_scam_categories": [
+      "Fake Job Registration Fee",
+      "Fake Loan Processing Fee"
+    ],
+    "first_seen": "2026-06-09",
+    "last_seen": "2026-06-19",
+    "related_locations": [
+      "Markapur",
+      "Giddalur"
+    ],
+    "related_indicators": [
+      "job-fee-demo@upi"
+    ],
+    "police_triage_priority": "High Priority",
+    "intelligence_summary": "Synthetic indicator ACCT-DEMO-9174 links 6 demo reports across Markapur, Giddalur. Use only as hackathon intelligence data."
+  },
+  {
+    "indicator_id": "IND-DOM-001",
+    "indicator_type": "domain",
+    "value": "suspicious-demo-login.example",
+    "risk_score": 87,
+    "related_case_count": 13,
+    "linked_scam_categories": [
+      "Phishing",
+      "Fake KYC/Bank Alert"
+    ],
+    "first_seen": "2026-06-10",
+    "last_seen": "2026-06-20",
+    "related_locations": [
+      "Ongole",
+      "Addanki"
+    ],
+    "related_indicators": [
+      "203.0.113.24"
+    ],
+    "police_triage_priority": "Critical Immediate Triage",
+    "intelligence_summary": "Synthetic indicator suspicious-demo-login.example links 13 demo reports across Ongole, Addanki. Use only as hackathon intelligence data."
+  },
+  {
+    "indicator_id": "IND-DOM-002",
+    "indicator_type": "domain",
+    "value": "kyc-prakasam-demo.test",
+    "risk_score": 89,
+    "related_case_count": 15,
+    "linked_scam_categories": [
+      "Fake KYC/Bank Alert",
+      "OTP Fraud"
+    ],
+    "first_seen": "2026-06-01",
+    "last_seen": "2026-06-11",
+    "related_locations": [
+      "Ongole",
+      "Darsi",
+      "Podili"
+    ],
+    "related_indicators": [
+      "98XXXXXX21"
+    ],
+    "police_triage_priority": "Critical Immediate Triage",
+    "intelligence_summary": "Synthetic indicator kyc-prakasam-demo.test links 15 demo reports across Ongole, Darsi, Podili. Use only as hackathon intelligence data."
+  },
+  {
+    "indicator_id": "IND-DOM-003",
+    "indicator_type": "domain",
+    "value": "support-refund-demo.example",
+    "risk_score": 79,
+    "related_case_count": 8,
+    "linked_scam_categories": [
+      "Fake Customer Care Refund"
+    ],
+    "first_seen": "2026-06-02",
+    "last_seen": "2026-06-12",
+    "related_locations": [
+      "Chirala",
+      "Tangutur"
+    ],
+    "related_indicators": [
+      "refund-desk-demo@upi"
+    ],
+    "police_triage_priority": "High Priority",
+    "intelligence_summary": "Synthetic indicator support-refund-demo.example links 8 demo reports across Chirala, Tangutur. Use only as hackathon intelligence data."
+  },
+  {
+    "indicator_id": "IND-IP-001",
+    "indicator_type": "demo_ip",
+    "value": "203.0.113.24",
+    "risk_score": 76,
+    "related_case_count": 7,
+    "linked_scam_categories": [
+      "Phishing",
+      "UPI Refund Fraud"
+    ],
+    "first_seen": "2026-06-03",
+    "last_seen": "2026-06-13",
+    "related_locations": [
+      "Ongole",
+      "Kandukur"
+    ],
+    "related_indicators": [
+      "suspicious-demo-login.example"
+    ],
+    "police_triage_priority": "High Priority",
+    "intelligence_summary": "Synthetic indicator 203.0.113.24 links 7 demo reports across Ongole, Kandukur. Use only as hackathon intelligence data."
+  },
+  {
+    "indicator_id": "IND-IP-002",
+    "indicator_type": "demo_ip",
+    "value": "198.51.100.18",
+    "risk_score": 72,
+    "related_case_count": 6,
+    "linked_scam_categories": [
+      "Fake Loan Processing Fee"
+    ],
+    "first_seen": "2026-06-04",
+    "last_seen": "2026-06-14",
+    "related_locations": [
+      "Kanigiri",
+      "Podili"
+    ],
+    "related_indicators": [
+      "loan-fee-demo@upi"
+    ],
+    "police_triage_priority": "High Priority",
+    "intelligence_summary": "Synthetic indicator 198.51.100.18 links 6 demo reports across Kanigiri, Podili. Use only as hackathon intelligence data."
+  },
+  {
+    "indicator_id": "IND-IP-003",
+    "indicator_type": "demo_ip",
+    "value": "192.0.2.55",
+    "risk_score": 69,
+    "related_case_count": 5,
+    "linked_scam_categories": [
+      "Lottery/Prize Fee Scam"
+    ],
+    "first_seen": "2026-06-05",
+    "last_seen": "2026-06-15",
+    "related_locations": [
+      "Yerragondapalem"
+    ],
+    "related_indicators": [
+      "prize-release-demo.example"
+    ],
+    "police_triage_priority": "Review Recommended",
+    "intelligence_summary": "Synthetic indicator 192.0.2.55 links 5 demo reports across Yerragondapalem. Use only as hackathon intelligence data."
+  },
+  {
+    "indicator_id": "IND-KEY-001",
+    "indicator_type": "keyword",
+    "value": "KYC expires today",
+    "risk_score": 80,
+    "related_case_count": 11,
+    "linked_scam_categories": [
+      "Fake KYC/Bank Alert"
+    ],
+    "first_seen": "2026-06-06",
+    "last_seen": "2026-06-16",
+    "related_locations": [
+      "Ongole",
+      "Darsi"
+    ],
+    "related_indicators": [
+      "kyc-prakasam-demo.test"
+    ],
+    "police_triage_priority": "High Priority",
+    "intelligence_summary": "Synthetic indicator KYC expires today links 11 demo reports across Ongole, Darsi. Use only as hackathon intelligence data."
+  },
+  {
+    "indicator_id": "IND-KEY-002",
+    "indicator_type": "keyword",
+    "value": "scan QR to receive refund",
+    "risk_score": 86,
+    "related_case_count": 10,
+    "linked_scam_categories": [
+      "QR Code Scam"
+    ],
+    "first_seen": "2026-06-07",
+    "last_seen": "2026-06-17",
+    "related_locations": [
+      "Kandukur",
+      "Chirala"
+    ],
+    "related_indicators": [
+      "qr-collect-demo@upi"
+    ],
+    "police_triage_priority": "Critical Immediate Triage",
+    "intelligence_summary": "Synthetic indicator scan QR to receive refund links 10 demo reports across Kandukur, Chirala. Use only as hackathon intelligence data."
+  },
+  {
+    "indicator_id": "IND-KEY-003",
+    "indicator_type": "keyword",
+    "value": "job registration fee",
+    "risk_score": 72,
+    "related_case_count": 7,
+    "linked_scam_categories": [
+      "Fake Job Registration Fee"
+    ],
+    "first_seen": "2026-06-08",
+    "last_seen": "2026-06-18",
+    "related_locations": [
+      "Markapur",
+      "Giddalur"
+    ],
+    "related_indicators": [
+      "job-fee-demo@upi"
+    ],
+    "police_triage_priority": "High Priority",
+    "intelligence_summary": "Synthetic indicator job registration fee links 7 demo reports across Markapur, Giddalur. Use only as hackathon intelligence data."
+  },
+  {
+    "indicator_id": "IND-KEY-004",
+    "indicator_type": "keyword",
+    "value": "loan processing fee today",
+    "risk_score": 74,
+    "related_case_count": 8,
+    "linked_scam_categories": [
+      "Fake Loan Processing Fee"
+    ],
+    "first_seen": "2026-06-09",
+    "last_seen": "2026-06-19",
+    "related_locations": [
+      "Kanigiri",
+      "Podili"
+    ],
+    "related_indicators": [
+      "loan-fee-demo@upi"
+    ],
+    "police_triage_priority": "High Priority",
+    "intelligence_summary": "Synthetic indicator loan processing fee today links 8 demo reports across Kanigiri, Podili. Use only as hackathon intelligence data."
+  },
+  {
+    "indicator_id": "IND-KEY-005",
+    "indicator_type": "keyword",
+    "value": "customer care refund desk",
+    "risk_score": 78,
+    "related_case_count": 8,
+    "linked_scam_categories": [
+      "Fake Customer Care Refund"
+    ],
+    "first_seen": "2026-06-10",
+    "last_seen": "2026-06-20",
+    "related_locations": [
+      "Chirala",
+      "Tangutur"
+    ],
+    "related_indicators": [
+      "support-refund-demo.example"
+    ],
+    "police_triage_priority": "High Priority",
+    "intelligence_summary": "Synthetic indicator customer care refund desk links 8 demo reports across Chirala, Tangutur. Use only as hackathon intelligence data."
+  },
+  {
+    "indicator_id": "IND-DOM-004",
+    "indicator_type": "domain",
+    "value": "prize-release-demo.example",
+    "risk_score": 68,
+    "related_case_count": 5,
+    "linked_scam_categories": [
+      "Lottery/Prize Fee Scam"
+    ],
+    "first_seen": "2026-06-01",
+    "last_seen": "2026-06-11",
+    "related_locations": [
+      "Yerragondapalem"
+    ],
+    "related_indicators": [
+      "192.0.2.55"
+    ],
+    "police_triage_priority": "Review Recommended",
+    "intelligence_summary": "Synthetic indicator prize-release-demo.example links 5 demo reports across Yerragondapalem. Use only as hackathon intelligence data."
+  },
+  {
+    "indicator_id": "IND-PHONE-003",
+    "indicator_type": "masked_phone",
+    "value": "76XXXXXX18",
+    "risk_score": 66,
+    "related_case_count": 4,
+    "linked_scam_categories": [
+      "Lottery/Prize Fee Scam"
+    ],
+    "first_seen": "2026-06-02",
+    "last_seen": "2026-06-12",
+    "related_locations": [
+      "Yerragondapalem",
+      "Addanki"
+    ],
+    "related_indicators": [
+      "prize-release-demo.example"
+    ],
+    "police_triage_priority": "Review Recommended",
+    "intelligence_summary": "Synthetic indicator 76XXXXXX18 links 4 demo reports across Yerragondapalem, Addanki. Use only as hackathon intelligence data."
+  },
+  {
+    "indicator_id": "IND-PHONE-004",
+    "indicator_type": "masked_phone",
+    "value": "91XXXXXX07",
+    "risk_score": 70,
+    "related_case_count": 6,
+    "linked_scam_categories": [
+      "Fake Loan Processing Fee"
+    ],
+    "first_seen": "2026-06-03",
+    "last_seen": "2026-06-13",
+    "related_locations": [
+      "Kanigiri"
+    ],
+    "related_indicators": [
+      "loan-fee-demo@upi"
+    ],
+    "police_triage_priority": "High Priority",
+    "intelligence_summary": "Synthetic indicator 91XXXXXX07 links 6 demo reports across Kanigiri. Use only as hackathon intelligence data."
+  },
+  {
+    "indicator_id": "IND-UPI-006",
+    "indicator_type": "upi_placeholder",
+    "value": "prize-fee-demo@upi",
+    "risk_score": 67,
+    "related_case_count": 5,
+    "linked_scam_categories": [
+      "Lottery/Prize Fee Scam"
+    ],
+    "first_seen": "2026-06-04",
+    "last_seen": "2026-06-14",
+    "related_locations": [
+      "Yerragondapalem"
+    ],
+    "related_indicators": [
+      "192.0.2.55"
+    ],
+    "police_triage_priority": "Review Recommended",
+    "intelligence_summary": "Synthetic indicator prize-fee-demo@upi links 5 demo reports across Yerragondapalem. Use only as hackathon intelligence data."
+  }
+]

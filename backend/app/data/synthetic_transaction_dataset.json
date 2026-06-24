@@ -1,0 +1,3932 @@
+[
+  {
+    "id": "SAFE-TXN-001",
+    "amount": 157,
+    "payment_method": "bank transfer",
+    "receiver_name": "Fictional Safe Merchant 001",
+    "receiver_placeholder": "SAFE_RECEIVER_PLACEHOLDER_001",
+    "timestamp": "2026-03-02T14:07:00",
+    "city": "Demo City South",
+    "note": "FAKE DEMO SAFE: Routine documented local purchase SAFE-TXN-001. Invoice received and payment timing is normal.",
+    "user_age_group": "Senior Citizen",
+    "previous_transaction_count": 0,
+    "is_first_time_receiver": false,
+    "reported_by_user": false,
+    "category": "Likely Safe Transaction",
+    "risk_level": "Low",
+    "expected_score_range": [
+      0,
+      25
+    ],
+    "risk_factors": [
+      "routine documented payment",
+      "known safe demo merchant"
+    ],
+    "explanation": "Synthetic safe transaction with normal context and no pressure indicators."
+  },
+  {
+    "id": "SAFE-TXN-002",
+    "amount": 194,
+    "payment_method": "wallet",
+    "receiver_name": "Fictional Safe Merchant 002",
+    "receiver_placeholder": "SAFE_RECEIVER_PLACEHOLDER_002",
+    "timestamp": "2026-03-03T14:14:00",
+    "city": "Training Nagar",
+    "note": "FAKE DEMO SAFE: Routine documented local purchase SAFE-TXN-002. Invoice received and payment timing is normal.",
+    "user_age_group": "Student",
+    "previous_transaction_count": 0,
+    "is_first_time_receiver": false,
+    "reported_by_user": false,
+    "category": "Likely Safe Transaction",
+    "risk_level": "Low",
+    "expected_score_range": [
+      0,
+      25
+    ],
+    "risk_factors": [
+      "routine documented payment",
+      "known safe demo merchant"
+    ],
+    "explanation": "Synthetic safe transaction with normal context and no pressure indicators."
+  },
+  {
+    "id": "SAFE-TXN-003",
+    "amount": 231,
+    "payment_method": "card",
+    "receiver_name": "Fictional Safe Merchant 003",
+    "receiver_placeholder": "SAFE_RECEIVER_PLACEHOLDER_003",
+    "timestamp": "2026-03-04T14:21:00",
+    "city": "Awareness Zone",
+    "note": "FAKE DEMO SAFE: Routine documented local purchase SAFE-TXN-003. Invoice received and payment timing is normal.",
+    "user_age_group": "Job Seeker",
+    "previous_transaction_count": 0,
+    "is_first_time_receiver": false,
+    "reported_by_user": false,
+    "category": "Likely Safe Transaction",
+    "risk_level": "Low",
+    "expected_score_range": [
+      0,
+      25
+    ],
+    "risk_factors": [
+      "routine documented payment",
+      "known safe demo merchant"
+    ],
+    "explanation": "Synthetic safe transaction with normal context and no pressure indicators."
+  },
+  {
+    "id": "SAFE-TXN-004",
+    "amount": 268,
+    "payment_method": "UPI",
+    "receiver_name": "Fictional Safe Merchant 004",
+    "receiver_placeholder": "SAFE_RECEIVER_PLACEHOLDER_004",
+    "timestamp": "2026-03-05T14:28:00",
+    "city": "Cyber Demo Ward",
+    "note": "FAKE DEMO SAFE: Routine documented local purchase SAFE-TXN-004. Invoice received and payment timing is normal.",
+    "user_age_group": "Business Owner",
+    "previous_transaction_count": 0,
+    "is_first_time_receiver": false,
+    "reported_by_user": false,
+    "category": "Likely Safe Transaction",
+    "risk_level": "Low",
+    "expected_score_range": [
+      0,
+      25
+    ],
+    "risk_factors": [
+      "routine documented payment",
+      "known safe demo merchant"
+    ],
+    "explanation": "Synthetic safe transaction with normal context and no pressure indicators."
+  },
+  {
+    "id": "SAFE-TXN-005",
+    "amount": 305,
+    "payment_method": "bank transfer",
+    "receiver_name": "Fictional Safe Merchant 005",
+    "receiver_placeholder": "SAFE_RECEIVER_PLACEHOLDER_005",
+    "timestamp": "2026-03-06T14:35:00",
+    "city": "Safety Town",
+    "note": "FAKE DEMO SAFE: Routine documented local purchase SAFE-TXN-005. Invoice received and payment timing is normal.",
+    "user_age_group": "Adult",
+    "previous_transaction_count": 0,
+    "is_first_time_receiver": false,
+    "reported_by_user": false,
+    "category": "Likely Safe Transaction",
+    "risk_level": "Low",
+    "expected_score_range": [
+      0,
+      25
+    ],
+    "risk_factors": [
+      "routine documented payment",
+      "known safe demo merchant"
+    ],
+    "explanation": "Synthetic safe transaction with normal context and no pressure indicators."
+  },
+  {
+    "id": "SAFE-TXN-006",
+    "amount": 342,
+    "payment_method": "wallet",
+    "receiver_name": "Fictional Safe Merchant 006",
+    "receiver_placeholder": "SAFE_RECEIVER_PLACEHOLDER_006",
+    "timestamp": "2026-03-07T14:42:00",
+    "city": "Demo City North",
+    "note": "FAKE DEMO SAFE: Routine documented local purchase SAFE-TXN-006. Invoice received and payment timing is normal.",
+    "user_age_group": "Senior Citizen",
+    "previous_transaction_count": 0,
+    "is_first_time_receiver": false,
+    "reported_by_user": false,
+    "category": "Likely Safe Transaction",
+    "risk_level": "Low",
+    "expected_score_range": [
+      0,
+      25
+    ],
+    "risk_factors": [
+      "routine documented payment",
+      "known safe demo merchant"
+    ],
+    "explanation": "Synthetic safe transaction with normal context and no pressure indicators."
+  },
+  {
+    "id": "SAFE-TXN-007",
+    "amount": 379,
+    "payment_method": "card",
+    "receiver_name": "Fictional Safe Merchant 007",
+    "receiver_placeholder": "SAFE_RECEIVER_PLACEHOLDER_007",
+    "timestamp": "2026-03-08T14:49:00",
+    "city": "Demo City South",
+    "note": "FAKE DEMO SAFE: Routine documented local purchase SAFE-TXN-007. Invoice received and payment timing is normal.",
+    "user_age_group": "Student",
+    "previous_transaction_count": 0,
+    "is_first_time_receiver": false,
+    "reported_by_user": false,
+    "category": "Likely Safe Transaction",
+    "risk_level": "Low",
+    "expected_score_range": [
+      0,
+      25
+    ],
+    "risk_factors": [
+      "routine documented payment",
+      "known safe demo merchant"
+    ],
+    "explanation": "Synthetic safe transaction with normal context and no pressure indicators."
+  },
+  {
+    "id": "SAFE-TXN-008",
+    "amount": 416,
+    "payment_method": "UPI",
+    "receiver_name": "Fictional Safe Merchant 008",
+    "receiver_placeholder": "SAFE_RECEIVER_PLACEHOLDER_008",
+    "timestamp": "2026-03-09T14:56:00",
+    "city": "Training Nagar",
+    "note": "FAKE DEMO SAFE: Routine documented local purchase SAFE-TXN-008. Invoice received and payment timing is normal.",
+    "user_age_group": "Job Seeker",
+    "previous_transaction_count": 0,
+    "is_first_time_receiver": false,
+    "reported_by_user": false,
+    "category": "Likely Safe Transaction",
+    "risk_level": "Low",
+    "expected_score_range": [
+      0,
+      25
+    ],
+    "risk_factors": [
+      "routine documented payment",
+      "known safe demo merchant"
+    ],
+    "explanation": "Synthetic safe transaction with normal context and no pressure indicators."
+  },
+  {
+    "id": "SAFE-TXN-009",
+    "amount": 453,
+    "payment_method": "bank transfer",
+    "receiver_name": "Fictional Safe Merchant 009",
+    "receiver_placeholder": "SAFE_RECEIVER_PLACEHOLDER_009",
+    "timestamp": "2026-03-10T14:03:00",
+    "city": "Awareness Zone",
+    "note": "FAKE DEMO SAFE: Routine documented local purchase SAFE-TXN-009. Invoice received and payment timing is normal.",
+    "user_age_group": "Business Owner",
+    "previous_transaction_count": 0,
+    "is_first_time_receiver": false,
+    "reported_by_user": false,
+    "category": "Likely Safe Transaction",
+    "risk_level": "Low",
+    "expected_score_range": [
+      0,
+      25
+    ],
+    "risk_factors": [
+      "routine documented payment",
+      "known safe demo merchant"
+    ],
+    "explanation": "Synthetic safe transaction with normal context and no pressure indicators."
+  },
+  {
+    "id": "SAFE-TXN-010",
+    "amount": 490,
+    "payment_method": "wallet",
+    "receiver_name": "Fictional Safe Merchant 010",
+    "receiver_placeholder": "SAFE_RECEIVER_PLACEHOLDER_010",
+    "timestamp": "2026-03-11T14:10:00",
+    "city": "Cyber Demo Ward",
+    "note": "FAKE DEMO SAFE: Routine documented local purchase SAFE-TXN-010. Invoice received and payment timing is normal.",
+    "user_age_group": "Adult",
+    "previous_transaction_count": 0,
+    "is_first_time_receiver": false,
+    "reported_by_user": false,
+    "category": "Likely Safe Transaction",
+    "risk_level": "Low",
+    "expected_score_range": [
+      0,
+      25
+    ],
+    "risk_factors": [
+      "routine documented payment",
+      "known safe demo merchant"
+    ],
+    "explanation": "Synthetic safe transaction with normal context and no pressure indicators."
+  },
+  {
+    "id": "SAFE-TXN-011",
+    "amount": 527,
+    "payment_method": "card",
+    "receiver_name": "Fictional Safe Merchant 011",
+    "receiver_placeholder": "SAFE_RECEIVER_PLACEHOLDER_011",
+    "timestamp": "2026-03-12T14:17:00",
+    "city": "Safety Town",
+    "note": "FAKE DEMO SAFE: Routine documented local purchase SAFE-TXN-011. Invoice received and payment timing is normal.",
+    "user_age_group": "Senior Citizen",
+    "previous_transaction_count": 0,
+    "is_first_time_receiver": false,
+    "reported_by_user": false,
+    "category": "Likely Safe Transaction",
+    "risk_level": "Low",
+    "expected_score_range": [
+      0,
+      25
+    ],
+    "risk_factors": [
+      "routine documented payment",
+      "known safe demo merchant"
+    ],
+    "explanation": "Synthetic safe transaction with normal context and no pressure indicators."
+  },
+  {
+    "id": "SAFE-TXN-012",
+    "amount": 564,
+    "payment_method": "UPI",
+    "receiver_name": "Fictional Safe Merchant 012",
+    "receiver_placeholder": "SAFE_RECEIVER_PLACEHOLDER_012",
+    "timestamp": "2026-03-13T14:24:00",
+    "city": "Demo City North",
+    "note": "FAKE DEMO SAFE: Routine documented local purchase SAFE-TXN-012. Invoice received and payment timing is normal.",
+    "user_age_group": "Student",
+    "previous_transaction_count": 0,
+    "is_first_time_receiver": false,
+    "reported_by_user": false,
+    "category": "Likely Safe Transaction",
+    "risk_level": "Low",
+    "expected_score_range": [
+      0,
+      25
+    ],
+    "risk_factors": [
+      "routine documented payment",
+      "known safe demo merchant"
+    ],
+    "explanation": "Synthetic safe transaction with normal context and no pressure indicators."
+  },
+  {
+    "id": "SAFE-TXN-013",
+    "amount": 601,
+    "payment_method": "bank transfer",
+    "receiver_name": "Fictional Safe Merchant 013",
+    "receiver_placeholder": "SAFE_RECEIVER_PLACEHOLDER_013",
+    "timestamp": "2026-03-14T14:31:00",
+    "city": "Demo City South",
+    "note": "FAKE DEMO SAFE: Routine documented local purchase SAFE-TXN-013. Invoice received and payment timing is normal.",
+    "user_age_group": "Job Seeker",
+    "previous_transaction_count": 0,
+    "is_first_time_receiver": false,
+    "reported_by_user": false,
+    "category": "Likely Safe Transaction",
+    "risk_level": "Low",
+    "expected_score_range": [
+      0,
+      25
+    ],
+    "risk_factors": [
+      "routine documented payment",
+      "known safe demo merchant"
+    ],
+    "explanation": "Synthetic safe transaction with normal context and no pressure indicators."
+  },
+  {
+    "id": "SAFE-TXN-014",
+    "amount": 638,
+    "payment_method": "wallet",
+    "receiver_name": "Fictional Safe Merchant 014",
+    "receiver_placeholder": "SAFE_RECEIVER_PLACEHOLDER_014",
+    "timestamp": "2026-03-15T14:38:00",
+    "city": "Training Nagar",
+    "note": "FAKE DEMO SAFE: Routine documented local purchase SAFE-TXN-014. Invoice received and payment timing is normal.",
+    "user_age_group": "Business Owner",
+    "previous_transaction_count": 0,
+    "is_first_time_receiver": false,
+    "reported_by_user": false,
+    "category": "Likely Safe Transaction",
+    "risk_level": "Low",
+    "expected_score_range": [
+      0,
+      25
+    ],
+    "risk_factors": [
+      "routine documented payment",
+      "known safe demo merchant"
+    ],
+    "explanation": "Synthetic safe transaction with normal context and no pressure indicators."
+  },
+  {
+    "id": "SAFE-TXN-015",
+    "amount": 675,
+    "payment_method": "card",
+    "receiver_name": "Fictional Safe Merchant 015",
+    "receiver_placeholder": "SAFE_RECEIVER_PLACEHOLDER_015",
+    "timestamp": "2026-03-16T14:45:00",
+    "city": "Awareness Zone",
+    "note": "FAKE DEMO SAFE: Routine documented local purchase SAFE-TXN-015. Invoice received and payment timing is normal.",
+    "user_age_group": "Adult",
+    "previous_transaction_count": 0,
+    "is_first_time_receiver": false,
+    "reported_by_user": false,
+    "category": "Likely Safe Transaction",
+    "risk_level": "Low",
+    "expected_score_range": [
+      0,
+      25
+    ],
+    "risk_factors": [
+      "routine documented payment",
+      "known safe demo merchant"
+    ],
+    "explanation": "Synthetic safe transaction with normal context and no pressure indicators."
+  },
+  {
+    "id": "SAFE-TXN-016",
+    "amount": 712,
+    "payment_method": "UPI",
+    "receiver_name": "Fictional Safe Merchant 016",
+    "receiver_placeholder": "SAFE_RECEIVER_PLACEHOLDER_016",
+    "timestamp": "2026-03-17T14:52:00",
+    "city": "Cyber Demo Ward",
+    "note": "FAKE DEMO SAFE: Routine documented local purchase SAFE-TXN-016. Invoice received and payment timing is normal.",
+    "user_age_group": "Senior Citizen",
+    "previous_transaction_count": 0,
+    "is_first_time_receiver": false,
+    "reported_by_user": false,
+    "category": "Likely Safe Transaction",
+    "risk_level": "Low",
+    "expected_score_range": [
+      0,
+      25
+    ],
+    "risk_factors": [
+      "routine documented payment",
+      "known safe demo merchant"
+    ],
+    "explanation": "Synthetic safe transaction with normal context and no pressure indicators."
+  },
+  {
+    "id": "SAFE-TXN-017",
+    "amount": 749,
+    "payment_method": "bank transfer",
+    "receiver_name": "Fictional Safe Merchant 017",
+    "receiver_placeholder": "SAFE_RECEIVER_PLACEHOLDER_017",
+    "timestamp": "2026-03-18T14:59:00",
+    "city": "Safety Town",
+    "note": "FAKE DEMO SAFE: Routine documented local purchase SAFE-TXN-017. Invoice received and payment timing is normal.",
+    "user_age_group": "Student",
+    "previous_transaction_count": 0,
+    "is_first_time_receiver": false,
+    "reported_by_user": false,
+    "category": "Likely Safe Transaction",
+    "risk_level": "Low",
+    "expected_score_range": [
+      0,
+      25
+    ],
+    "risk_factors": [
+      "routine documented payment",
+      "known safe demo merchant"
+    ],
+    "explanation": "Synthetic safe transaction with normal context and no pressure indicators."
+  },
+  {
+    "id": "SAFE-TXN-018",
+    "amount": 786,
+    "payment_method": "wallet",
+    "receiver_name": "Fictional Safe Merchant 018",
+    "receiver_placeholder": "SAFE_RECEIVER_PLACEHOLDER_018",
+    "timestamp": "2026-03-19T14:06:00",
+    "city": "Demo City North",
+    "note": "FAKE DEMO SAFE: Routine documented local purchase SAFE-TXN-018. Invoice received and payment timing is normal.",
+    "user_age_group": "Job Seeker",
+    "previous_transaction_count": 0,
+    "is_first_time_receiver": false,
+    "reported_by_user": false,
+    "category": "Likely Safe Transaction",
+    "risk_level": "Low",
+    "expected_score_range": [
+      0,
+      25
+    ],
+    "risk_factors": [
+      "routine documented payment",
+      "known safe demo merchant"
+    ],
+    "explanation": "Synthetic safe transaction with normal context and no pressure indicators."
+  },
+  {
+    "id": "SAFE-TXN-019",
+    "amount": 823,
+    "payment_method": "card",
+    "receiver_name": "Fictional Safe Merchant 019",
+    "receiver_placeholder": "SAFE_RECEIVER_PLACEHOLDER_019",
+    "timestamp": "2026-03-20T14:13:00",
+    "city": "Demo City South",
+    "note": "FAKE DEMO SAFE: Routine documented local purchase SAFE-TXN-019. Invoice received and payment timing is normal.",
+    "user_age_group": "Business Owner",
+    "previous_transaction_count": 0,
+    "is_first_time_receiver": false,
+    "reported_by_user": false,
+    "category": "Likely Safe Transaction",
+    "risk_level": "Low",
+    "expected_score_range": [
+      0,
+      25
+    ],
+    "risk_factors": [
+      "routine documented payment",
+      "known safe demo merchant"
+    ],
+    "explanation": "Synthetic safe transaction with normal context and no pressure indicators."
+  },
+  {
+    "id": "SAFE-TXN-020",
+    "amount": 860,
+    "payment_method": "UPI",
+    "receiver_name": "Fictional Safe Merchant 020",
+    "receiver_placeholder": "SAFE_RECEIVER_PLACEHOLDER_020",
+    "timestamp": "2026-03-21T14:20:00",
+    "city": "Training Nagar",
+    "note": "FAKE DEMO SAFE: Routine documented local purchase SAFE-TXN-020. Invoice received and payment timing is normal.",
+    "user_age_group": "Adult",
+    "previous_transaction_count": 0,
+    "is_first_time_receiver": false,
+    "reported_by_user": false,
+    "category": "Likely Safe Transaction",
+    "risk_level": "Low",
+    "expected_score_range": [
+      0,
+      25
+    ],
+    "risk_factors": [
+      "routine documented payment",
+      "known safe demo merchant"
+    ],
+    "explanation": "Synthetic safe transaction with normal context and no pressure indicators."
+  },
+  {
+    "id": "SAFE-TXN-021",
+    "amount": 897,
+    "payment_method": "bank transfer",
+    "receiver_name": "Fictional Safe Merchant 021",
+    "receiver_placeholder": "SAFE_RECEIVER_PLACEHOLDER_021",
+    "timestamp": "2026-03-22T14:27:00",
+    "city": "Awareness Zone",
+    "note": "FAKE DEMO SAFE: Routine documented local purchase SAFE-TXN-021. Invoice received and payment timing is normal.",
+    "user_age_group": "Senior Citizen",
+    "previous_transaction_count": 0,
+    "is_first_time_receiver": false,
+    "reported_by_user": false,
+    "category": "Likely Safe Transaction",
+    "risk_level": "Low",
+    "expected_score_range": [
+      0,
+      25
+    ],
+    "risk_factors": [
+      "routine documented payment",
+      "known safe demo merchant"
+    ],
+    "explanation": "Synthetic safe transaction with normal context and no pressure indicators."
+  },
+  {
+    "id": "SAFE-TXN-022",
+    "amount": 934,
+    "payment_method": "wallet",
+    "receiver_name": "Fictional Safe Merchant 022",
+    "receiver_placeholder": "SAFE_RECEIVER_PLACEHOLDER_022",
+    "timestamp": "2026-03-23T14:34:00",
+    "city": "Cyber Demo Ward",
+    "note": "FAKE DEMO SAFE: Routine documented local purchase SAFE-TXN-022. Invoice received and payment timing is normal.",
+    "user_age_group": "Student",
+    "previous_transaction_count": 0,
+    "is_first_time_receiver": false,
+    "reported_by_user": false,
+    "category": "Likely Safe Transaction",
+    "risk_level": "Low",
+    "expected_score_range": [
+      0,
+      25
+    ],
+    "risk_factors": [
+      "routine documented payment",
+      "known safe demo merchant"
+    ],
+    "explanation": "Synthetic safe transaction with normal context and no pressure indicators."
+  },
+  {
+    "id": "SAFE-TXN-023",
+    "amount": 971,
+    "payment_method": "card",
+    "receiver_name": "Fictional Safe Merchant 023",
+    "receiver_placeholder": "SAFE_RECEIVER_PLACEHOLDER_023",
+    "timestamp": "2026-03-24T14:41:00",
+    "city": "Safety Town",
+    "note": "FAKE DEMO SAFE: Routine documented local purchase SAFE-TXN-023. Invoice received and payment timing is normal.",
+    "user_age_group": "Job Seeker",
+    "previous_transaction_count": 0,
+    "is_first_time_receiver": false,
+    "reported_by_user": false,
+    "category": "Likely Safe Transaction",
+    "risk_level": "Low",
+    "expected_score_range": [
+      0,
+      25
+    ],
+    "risk_factors": [
+      "routine documented payment",
+      "known safe demo merchant"
+    ],
+    "explanation": "Synthetic safe transaction with normal context and no pressure indicators."
+  },
+  {
+    "id": "SAFE-TXN-024",
+    "amount": 1008,
+    "payment_method": "UPI",
+    "receiver_name": "Fictional Safe Merchant 024",
+    "receiver_placeholder": "SAFE_RECEIVER_PLACEHOLDER_024",
+    "timestamp": "2026-03-25T14:48:00",
+    "city": "Demo City North",
+    "note": "FAKE DEMO SAFE: Routine documented local purchase SAFE-TXN-024. Invoice received and payment timing is normal.",
+    "user_age_group": "Business Owner",
+    "previous_transaction_count": 0,
+    "is_first_time_receiver": false,
+    "reported_by_user": false,
+    "category": "Likely Safe Transaction",
+    "risk_level": "Low",
+    "expected_score_range": [
+      0,
+      25
+    ],
+    "risk_factors": [
+      "routine documented payment",
+      "known safe demo merchant"
+    ],
+    "explanation": "Synthetic safe transaction with normal context and no pressure indicators."
+  },
+  {
+    "id": "SAFE-TXN-025",
+    "amount": 1045,
+    "payment_method": "bank transfer",
+    "receiver_name": "Fictional Safe Merchant 025",
+    "receiver_placeholder": "SAFE_RECEIVER_PLACEHOLDER_025",
+    "timestamp": "2026-03-26T14:55:00",
+    "city": "Demo City South",
+    "note": "FAKE DEMO SAFE: Routine documented local purchase SAFE-TXN-025. Invoice received and payment timing is normal.",
+    "user_age_group": "Adult",
+    "previous_transaction_count": 0,
+    "is_first_time_receiver": false,
+    "reported_by_user": false,
+    "category": "Likely Safe Transaction",
+    "risk_level": "Low",
+    "expected_score_range": [
+      0,
+      25
+    ],
+    "risk_factors": [
+      "routine documented payment",
+      "known safe demo merchant"
+    ],
+    "explanation": "Synthetic safe transaction with normal context and no pressure indicators."
+  },
+  {
+    "id": "SAFE-TXN-026",
+    "amount": 1082,
+    "payment_method": "wallet",
+    "receiver_name": "Fictional Safe Merchant 026",
+    "receiver_placeholder": "SAFE_RECEIVER_PLACEHOLDER_026",
+    "timestamp": "2026-03-27T14:02:00",
+    "city": "Training Nagar",
+    "note": "FAKE DEMO SAFE: Routine documented local purchase SAFE-TXN-026. Invoice received and payment timing is normal.",
+    "user_age_group": "Senior Citizen",
+    "previous_transaction_count": 0,
+    "is_first_time_receiver": false,
+    "reported_by_user": false,
+    "category": "Likely Safe Transaction",
+    "risk_level": "Low",
+    "expected_score_range": [
+      0,
+      25
+    ],
+    "risk_factors": [
+      "routine documented payment",
+      "known safe demo merchant"
+    ],
+    "explanation": "Synthetic safe transaction with normal context and no pressure indicators."
+  },
+  {
+    "id": "SAFE-TXN-027",
+    "amount": 1119,
+    "payment_method": "card",
+    "receiver_name": "Fictional Safe Merchant 027",
+    "receiver_placeholder": "SAFE_RECEIVER_PLACEHOLDER_027",
+    "timestamp": "2026-03-01T14:09:00",
+    "city": "Awareness Zone",
+    "note": "FAKE DEMO SAFE: Routine documented local purchase SAFE-TXN-027. Invoice received and payment timing is normal.",
+    "user_age_group": "Student",
+    "previous_transaction_count": 0,
+    "is_first_time_receiver": false,
+    "reported_by_user": false,
+    "category": "Likely Safe Transaction",
+    "risk_level": "Low",
+    "expected_score_range": [
+      0,
+      25
+    ],
+    "risk_factors": [
+      "routine documented payment",
+      "known safe demo merchant"
+    ],
+    "explanation": "Synthetic safe transaction with normal context and no pressure indicators."
+  },
+  {
+    "id": "SAFE-TXN-028",
+    "amount": 1156,
+    "payment_method": "UPI",
+    "receiver_name": "Fictional Safe Merchant 028",
+    "receiver_placeholder": "SAFE_RECEIVER_PLACEHOLDER_028",
+    "timestamp": "2026-03-02T14:16:00",
+    "city": "Cyber Demo Ward",
+    "note": "FAKE DEMO SAFE: Routine documented local purchase SAFE-TXN-028. Invoice received and payment timing is normal.",
+    "user_age_group": "Job Seeker",
+    "previous_transaction_count": 0,
+    "is_first_time_receiver": false,
+    "reported_by_user": false,
+    "category": "Likely Safe Transaction",
+    "risk_level": "Low",
+    "expected_score_range": [
+      0,
+      25
+    ],
+    "risk_factors": [
+      "routine documented payment",
+      "known safe demo merchant"
+    ],
+    "explanation": "Synthetic safe transaction with normal context and no pressure indicators."
+  },
+  {
+    "id": "SAFE-TXN-029",
+    "amount": 1193,
+    "payment_method": "bank transfer",
+    "receiver_name": "Fictional Safe Merchant 029",
+    "receiver_placeholder": "SAFE_RECEIVER_PLACEHOLDER_029",
+    "timestamp": "2026-03-03T14:23:00",
+    "city": "Safety Town",
+    "note": "FAKE DEMO SAFE: Routine documented local purchase SAFE-TXN-029. Invoice received and payment timing is normal.",
+    "user_age_group": "Business Owner",
+    "previous_transaction_count": 0,
+    "is_first_time_receiver": false,
+    "reported_by_user": false,
+    "category": "Likely Safe Transaction",
+    "risk_level": "Low",
+    "expected_score_range": [
+      0,
+      25
+    ],
+    "risk_factors": [
+      "routine documented payment",
+      "known safe demo merchant"
+    ],
+    "explanation": "Synthetic safe transaction with normal context and no pressure indicators."
+  },
+  {
+    "id": "SAFE-TXN-030",
+    "amount": 1230,
+    "payment_method": "wallet",
+    "receiver_name": "Fictional Safe Merchant 030",
+    "receiver_placeholder": "SAFE_RECEIVER_PLACEHOLDER_030",
+    "timestamp": "2026-03-04T14:30:00",
+    "city": "Demo City North",
+    "note": "FAKE DEMO SAFE: Routine documented local purchase SAFE-TXN-030. Invoice received and payment timing is normal.",
+    "user_age_group": "Adult",
+    "previous_transaction_count": 0,
+    "is_first_time_receiver": false,
+    "reported_by_user": false,
+    "category": "Likely Safe Transaction",
+    "risk_level": "Low",
+    "expected_score_range": [
+      0,
+      25
+    ],
+    "risk_factors": [
+      "routine documented payment",
+      "known safe demo merchant"
+    ],
+    "explanation": "Synthetic safe transaction with normal context and no pressure indicators."
+  },
+  {
+    "id": "UPI-REFUND-001",
+    "amount": 1570,
+    "payment_method": "UPI",
+    "receiver_name": "Demo UPI Refund Desk 001",
+    "receiver_placeholder": "UPI_REFUND_PLACEHOLDER_001",
+    "timestamp": "2026-03-02T16:07:00",
+    "city": "Demo City South",
+    "note": "FAKE DEMO TXN: urgent refund reversal for failed payment 001. Approve collect request now to receive money back.",
+    "user_age_group": "Adult",
+    "previous_transaction_count": 1,
+    "is_first_time_receiver": true,
+    "reported_by_user": false,
+    "category": "UPI Refund Scam",
+    "risk_level": "High",
+    "expected_score_range": [
+      60,
+      95
+    ],
+    "risk_factors": [
+      "refund or reversal language",
+      "collect request",
+      "first-time receiver",
+      "urgent payment pressure"
+    ],
+    "explanation": "Synthetic UPI refund pattern where a victim is asked to approve a request to receive money."
+  },
+  {
+    "id": "UPI-REFUND-002",
+    "amount": 1641,
+    "payment_method": "UPI",
+    "receiver_name": "Demo UPI Refund Desk 002",
+    "receiver_placeholder": "UPI_REFUND_PLACEHOLDER_002",
+    "timestamp": "2026-03-03T16:14:00",
+    "city": "Training Nagar",
+    "note": "FAKE DEMO TXN: urgent refund reversal for failed payment 002. Approve collect request now to receive money back.",
+    "user_age_group": "Adult",
+    "previous_transaction_count": 1,
+    "is_first_time_receiver": true,
+    "reported_by_user": true,
+    "category": "UPI Refund Scam",
+    "risk_level": "High",
+    "expected_score_range": [
+      60,
+      95
+    ],
+    "risk_factors": [
+      "refund or reversal language",
+      "collect request",
+      "first-time receiver",
+      "urgent payment pressure"
+    ],
+    "explanation": "Synthetic UPI refund pattern where a victim is asked to approve a request to receive money."
+  },
+  {
+    "id": "UPI-REFUND-003",
+    "amount": 1712,
+    "payment_method": "UPI",
+    "receiver_name": "Demo UPI Refund Desk 003",
+    "receiver_placeholder": "UPI_REFUND_PLACEHOLDER_003",
+    "timestamp": "2026-03-04T16:21:00",
+    "city": "Awareness Zone",
+    "note": "FAKE DEMO TXN: urgent refund reversal for failed payment 003. Approve collect request now to receive money back.",
+    "user_age_group": "Adult",
+    "previous_transaction_count": 5,
+    "is_first_time_receiver": true,
+    "reported_by_user": false,
+    "category": "UPI Refund Scam",
+    "risk_level": "High",
+    "expected_score_range": [
+      60,
+      95
+    ],
+    "risk_factors": [
+      "refund or reversal language",
+      "collect request",
+      "first-time receiver",
+      "urgent payment pressure"
+    ],
+    "explanation": "Synthetic UPI refund pattern where a victim is asked to approve a request to receive money."
+  },
+  {
+    "id": "UPI-REFUND-004",
+    "amount": 1783,
+    "payment_method": "UPI",
+    "receiver_name": "Demo UPI Refund Desk 004",
+    "receiver_placeholder": "UPI_REFUND_PLACEHOLDER_004",
+    "timestamp": "2026-03-05T16:28:00",
+    "city": "Cyber Demo Ward",
+    "note": "FAKE DEMO TXN: urgent refund reversal for failed payment 004. Approve collect request now to receive money back.",
+    "user_age_group": "Senior Citizen",
+    "previous_transaction_count": 1,
+    "is_first_time_receiver": true,
+    "reported_by_user": true,
+    "category": "UPI Refund Scam",
+    "risk_level": "High",
+    "expected_score_range": [
+      60,
+      95
+    ],
+    "risk_factors": [
+      "refund or reversal language",
+      "collect request",
+      "first-time receiver",
+      "urgent payment pressure"
+    ],
+    "explanation": "Synthetic UPI refund pattern where a victim is asked to approve a request to receive money."
+  },
+  {
+    "id": "UPI-REFUND-005",
+    "amount": 1854,
+    "payment_method": "UPI",
+    "receiver_name": "Demo UPI Refund Desk 005",
+    "receiver_placeholder": "UPI_REFUND_PLACEHOLDER_005",
+    "timestamp": "2026-03-06T01:35:00",
+    "city": "Safety Town",
+    "note": "FAKE DEMO TXN: urgent refund reversal for failed payment 005. Approve collect request now to receive money back.",
+    "user_age_group": "Adult",
+    "previous_transaction_count": 1,
+    "is_first_time_receiver": true,
+    "reported_by_user": false,
+    "category": "UPI Refund Scam",
+    "risk_level": "Critical",
+    "expected_score_range": [
+      60,
+      95
+    ],
+    "risk_factors": [
+      "refund or reversal language",
+      "collect request",
+      "first-time receiver",
+      "urgent payment pressure"
+    ],
+    "explanation": "Synthetic UPI refund pattern where a victim is asked to approve a request to receive money."
+  },
+  {
+    "id": "UPI-REFUND-006",
+    "amount": 1925,
+    "payment_method": "UPI",
+    "receiver_name": "Demo UPI Refund Desk 006",
+    "receiver_placeholder": "UPI_REFUND_PLACEHOLDER_006",
+    "timestamp": "2026-03-07T16:42:00",
+    "city": "Demo City North",
+    "note": "FAKE DEMO TXN: urgent refund reversal for failed payment 006. Approve collect request now to receive money back.",
+    "user_age_group": "Adult",
+    "previous_transaction_count": 5,
+    "is_first_time_receiver": true,
+    "reported_by_user": true,
+    "category": "UPI Refund Scam",
+    "risk_level": "High",
+    "expected_score_range": [
+      60,
+      95
+    ],
+    "risk_factors": [
+      "refund or reversal language",
+      "collect request",
+      "first-time receiver",
+      "urgent payment pressure"
+    ],
+    "explanation": "Synthetic UPI refund pattern where a victim is asked to approve a request to receive money."
+  },
+  {
+    "id": "UPI-REFUND-007",
+    "amount": 1996,
+    "payment_method": "UPI",
+    "receiver_name": "Demo UPI Refund Desk 007",
+    "receiver_placeholder": "UPI_REFUND_PLACEHOLDER_007",
+    "timestamp": "2026-03-08T16:49:00",
+    "city": "Demo City South",
+    "note": "FAKE DEMO TXN: urgent refund reversal for failed payment 007. Approve collect request now to receive money back.",
+    "user_age_group": "Adult",
+    "previous_transaction_count": 1,
+    "is_first_time_receiver": true,
+    "reported_by_user": false,
+    "category": "UPI Refund Scam",
+    "risk_level": "High",
+    "expected_score_range": [
+      60,
+      95
+    ],
+    "risk_factors": [
+      "refund or reversal language",
+      "collect request",
+      "first-time receiver",
+      "urgent payment pressure"
+    ],
+    "explanation": "Synthetic UPI refund pattern where a victim is asked to approve a request to receive money."
+  },
+  {
+    "id": "UPI-REFUND-008",
+    "amount": 2067,
+    "payment_method": "UPI",
+    "receiver_name": "Demo UPI Refund Desk 008",
+    "receiver_placeholder": "UPI_REFUND_PLACEHOLDER_008",
+    "timestamp": "2026-03-09T16:56:00",
+    "city": "Training Nagar",
+    "note": "FAKE DEMO TXN: urgent refund reversal for failed payment 008. Approve collect request now to receive money back.",
+    "user_age_group": "Senior Citizen",
+    "previous_transaction_count": 1,
+    "is_first_time_receiver": true,
+    "reported_by_user": true,
+    "category": "UPI Refund Scam",
+    "risk_level": "High",
+    "expected_score_range": [
+      60,
+      95
+    ],
+    "risk_factors": [
+      "refund or reversal language",
+      "collect request",
+      "first-time receiver",
+      "urgent payment pressure"
+    ],
+    "explanation": "Synthetic UPI refund pattern where a victim is asked to approve a request to receive money."
+  },
+  {
+    "id": "UPI-REFUND-009",
+    "amount": 2138,
+    "payment_method": "UPI",
+    "receiver_name": "Demo UPI Refund Desk 009",
+    "receiver_placeholder": "UPI_REFUND_PLACEHOLDER_009",
+    "timestamp": "2026-03-10T16:03:00",
+    "city": "Awareness Zone",
+    "note": "FAKE DEMO TXN: urgent refund reversal for failed payment 009. Approve collect request now to receive money back.",
+    "user_age_group": "Adult",
+    "previous_transaction_count": 5,
+    "is_first_time_receiver": true,
+    "reported_by_user": false,
+    "category": "UPI Refund Scam",
+    "risk_level": "High",
+    "expected_score_range": [
+      60,
+      95
+    ],
+    "risk_factors": [
+      "refund or reversal language",
+      "collect request",
+      "first-time receiver",
+      "urgent payment pressure"
+    ],
+    "explanation": "Synthetic UPI refund pattern where a victim is asked to approve a request to receive money."
+  },
+  {
+    "id": "UPI-REFUND-010",
+    "amount": 2209,
+    "payment_method": "UPI",
+    "receiver_name": "Demo UPI Refund Desk 010",
+    "receiver_placeholder": "UPI_REFUND_PLACEHOLDER_010",
+    "timestamp": "2026-03-11T01:10:00",
+    "city": "Cyber Demo Ward",
+    "note": "FAKE DEMO TXN: urgent refund reversal for failed payment 010. Approve collect request now to receive money back.",
+    "user_age_group": "Adult",
+    "previous_transaction_count": 1,
+    "is_first_time_receiver": true,
+    "reported_by_user": true,
+    "category": "UPI Refund Scam",
+    "risk_level": "Critical",
+    "expected_score_range": [
+      60,
+      95
+    ],
+    "risk_factors": [
+      "refund or reversal language",
+      "collect request",
+      "first-time receiver",
+      "urgent payment pressure"
+    ],
+    "explanation": "Synthetic UPI refund pattern where a victim is asked to approve a request to receive money."
+  },
+  {
+    "id": "UPI-REFUND-011",
+    "amount": 2280,
+    "payment_method": "UPI",
+    "receiver_name": "Demo UPI Refund Desk 011",
+    "receiver_placeholder": "UPI_REFUND_PLACEHOLDER_011",
+    "timestamp": "2026-03-12T16:17:00",
+    "city": "Safety Town",
+    "note": "FAKE DEMO TXN: urgent refund reversal for failed payment 011. Approve collect request now to receive money back.",
+    "user_age_group": "Adult",
+    "previous_transaction_count": 1,
+    "is_first_time_receiver": true,
+    "reported_by_user": false,
+    "category": "UPI Refund Scam",
+    "risk_level": "High",
+    "expected_score_range": [
+      60,
+      95
+    ],
+    "risk_factors": [
+      "refund or reversal language",
+      "collect request",
+      "first-time receiver",
+      "urgent payment pressure"
+    ],
+    "explanation": "Synthetic UPI refund pattern where a victim is asked to approve a request to receive money."
+  },
+  {
+    "id": "UPI-REFUND-012",
+    "amount": 2351,
+    "payment_method": "UPI",
+    "receiver_name": "Demo UPI Refund Desk 012",
+    "receiver_placeholder": "UPI_REFUND_PLACEHOLDER_012",
+    "timestamp": "2026-03-13T16:24:00",
+    "city": "Demo City North",
+    "note": "FAKE DEMO TXN: urgent refund reversal for failed payment 012. Approve collect request now to receive money back.",
+    "user_age_group": "Senior Citizen",
+    "previous_transaction_count": 5,
+    "is_first_time_receiver": true,
+    "reported_by_user": true,
+    "category": "UPI Refund Scam",
+    "risk_level": "High",
+    "expected_score_range": [
+      60,
+      95
+    ],
+    "risk_factors": [
+      "refund or reversal language",
+      "collect request",
+      "first-time receiver",
+      "urgent payment pressure"
+    ],
+    "explanation": "Synthetic UPI refund pattern where a victim is asked to approve a request to receive money."
+  },
+  {
+    "id": "UPI-REFUND-013",
+    "amount": 2422,
+    "payment_method": "UPI",
+    "receiver_name": "Demo UPI Refund Desk 013",
+    "receiver_placeholder": "UPI_REFUND_PLACEHOLDER_013",
+    "timestamp": "2026-03-14T16:31:00",
+    "city": "Demo City South",
+    "note": "FAKE DEMO TXN: urgent refund reversal for failed payment 013. Approve collect request now to receive money back.",
+    "user_age_group": "Adult",
+    "previous_transaction_count": 1,
+    "is_first_time_receiver": true,
+    "reported_by_user": false,
+    "category": "UPI Refund Scam",
+    "risk_level": "High",
+    "expected_score_range": [
+      60,
+      95
+    ],
+    "risk_factors": [
+      "refund or reversal language",
+      "collect request",
+      "first-time receiver",
+      "urgent payment pressure"
+    ],
+    "explanation": "Synthetic UPI refund pattern where a victim is asked to approve a request to receive money."
+  },
+  {
+    "id": "UPI-REFUND-014",
+    "amount": 2493,
+    "payment_method": "UPI",
+    "receiver_name": "Demo UPI Refund Desk 014",
+    "receiver_placeholder": "UPI_REFUND_PLACEHOLDER_014",
+    "timestamp": "2026-03-15T16:38:00",
+    "city": "Training Nagar",
+    "note": "FAKE DEMO TXN: urgent refund reversal for failed payment 014. Approve collect request now to receive money back.",
+    "user_age_group": "Adult",
+    "previous_transaction_count": 1,
+    "is_first_time_receiver": true,
+    "reported_by_user": true,
+    "category": "UPI Refund Scam",
+    "risk_level": "High",
+    "expected_score_range": [
+      60,
+      95
+    ],
+    "risk_factors": [
+      "refund or reversal language",
+      "collect request",
+      "first-time receiver",
+      "urgent payment pressure"
+    ],
+    "explanation": "Synthetic UPI refund pattern where a victim is asked to approve a request to receive money."
+  },
+  {
+    "id": "UPI-REFUND-015",
+    "amount": 2564,
+    "payment_method": "UPI",
+    "receiver_name": "Demo UPI Refund Desk 015",
+    "receiver_placeholder": "UPI_REFUND_PLACEHOLDER_015",
+    "timestamp": "2026-03-16T01:45:00",
+    "city": "Awareness Zone",
+    "note": "FAKE DEMO TXN: urgent refund reversal for failed payment 015. Approve collect request now to receive money back.",
+    "user_age_group": "Adult",
+    "previous_transaction_count": 5,
+    "is_first_time_receiver": true,
+    "reported_by_user": false,
+    "category": "UPI Refund Scam",
+    "risk_level": "Critical",
+    "expected_score_range": [
+      60,
+      95
+    ],
+    "risk_factors": [
+      "refund or reversal language",
+      "collect request",
+      "first-time receiver",
+      "urgent payment pressure"
+    ],
+    "explanation": "Synthetic UPI refund pattern where a victim is asked to approve a request to receive money."
+  },
+  {
+    "id": "UPI-REFUND-016",
+    "amount": 2635,
+    "payment_method": "UPI",
+    "receiver_name": "Demo UPI Refund Desk 016",
+    "receiver_placeholder": "UPI_REFUND_PLACEHOLDER_016",
+    "timestamp": "2026-03-17T16:52:00",
+    "city": "Cyber Demo Ward",
+    "note": "FAKE DEMO TXN: urgent refund reversal for failed payment 016. Approve collect request now to receive money back.",
+    "user_age_group": "Senior Citizen",
+    "previous_transaction_count": 1,
+    "is_first_time_receiver": true,
+    "reported_by_user": true,
+    "category": "UPI Refund Scam",
+    "risk_level": "High",
+    "expected_score_range": [
+      60,
+      95
+    ],
+    "risk_factors": [
+      "refund or reversal language",
+      "collect request",
+      "first-time receiver",
+      "urgent payment pressure"
+    ],
+    "explanation": "Synthetic UPI refund pattern where a victim is asked to approve a request to receive money."
+  },
+  {
+    "id": "UPI-REFUND-017",
+    "amount": 2706,
+    "payment_method": "UPI",
+    "receiver_name": "Demo UPI Refund Desk 017",
+    "receiver_placeholder": "UPI_REFUND_PLACEHOLDER_017",
+    "timestamp": "2026-03-18T16:59:00",
+    "city": "Safety Town",
+    "note": "FAKE DEMO TXN: urgent refund reversal for failed payment 017. Approve collect request now to receive money back.",
+    "user_age_group": "Adult",
+    "previous_transaction_count": 1,
+    "is_first_time_receiver": true,
+    "reported_by_user": false,
+    "category": "UPI Refund Scam",
+    "risk_level": "High",
+    "expected_score_range": [
+      60,
+      95
+    ],
+    "risk_factors": [
+      "refund or reversal language",
+      "collect request",
+      "first-time receiver",
+      "urgent payment pressure"
+    ],
+    "explanation": "Synthetic UPI refund pattern where a victim is asked to approve a request to receive money."
+  },
+  {
+    "id": "UPI-REFUND-018",
+    "amount": 2777,
+    "payment_method": "UPI",
+    "receiver_name": "Demo UPI Refund Desk 018",
+    "receiver_placeholder": "UPI_REFUND_PLACEHOLDER_018",
+    "timestamp": "2026-03-19T16:06:00",
+    "city": "Demo City North",
+    "note": "FAKE DEMO TXN: urgent refund reversal for failed payment 018. Approve collect request now to receive money back.",
+    "user_age_group": "Adult",
+    "previous_transaction_count": 5,
+    "is_first_time_receiver": true,
+    "reported_by_user": true,
+    "category": "UPI Refund Scam",
+    "risk_level": "High",
+    "expected_score_range": [
+      60,
+      95
+    ],
+    "risk_factors": [
+      "refund or reversal language",
+      "collect request",
+      "first-time receiver",
+      "urgent payment pressure"
+    ],
+    "explanation": "Synthetic UPI refund pattern where a victim is asked to approve a request to receive money."
+  },
+  {
+    "id": "UPI-REFUND-019",
+    "amount": 2848,
+    "payment_method": "UPI",
+    "receiver_name": "Demo UPI Refund Desk 019",
+    "receiver_placeholder": "UPI_REFUND_PLACEHOLDER_019",
+    "timestamp": "2026-03-20T16:13:00",
+    "city": "Demo City South",
+    "note": "FAKE DEMO TXN: urgent refund reversal for failed payment 019. Approve collect request now to receive money back.",
+    "user_age_group": "Adult",
+    "previous_transaction_count": 1,
+    "is_first_time_receiver": true,
+    "reported_by_user": false,
+    "category": "UPI Refund Scam",
+    "risk_level": "High",
+    "expected_score_range": [
+      60,
+      95
+    ],
+    "risk_factors": [
+      "refund or reversal language",
+      "collect request",
+      "first-time receiver",
+      "urgent payment pressure"
+    ],
+    "explanation": "Synthetic UPI refund pattern where a victim is asked to approve a request to receive money."
+  },
+  {
+    "id": "UPI-REFUND-020",
+    "amount": 2919,
+    "payment_method": "UPI",
+    "receiver_name": "Demo UPI Refund Desk 020",
+    "receiver_placeholder": "UPI_REFUND_PLACEHOLDER_020",
+    "timestamp": "2026-03-21T01:20:00",
+    "city": "Training Nagar",
+    "note": "FAKE DEMO TXN: urgent refund reversal for failed payment 020. Approve collect request now to receive money back.",
+    "user_age_group": "Senior Citizen",
+    "previous_transaction_count": 1,
+    "is_first_time_receiver": true,
+    "reported_by_user": true,
+    "category": "UPI Refund Scam",
+    "risk_level": "Critical",
+    "expected_score_range": [
+      60,
+      95
+    ],
+    "risk_factors": [
+      "refund or reversal language",
+      "collect request",
+      "first-time receiver",
+      "urgent payment pressure"
+    ],
+    "explanation": "Synthetic UPI refund pattern where a victim is asked to approve a request to receive money."
+  },
+  {
+    "id": "LOAN-FEE-001",
+    "amount": 2355,
+    "payment_method": "bank transfer",
+    "receiver_name": "Fictional Loan Processing Cell 001",
+    "receiver_placeholder": "LOAN_FEE_PLACEHOLDER_001",
+    "timestamp": "2026-03-02T12:07:00",
+    "city": "Demo City South",
+    "note": "FAKE DEMO TXN: loan approval ready. Pay processing fee and verification fee today for instant disbursal 001.",
+    "user_age_group": "Adult",
+    "previous_transaction_count": 0,
+    "is_first_time_receiver": true,
+    "reported_by_user": false,
+    "category": "Fake Loan Processing Fee",
+    "risk_level": "High",
+    "expected_score_range": [
+      58,
+      92
+    ],
+    "risk_factors": [
+      "loan approval wording",
+      "processing fee",
+      "first-time receiver",
+      "same-day pressure"
+    ],
+    "explanation": "Synthetic fake-loan pattern where an approval is used to demand advance fees."
+  },
+  {
+    "id": "LOAN-FEE-002",
+    "amount": 2510,
+    "payment_method": "UPI",
+    "receiver_name": "Fictional Loan Processing Cell 002",
+    "receiver_placeholder": "LOAN_FEE_PLACEHOLDER_002",
+    "timestamp": "2026-03-03T12:14:00",
+    "city": "Training Nagar",
+    "note": "FAKE DEMO TXN: loan approval ready. Pay processing fee and verification fee today for instant disbursal 002.",
+    "user_age_group": "Adult",
+    "previous_transaction_count": 0,
+    "is_first_time_receiver": true,
+    "reported_by_user": false,
+    "category": "Fake Loan Processing Fee",
+    "risk_level": "High",
+    "expected_score_range": [
+      58,
+      92
+    ],
+    "risk_factors": [
+      "loan approval wording",
+      "processing fee",
+      "first-time receiver",
+      "same-day pressure"
+    ],
+    "explanation": "Synthetic fake-loan pattern where an approval is used to demand advance fees."
+  },
+  {
+    "id": "LOAN-FEE-003",
+    "amount": 2665,
+    "payment_method": "bank transfer",
+    "receiver_name": "Fictional Loan Processing Cell 003",
+    "receiver_placeholder": "LOAN_FEE_PLACEHOLDER_003",
+    "timestamp": "2026-03-04T12:21:00",
+    "city": "Awareness Zone",
+    "note": "FAKE DEMO TXN: loan approval ready. Pay processing fee and verification fee today for instant disbursal 003.",
+    "user_age_group": "Adult",
+    "previous_transaction_count": 0,
+    "is_first_time_receiver": true,
+    "reported_by_user": true,
+    "category": "Fake Loan Processing Fee",
+    "risk_level": "High",
+    "expected_score_range": [
+      58,
+      92
+    ],
+    "risk_factors": [
+      "loan approval wording",
+      "processing fee",
+      "first-time receiver",
+      "same-day pressure"
+    ],
+    "explanation": "Synthetic fake-loan pattern where an approval is used to demand advance fees."
+  },
+  {
+    "id": "LOAN-FEE-004",
+    "amount": 2820,
+    "payment_method": "UPI",
+    "receiver_name": "Fictional Loan Processing Cell 004",
+    "receiver_placeholder": "LOAN_FEE_PLACEHOLDER_004",
+    "timestamp": "2026-03-05T12:28:00",
+    "city": "Cyber Demo Ward",
+    "note": "FAKE DEMO TXN: loan approval ready. Pay processing fee and verification fee today for instant disbursal 004.",
+    "user_age_group": "Senior Citizen",
+    "previous_transaction_count": 4,
+    "is_first_time_receiver": true,
+    "reported_by_user": false,
+    "category": "Fake Loan Processing Fee",
+    "risk_level": "High",
+    "expected_score_range": [
+      58,
+      92
+    ],
+    "risk_factors": [
+      "loan approval wording",
+      "processing fee",
+      "first-time receiver",
+      "same-day pressure"
+    ],
+    "explanation": "Synthetic fake-loan pattern where an approval is used to demand advance fees."
+  },
+  {
+    "id": "LOAN-FEE-005",
+    "amount": 2975,
+    "payment_method": "bank transfer",
+    "receiver_name": "Fictional Loan Processing Cell 005",
+    "receiver_placeholder": "LOAN_FEE_PLACEHOLDER_005",
+    "timestamp": "2026-03-06T12:35:00",
+    "city": "Safety Town",
+    "note": "FAKE DEMO TXN: loan approval ready. Pay processing fee and verification fee today for instant disbursal 005.",
+    "user_age_group": "Adult",
+    "previous_transaction_count": 0,
+    "is_first_time_receiver": true,
+    "reported_by_user": false,
+    "category": "Fake Loan Processing Fee",
+    "risk_level": "High",
+    "expected_score_range": [
+      58,
+      92
+    ],
+    "risk_factors": [
+      "loan approval wording",
+      "processing fee",
+      "first-time receiver",
+      "same-day pressure"
+    ],
+    "explanation": "Synthetic fake-loan pattern where an approval is used to demand advance fees."
+  },
+  {
+    "id": "LOAN-FEE-006",
+    "amount": 3130,
+    "payment_method": "UPI",
+    "receiver_name": "Fictional Loan Processing Cell 006",
+    "receiver_placeholder": "LOAN_FEE_PLACEHOLDER_006",
+    "timestamp": "2026-03-07T02:42:00",
+    "city": "Demo City North",
+    "note": "FAKE DEMO TXN: loan approval ready. Pay processing fee and verification fee today for instant disbursal 006.",
+    "user_age_group": "Adult",
+    "previous_transaction_count": 0,
+    "is_first_time_receiver": true,
+    "reported_by_user": true,
+    "category": "Fake Loan Processing Fee",
+    "risk_level": "Critical",
+    "expected_score_range": [
+      58,
+      92
+    ],
+    "risk_factors": [
+      "loan approval wording",
+      "processing fee",
+      "first-time receiver",
+      "same-day pressure"
+    ],
+    "explanation": "Synthetic fake-loan pattern where an approval is used to demand advance fees."
+  },
+  {
+    "id": "LOAN-FEE-007",
+    "amount": 3285,
+    "payment_method": "bank transfer",
+    "receiver_name": "Fictional Loan Processing Cell 007",
+    "receiver_placeholder": "LOAN_FEE_PLACEHOLDER_007",
+    "timestamp": "2026-03-08T12:49:00",
+    "city": "Demo City South",
+    "note": "FAKE DEMO TXN: loan approval ready. Pay processing fee and verification fee today for instant disbursal 007.",
+    "user_age_group": "Adult",
+    "previous_transaction_count": 0,
+    "is_first_time_receiver": true,
+    "reported_by_user": false,
+    "category": "Fake Loan Processing Fee",
+    "risk_level": "High",
+    "expected_score_range": [
+      58,
+      92
+    ],
+    "risk_factors": [
+      "loan approval wording",
+      "processing fee",
+      "first-time receiver",
+      "same-day pressure"
+    ],
+    "explanation": "Synthetic fake-loan pattern where an approval is used to demand advance fees."
+  },
+  {
+    "id": "LOAN-FEE-008",
+    "amount": 3440,
+    "payment_method": "UPI",
+    "receiver_name": "Fictional Loan Processing Cell 008",
+    "receiver_placeholder": "LOAN_FEE_PLACEHOLDER_008",
+    "timestamp": "2026-03-09T12:56:00",
+    "city": "Training Nagar",
+    "note": "FAKE DEMO TXN: loan approval ready. Pay processing fee and verification fee today for instant disbursal 008.",
+    "user_age_group": "Senior Citizen",
+    "previous_transaction_count": 4,
+    "is_first_time_receiver": true,
+    "reported_by_user": false,
+    "category": "Fake Loan Processing Fee",
+    "risk_level": "High",
+    "expected_score_range": [
+      58,
+      92
+    ],
+    "risk_factors": [
+      "loan approval wording",
+      "processing fee",
+      "first-time receiver",
+      "same-day pressure"
+    ],
+    "explanation": "Synthetic fake-loan pattern where an approval is used to demand advance fees."
+  },
+  {
+    "id": "LOAN-FEE-009",
+    "amount": 3595,
+    "payment_method": "bank transfer",
+    "receiver_name": "Fictional Loan Processing Cell 009",
+    "receiver_placeholder": "LOAN_FEE_PLACEHOLDER_009",
+    "timestamp": "2026-03-10T12:03:00",
+    "city": "Awareness Zone",
+    "note": "FAKE DEMO TXN: loan approval ready. Pay processing fee and verification fee today for instant disbursal 009.",
+    "user_age_group": "Adult",
+    "previous_transaction_count": 0,
+    "is_first_time_receiver": true,
+    "reported_by_user": true,
+    "category": "Fake Loan Processing Fee",
+    "risk_level": "High",
+    "expected_score_range": [
+      58,
+      92
+    ],
+    "risk_factors": [
+      "loan approval wording",
+      "processing fee",
+      "first-time receiver",
+      "same-day pressure"
+    ],
+    "explanation": "Synthetic fake-loan pattern where an approval is used to demand advance fees."
+  },
+  {
+    "id": "LOAN-FEE-010",
+    "amount": 3750,
+    "payment_method": "UPI",
+    "receiver_name": "Fictional Loan Processing Cell 010",
+    "receiver_placeholder": "LOAN_FEE_PLACEHOLDER_010",
+    "timestamp": "2026-03-11T12:10:00",
+    "city": "Cyber Demo Ward",
+    "note": "FAKE DEMO TXN: loan approval ready. Pay processing fee and verification fee today for instant disbursal 010.",
+    "user_age_group": "Adult",
+    "previous_transaction_count": 0,
+    "is_first_time_receiver": true,
+    "reported_by_user": false,
+    "category": "Fake Loan Processing Fee",
+    "risk_level": "High",
+    "expected_score_range": [
+      58,
+      92
+    ],
+    "risk_factors": [
+      "loan approval wording",
+      "processing fee",
+      "first-time receiver",
+      "same-day pressure"
+    ],
+    "explanation": "Synthetic fake-loan pattern where an approval is used to demand advance fees."
+  },
+  {
+    "id": "LOAN-FEE-011",
+    "amount": 3905,
+    "payment_method": "bank transfer",
+    "receiver_name": "Fictional Loan Processing Cell 011",
+    "receiver_placeholder": "LOAN_FEE_PLACEHOLDER_011",
+    "timestamp": "2026-03-12T12:17:00",
+    "city": "Safety Town",
+    "note": "FAKE DEMO TXN: loan approval ready. Pay processing fee and verification fee today for instant disbursal 011.",
+    "user_age_group": "Adult",
+    "previous_transaction_count": 0,
+    "is_first_time_receiver": true,
+    "reported_by_user": false,
+    "category": "Fake Loan Processing Fee",
+    "risk_level": "High",
+    "expected_score_range": [
+      58,
+      92
+    ],
+    "risk_factors": [
+      "loan approval wording",
+      "processing fee",
+      "first-time receiver",
+      "same-day pressure"
+    ],
+    "explanation": "Synthetic fake-loan pattern where an approval is used to demand advance fees."
+  },
+  {
+    "id": "LOAN-FEE-012",
+    "amount": 4060,
+    "payment_method": "UPI",
+    "receiver_name": "Fictional Loan Processing Cell 012",
+    "receiver_placeholder": "LOAN_FEE_PLACEHOLDER_012",
+    "timestamp": "2026-03-13T02:24:00",
+    "city": "Demo City North",
+    "note": "FAKE DEMO TXN: loan approval ready. Pay processing fee and verification fee today for instant disbursal 012.",
+    "user_age_group": "Senior Citizen",
+    "previous_transaction_count": 4,
+    "is_first_time_receiver": true,
+    "reported_by_user": true,
+    "category": "Fake Loan Processing Fee",
+    "risk_level": "Critical",
+    "expected_score_range": [
+      58,
+      92
+    ],
+    "risk_factors": [
+      "loan approval wording",
+      "processing fee",
+      "first-time receiver",
+      "same-day pressure"
+    ],
+    "explanation": "Synthetic fake-loan pattern where an approval is used to demand advance fees."
+  },
+  {
+    "id": "LOAN-FEE-013",
+    "amount": 4215,
+    "payment_method": "bank transfer",
+    "receiver_name": "Fictional Loan Processing Cell 013",
+    "receiver_placeholder": "LOAN_FEE_PLACEHOLDER_013",
+    "timestamp": "2026-03-14T12:31:00",
+    "city": "Demo City South",
+    "note": "FAKE DEMO TXN: loan approval ready. Pay processing fee and verification fee today for instant disbursal 013.",
+    "user_age_group": "Adult",
+    "previous_transaction_count": 0,
+    "is_first_time_receiver": true,
+    "reported_by_user": false,
+    "category": "Fake Loan Processing Fee",
+    "risk_level": "High",
+    "expected_score_range": [
+      58,
+      92
+    ],
+    "risk_factors": [
+      "loan approval wording",
+      "processing fee",
+      "first-time receiver",
+      "same-day pressure"
+    ],
+    "explanation": "Synthetic fake-loan pattern where an approval is used to demand advance fees."
+  },
+  {
+    "id": "LOAN-FEE-014",
+    "amount": 4370,
+    "payment_method": "UPI",
+    "receiver_name": "Fictional Loan Processing Cell 014",
+    "receiver_placeholder": "LOAN_FEE_PLACEHOLDER_014",
+    "timestamp": "2026-03-15T12:38:00",
+    "city": "Training Nagar",
+    "note": "FAKE DEMO TXN: loan approval ready. Pay processing fee and verification fee today for instant disbursal 014.",
+    "user_age_group": "Adult",
+    "previous_transaction_count": 0,
+    "is_first_time_receiver": true,
+    "reported_by_user": false,
+    "category": "Fake Loan Processing Fee",
+    "risk_level": "High",
+    "expected_score_range": [
+      58,
+      92
+    ],
+    "risk_factors": [
+      "loan approval wording",
+      "processing fee",
+      "first-time receiver",
+      "same-day pressure"
+    ],
+    "explanation": "Synthetic fake-loan pattern where an approval is used to demand advance fees."
+  },
+  {
+    "id": "LOAN-FEE-015",
+    "amount": 4525,
+    "payment_method": "bank transfer",
+    "receiver_name": "Fictional Loan Processing Cell 015",
+    "receiver_placeholder": "LOAN_FEE_PLACEHOLDER_015",
+    "timestamp": "2026-03-16T12:45:00",
+    "city": "Awareness Zone",
+    "note": "FAKE DEMO TXN: loan approval ready. Pay processing fee and verification fee today for instant disbursal 015.",
+    "user_age_group": "Adult",
+    "previous_transaction_count": 0,
+    "is_first_time_receiver": true,
+    "reported_by_user": true,
+    "category": "Fake Loan Processing Fee",
+    "risk_level": "High",
+    "expected_score_range": [
+      58,
+      92
+    ],
+    "risk_factors": [
+      "loan approval wording",
+      "processing fee",
+      "first-time receiver",
+      "same-day pressure"
+    ],
+    "explanation": "Synthetic fake-loan pattern where an approval is used to demand advance fees."
+  },
+  {
+    "id": "LOAN-FEE-016",
+    "amount": 4680,
+    "payment_method": "UPI",
+    "receiver_name": "Fictional Loan Processing Cell 016",
+    "receiver_placeholder": "LOAN_FEE_PLACEHOLDER_016",
+    "timestamp": "2026-03-17T12:52:00",
+    "city": "Cyber Demo Ward",
+    "note": "FAKE DEMO TXN: loan approval ready. Pay processing fee and verification fee today for instant disbursal 016.",
+    "user_age_group": "Senior Citizen",
+    "previous_transaction_count": 4,
+    "is_first_time_receiver": true,
+    "reported_by_user": false,
+    "category": "Fake Loan Processing Fee",
+    "risk_level": "High",
+    "expected_score_range": [
+      58,
+      92
+    ],
+    "risk_factors": [
+      "loan approval wording",
+      "processing fee",
+      "first-time receiver",
+      "same-day pressure"
+    ],
+    "explanation": "Synthetic fake-loan pattern where an approval is used to demand advance fees."
+  },
+  {
+    "id": "LOAN-FEE-017",
+    "amount": 4835,
+    "payment_method": "bank transfer",
+    "receiver_name": "Fictional Loan Processing Cell 017",
+    "receiver_placeholder": "LOAN_FEE_PLACEHOLDER_017",
+    "timestamp": "2026-03-18T12:59:00",
+    "city": "Safety Town",
+    "note": "FAKE DEMO TXN: loan approval ready. Pay processing fee and verification fee today for instant disbursal 017.",
+    "user_age_group": "Adult",
+    "previous_transaction_count": 0,
+    "is_first_time_receiver": true,
+    "reported_by_user": false,
+    "category": "Fake Loan Processing Fee",
+    "risk_level": "High",
+    "expected_score_range": [
+      58,
+      92
+    ],
+    "risk_factors": [
+      "loan approval wording",
+      "processing fee",
+      "first-time receiver",
+      "same-day pressure"
+    ],
+    "explanation": "Synthetic fake-loan pattern where an approval is used to demand advance fees."
+  },
+  {
+    "id": "LOAN-FEE-018",
+    "amount": 4990,
+    "payment_method": "UPI",
+    "receiver_name": "Fictional Loan Processing Cell 018",
+    "receiver_placeholder": "LOAN_FEE_PLACEHOLDER_018",
+    "timestamp": "2026-03-19T02:06:00",
+    "city": "Demo City North",
+    "note": "FAKE DEMO TXN: loan approval ready. Pay processing fee and verification fee today for instant disbursal 018.",
+    "user_age_group": "Adult",
+    "previous_transaction_count": 0,
+    "is_first_time_receiver": true,
+    "reported_by_user": true,
+    "category": "Fake Loan Processing Fee",
+    "risk_level": "Critical",
+    "expected_score_range": [
+      58,
+      92
+    ],
+    "risk_factors": [
+      "loan approval wording",
+      "processing fee",
+      "first-time receiver",
+      "same-day pressure"
+    ],
+    "explanation": "Synthetic fake-loan pattern where an approval is used to demand advance fees."
+  },
+  {
+    "id": "LOAN-FEE-019",
+    "amount": 5145,
+    "payment_method": "bank transfer",
+    "receiver_name": "Fictional Loan Processing Cell 019",
+    "receiver_placeholder": "LOAN_FEE_PLACEHOLDER_019",
+    "timestamp": "2026-03-20T12:13:00",
+    "city": "Demo City South",
+    "note": "FAKE DEMO TXN: loan approval ready. Pay processing fee and verification fee today for instant disbursal 019.",
+    "user_age_group": "Adult",
+    "previous_transaction_count": 0,
+    "is_first_time_receiver": true,
+    "reported_by_user": false,
+    "category": "Fake Loan Processing Fee",
+    "risk_level": "High",
+    "expected_score_range": [
+      58,
+      92
+    ],
+    "risk_factors": [
+      "loan approval wording",
+      "processing fee",
+      "first-time receiver",
+      "same-day pressure"
+    ],
+    "explanation": "Synthetic fake-loan pattern where an approval is used to demand advance fees."
+  },
+  {
+    "id": "LOAN-FEE-020",
+    "amount": 5300,
+    "payment_method": "UPI",
+    "receiver_name": "Fictional Loan Processing Cell 020",
+    "receiver_placeholder": "LOAN_FEE_PLACEHOLDER_020",
+    "timestamp": "2026-03-21T12:20:00",
+    "city": "Training Nagar",
+    "note": "FAKE DEMO TXN: loan approval ready. Pay processing fee and verification fee today for instant disbursal 020.",
+    "user_age_group": "Senior Citizen",
+    "previous_transaction_count": 4,
+    "is_first_time_receiver": true,
+    "reported_by_user": false,
+    "category": "Fake Loan Processing Fee",
+    "risk_level": "High",
+    "expected_score_range": [
+      58,
+      92
+    ],
+    "risk_factors": [
+      "loan approval wording",
+      "processing fee",
+      "first-time receiver",
+      "same-day pressure"
+    ],
+    "explanation": "Synthetic fake-loan pattern where an approval is used to demand advance fees."
+  },
+  {
+    "id": "PRIZE-FEE-001",
+    "amount": 1120,
+    "payment_method": "wallet",
+    "receiver_name": "Fictional Prize Release Desk 001",
+    "receiver_placeholder": "PRIZE_FEE_PLACEHOLDER_001",
+    "timestamp": "2026-03-02T15:07:00",
+    "city": "Demo City South",
+    "note": "FAKE DEMO TXN: winner reward claim fee 001. Pay release fee now to unlock lottery prize gift.",
+    "user_age_group": "Adult",
+    "previous_transaction_count": 0,
+    "is_first_time_receiver": true,
+    "reported_by_user": true,
+    "category": "Lottery/Prize Fee Scam",
+    "risk_level": "High",
+    "expected_score_range": [
+      58,
+      94
+    ],
+    "risk_factors": [
+      "winner or reward language",
+      "claim or release fee",
+      "urgent payment demand"
+    ],
+    "explanation": "Synthetic lottery/prize pattern where an advance release fee is demanded before a fake reward."
+  },
+  {
+    "id": "PRIZE-FEE-002",
+    "amount": 1241,
+    "payment_method": "UPI",
+    "receiver_name": "Fictional Prize Release Desk 002",
+    "receiver_placeholder": "PRIZE_FEE_PLACEHOLDER_002",
+    "timestamp": "2026-03-03T15:14:00",
+    "city": "Training Nagar",
+    "note": "FAKE DEMO TXN: winner reward claim fee 002. Pay release fee now to unlock lottery prize gift.",
+    "user_age_group": "Adult",
+    "previous_transaction_count": 0,
+    "is_first_time_receiver": true,
+    "reported_by_user": false,
+    "category": "Lottery/Prize Fee Scam",
+    "risk_level": "High",
+    "expected_score_range": [
+      58,
+      94
+    ],
+    "risk_factors": [
+      "winner or reward language",
+      "claim or release fee",
+      "urgent payment demand"
+    ],
+    "explanation": "Synthetic lottery/prize pattern where an advance release fee is demanded before a fake reward."
+  },
+  {
+    "id": "PRIZE-FEE-003",
+    "amount": 1362,
+    "payment_method": "wallet",
+    "receiver_name": "Fictional Prize Release Desk 003",
+    "receiver_placeholder": "PRIZE_FEE_PLACEHOLDER_003",
+    "timestamp": "2026-03-04T15:21:00",
+    "city": "Awareness Zone",
+    "note": "FAKE DEMO TXN: winner reward claim fee 003. Pay release fee now to unlock lottery prize gift.",
+    "user_age_group": "Adult",
+    "previous_transaction_count": 0,
+    "is_first_time_receiver": true,
+    "reported_by_user": true,
+    "category": "Lottery/Prize Fee Scam",
+    "risk_level": "High",
+    "expected_score_range": [
+      58,
+      94
+    ],
+    "risk_factors": [
+      "winner or reward language",
+      "claim or release fee",
+      "urgent payment demand"
+    ],
+    "explanation": "Synthetic lottery/prize pattern where an advance release fee is demanded before a fake reward."
+  },
+  {
+    "id": "PRIZE-FEE-004",
+    "amount": 1483,
+    "payment_method": "UPI",
+    "receiver_name": "Fictional Prize Release Desk 004",
+    "receiver_placeholder": "PRIZE_FEE_PLACEHOLDER_004",
+    "timestamp": "2026-03-05T15:28:00",
+    "city": "Cyber Demo Ward",
+    "note": "FAKE DEMO TXN: winner reward claim fee 004. Pay release fee now to unlock lottery prize gift.",
+    "user_age_group": "Adult",
+    "previous_transaction_count": 0,
+    "is_first_time_receiver": true,
+    "reported_by_user": false,
+    "category": "Lottery/Prize Fee Scam",
+    "risk_level": "High",
+    "expected_score_range": [
+      58,
+      94
+    ],
+    "risk_factors": [
+      "winner or reward language",
+      "claim or release fee",
+      "urgent payment demand"
+    ],
+    "explanation": "Synthetic lottery/prize pattern where an advance release fee is demanded before a fake reward."
+  },
+  {
+    "id": "PRIZE-FEE-005",
+    "amount": 1604,
+    "payment_method": "wallet",
+    "receiver_name": "Fictional Prize Release Desk 005",
+    "receiver_placeholder": "PRIZE_FEE_PLACEHOLDER_005",
+    "timestamp": "2026-03-06T15:35:00",
+    "city": "Safety Town",
+    "note": "FAKE DEMO TXN: winner reward claim fee 005. Pay release fee now to unlock lottery prize gift.",
+    "user_age_group": "Senior Citizen",
+    "previous_transaction_count": 6,
+    "is_first_time_receiver": true,
+    "reported_by_user": true,
+    "category": "Lottery/Prize Fee Scam",
+    "risk_level": "High",
+    "expected_score_range": [
+      58,
+      94
+    ],
+    "risk_factors": [
+      "winner or reward language",
+      "claim or release fee",
+      "urgent payment demand"
+    ],
+    "explanation": "Synthetic lottery/prize pattern where an advance release fee is demanded before a fake reward."
+  },
+  {
+    "id": "PRIZE-FEE-006",
+    "amount": 1725,
+    "payment_method": "UPI",
+    "receiver_name": "Fictional Prize Release Desk 006",
+    "receiver_placeholder": "PRIZE_FEE_PLACEHOLDER_006",
+    "timestamp": "2026-03-07T15:42:00",
+    "city": "Demo City North",
+    "note": "FAKE DEMO TXN: winner reward claim fee 006. Pay release fee now to unlock lottery prize gift.",
+    "user_age_group": "Adult",
+    "previous_transaction_count": 0,
+    "is_first_time_receiver": true,
+    "reported_by_user": false,
+    "category": "Lottery/Prize Fee Scam",
+    "risk_level": "High",
+    "expected_score_range": [
+      58,
+      94
+    ],
+    "risk_factors": [
+      "winner or reward language",
+      "claim or release fee",
+      "urgent payment demand"
+    ],
+    "explanation": "Synthetic lottery/prize pattern where an advance release fee is demanded before a fake reward."
+  },
+  {
+    "id": "PRIZE-FEE-007",
+    "amount": 1846,
+    "payment_method": "wallet",
+    "receiver_name": "Fictional Prize Release Desk 007",
+    "receiver_placeholder": "PRIZE_FEE_PLACEHOLDER_007",
+    "timestamp": "2026-03-08T00:49:00",
+    "city": "Demo City South",
+    "note": "FAKE DEMO TXN: winner reward claim fee 007. Pay release fee now to unlock lottery prize gift.",
+    "user_age_group": "Adult",
+    "previous_transaction_count": 0,
+    "is_first_time_receiver": true,
+    "reported_by_user": true,
+    "category": "Lottery/Prize Fee Scam",
+    "risk_level": "Critical",
+    "expected_score_range": [
+      58,
+      94
+    ],
+    "risk_factors": [
+      "winner or reward language",
+      "claim or release fee",
+      "urgent payment demand"
+    ],
+    "explanation": "Synthetic lottery/prize pattern where an advance release fee is demanded before a fake reward."
+  },
+  {
+    "id": "PRIZE-FEE-008",
+    "amount": 1967,
+    "payment_method": "UPI",
+    "receiver_name": "Fictional Prize Release Desk 008",
+    "receiver_placeholder": "PRIZE_FEE_PLACEHOLDER_008",
+    "timestamp": "2026-03-09T15:56:00",
+    "city": "Training Nagar",
+    "note": "FAKE DEMO TXN: winner reward claim fee 008. Pay release fee now to unlock lottery prize gift.",
+    "user_age_group": "Adult",
+    "previous_transaction_count": 0,
+    "is_first_time_receiver": true,
+    "reported_by_user": false,
+    "category": "Lottery/Prize Fee Scam",
+    "risk_level": "High",
+    "expected_score_range": [
+      58,
+      94
+    ],
+    "risk_factors": [
+      "winner or reward language",
+      "claim or release fee",
+      "urgent payment demand"
+    ],
+    "explanation": "Synthetic lottery/prize pattern where an advance release fee is demanded before a fake reward."
+  },
+  {
+    "id": "PRIZE-FEE-009",
+    "amount": 2088,
+    "payment_method": "wallet",
+    "receiver_name": "Fictional Prize Release Desk 009",
+    "receiver_placeholder": "PRIZE_FEE_PLACEHOLDER_009",
+    "timestamp": "2026-03-10T15:03:00",
+    "city": "Awareness Zone",
+    "note": "FAKE DEMO TXN: winner reward claim fee 009. Pay release fee now to unlock lottery prize gift.",
+    "user_age_group": "Adult",
+    "previous_transaction_count": 0,
+    "is_first_time_receiver": true,
+    "reported_by_user": true,
+    "category": "Lottery/Prize Fee Scam",
+    "risk_level": "High",
+    "expected_score_range": [
+      58,
+      94
+    ],
+    "risk_factors": [
+      "winner or reward language",
+      "claim or release fee",
+      "urgent payment demand"
+    ],
+    "explanation": "Synthetic lottery/prize pattern where an advance release fee is demanded before a fake reward."
+  },
+  {
+    "id": "PRIZE-FEE-010",
+    "amount": 2209,
+    "payment_method": "UPI",
+    "receiver_name": "Fictional Prize Release Desk 010",
+    "receiver_placeholder": "PRIZE_FEE_PLACEHOLDER_010",
+    "timestamp": "2026-03-11T15:10:00",
+    "city": "Cyber Demo Ward",
+    "note": "FAKE DEMO TXN: winner reward claim fee 010. Pay release fee now to unlock lottery prize gift.",
+    "user_age_group": "Senior Citizen",
+    "previous_transaction_count": 6,
+    "is_first_time_receiver": true,
+    "reported_by_user": false,
+    "category": "Lottery/Prize Fee Scam",
+    "risk_level": "High",
+    "expected_score_range": [
+      58,
+      94
+    ],
+    "risk_factors": [
+      "winner or reward language",
+      "claim or release fee",
+      "urgent payment demand"
+    ],
+    "explanation": "Synthetic lottery/prize pattern where an advance release fee is demanded before a fake reward."
+  },
+  {
+    "id": "PRIZE-FEE-011",
+    "amount": 2330,
+    "payment_method": "wallet",
+    "receiver_name": "Fictional Prize Release Desk 011",
+    "receiver_placeholder": "PRIZE_FEE_PLACEHOLDER_011",
+    "timestamp": "2026-03-12T15:17:00",
+    "city": "Safety Town",
+    "note": "FAKE DEMO TXN: winner reward claim fee 011. Pay release fee now to unlock lottery prize gift.",
+    "user_age_group": "Adult",
+    "previous_transaction_count": 0,
+    "is_first_time_receiver": true,
+    "reported_by_user": true,
+    "category": "Lottery/Prize Fee Scam",
+    "risk_level": "High",
+    "expected_score_range": [
+      58,
+      94
+    ],
+    "risk_factors": [
+      "winner or reward language",
+      "claim or release fee",
+      "urgent payment demand"
+    ],
+    "explanation": "Synthetic lottery/prize pattern where an advance release fee is demanded before a fake reward."
+  },
+  {
+    "id": "PRIZE-FEE-012",
+    "amount": 2451,
+    "payment_method": "UPI",
+    "receiver_name": "Fictional Prize Release Desk 012",
+    "receiver_placeholder": "PRIZE_FEE_PLACEHOLDER_012",
+    "timestamp": "2026-03-13T15:24:00",
+    "city": "Demo City North",
+    "note": "FAKE DEMO TXN: winner reward claim fee 012. Pay release fee now to unlock lottery prize gift.",
+    "user_age_group": "Adult",
+    "previous_transaction_count": 0,
+    "is_first_time_receiver": true,
+    "reported_by_user": false,
+    "category": "Lottery/Prize Fee Scam",
+    "risk_level": "High",
+    "expected_score_range": [
+      58,
+      94
+    ],
+    "risk_factors": [
+      "winner or reward language",
+      "claim or release fee",
+      "urgent payment demand"
+    ],
+    "explanation": "Synthetic lottery/prize pattern where an advance release fee is demanded before a fake reward."
+  },
+  {
+    "id": "PRIZE-FEE-013",
+    "amount": 2572,
+    "payment_method": "wallet",
+    "receiver_name": "Fictional Prize Release Desk 013",
+    "receiver_placeholder": "PRIZE_FEE_PLACEHOLDER_013",
+    "timestamp": "2026-03-14T15:31:00",
+    "city": "Demo City South",
+    "note": "FAKE DEMO TXN: winner reward claim fee 013. Pay release fee now to unlock lottery prize gift.",
+    "user_age_group": "Adult",
+    "previous_transaction_count": 0,
+    "is_first_time_receiver": true,
+    "reported_by_user": true,
+    "category": "Lottery/Prize Fee Scam",
+    "risk_level": "High",
+    "expected_score_range": [
+      58,
+      94
+    ],
+    "risk_factors": [
+      "winner or reward language",
+      "claim or release fee",
+      "urgent payment demand"
+    ],
+    "explanation": "Synthetic lottery/prize pattern where an advance release fee is demanded before a fake reward."
+  },
+  {
+    "id": "PRIZE-FEE-014",
+    "amount": 2693,
+    "payment_method": "UPI",
+    "receiver_name": "Fictional Prize Release Desk 014",
+    "receiver_placeholder": "PRIZE_FEE_PLACEHOLDER_014",
+    "timestamp": "2026-03-15T00:38:00",
+    "city": "Training Nagar",
+    "note": "FAKE DEMO TXN: winner reward claim fee 014. Pay release fee now to unlock lottery prize gift.",
+    "user_age_group": "Adult",
+    "previous_transaction_count": 0,
+    "is_first_time_receiver": true,
+    "reported_by_user": false,
+    "category": "Lottery/Prize Fee Scam",
+    "risk_level": "Critical",
+    "expected_score_range": [
+      58,
+      94
+    ],
+    "risk_factors": [
+      "winner or reward language",
+      "claim or release fee",
+      "urgent payment demand"
+    ],
+    "explanation": "Synthetic lottery/prize pattern where an advance release fee is demanded before a fake reward."
+  },
+  {
+    "id": "PRIZE-FEE-015",
+    "amount": 2814,
+    "payment_method": "wallet",
+    "receiver_name": "Fictional Prize Release Desk 015",
+    "receiver_placeholder": "PRIZE_FEE_PLACEHOLDER_015",
+    "timestamp": "2026-03-16T15:45:00",
+    "city": "Awareness Zone",
+    "note": "FAKE DEMO TXN: winner reward claim fee 015. Pay release fee now to unlock lottery prize gift.",
+    "user_age_group": "Senior Citizen",
+    "previous_transaction_count": 6,
+    "is_first_time_receiver": true,
+    "reported_by_user": true,
+    "category": "Lottery/Prize Fee Scam",
+    "risk_level": "High",
+    "expected_score_range": [
+      58,
+      94
+    ],
+    "risk_factors": [
+      "winner or reward language",
+      "claim or release fee",
+      "urgent payment demand"
+    ],
+    "explanation": "Synthetic lottery/prize pattern where an advance release fee is demanded before a fake reward."
+  },
+  {
+    "id": "PRIZE-FEE-016",
+    "amount": 2935,
+    "payment_method": "UPI",
+    "receiver_name": "Fictional Prize Release Desk 016",
+    "receiver_placeholder": "PRIZE_FEE_PLACEHOLDER_016",
+    "timestamp": "2026-03-17T15:52:00",
+    "city": "Cyber Demo Ward",
+    "note": "FAKE DEMO TXN: winner reward claim fee 016. Pay release fee now to unlock lottery prize gift.",
+    "user_age_group": "Adult",
+    "previous_transaction_count": 0,
+    "is_first_time_receiver": true,
+    "reported_by_user": false,
+    "category": "Lottery/Prize Fee Scam",
+    "risk_level": "High",
+    "expected_score_range": [
+      58,
+      94
+    ],
+    "risk_factors": [
+      "winner or reward language",
+      "claim or release fee",
+      "urgent payment demand"
+    ],
+    "explanation": "Synthetic lottery/prize pattern where an advance release fee is demanded before a fake reward."
+  },
+  {
+    "id": "PRIZE-FEE-017",
+    "amount": 3056,
+    "payment_method": "wallet",
+    "receiver_name": "Fictional Prize Release Desk 017",
+    "receiver_placeholder": "PRIZE_FEE_PLACEHOLDER_017",
+    "timestamp": "2026-03-18T15:59:00",
+    "city": "Safety Town",
+    "note": "FAKE DEMO TXN: winner reward claim fee 017. Pay release fee now to unlock lottery prize gift.",
+    "user_age_group": "Adult",
+    "previous_transaction_count": 0,
+    "is_first_time_receiver": true,
+    "reported_by_user": true,
+    "category": "Lottery/Prize Fee Scam",
+    "risk_level": "High",
+    "expected_score_range": [
+      58,
+      94
+    ],
+    "risk_factors": [
+      "winner or reward language",
+      "claim or release fee",
+      "urgent payment demand"
+    ],
+    "explanation": "Synthetic lottery/prize pattern where an advance release fee is demanded before a fake reward."
+  },
+  {
+    "id": "PRIZE-FEE-018",
+    "amount": 3177,
+    "payment_method": "UPI",
+    "receiver_name": "Fictional Prize Release Desk 018",
+    "receiver_placeholder": "PRIZE_FEE_PLACEHOLDER_018",
+    "timestamp": "2026-03-19T15:06:00",
+    "city": "Demo City North",
+    "note": "FAKE DEMO TXN: winner reward claim fee 018. Pay release fee now to unlock lottery prize gift.",
+    "user_age_group": "Adult",
+    "previous_transaction_count": 0,
+    "is_first_time_receiver": true,
+    "reported_by_user": false,
+    "category": "Lottery/Prize Fee Scam",
+    "risk_level": "High",
+    "expected_score_range": [
+      58,
+      94
+    ],
+    "risk_factors": [
+      "winner or reward language",
+      "claim or release fee",
+      "urgent payment demand"
+    ],
+    "explanation": "Synthetic lottery/prize pattern where an advance release fee is demanded before a fake reward."
+  },
+  {
+    "id": "PRIZE-FEE-019",
+    "amount": 3298,
+    "payment_method": "wallet",
+    "receiver_name": "Fictional Prize Release Desk 019",
+    "receiver_placeholder": "PRIZE_FEE_PLACEHOLDER_019",
+    "timestamp": "2026-03-20T15:13:00",
+    "city": "Demo City South",
+    "note": "FAKE DEMO TXN: winner reward claim fee 019. Pay release fee now to unlock lottery prize gift.",
+    "user_age_group": "Adult",
+    "previous_transaction_count": 0,
+    "is_first_time_receiver": true,
+    "reported_by_user": true,
+    "category": "Lottery/Prize Fee Scam",
+    "risk_level": "High",
+    "expected_score_range": [
+      58,
+      94
+    ],
+    "risk_factors": [
+      "winner or reward language",
+      "claim or release fee",
+      "urgent payment demand"
+    ],
+    "explanation": "Synthetic lottery/prize pattern where an advance release fee is demanded before a fake reward."
+  },
+  {
+    "id": "PRIZE-FEE-020",
+    "amount": 3419,
+    "payment_method": "UPI",
+    "receiver_name": "Fictional Prize Release Desk 020",
+    "receiver_placeholder": "PRIZE_FEE_PLACEHOLDER_020",
+    "timestamp": "2026-03-21T15:20:00",
+    "city": "Training Nagar",
+    "note": "FAKE DEMO TXN: winner reward claim fee 020. Pay release fee now to unlock lottery prize gift.",
+    "user_age_group": "Senior Citizen",
+    "previous_transaction_count": 6,
+    "is_first_time_receiver": true,
+    "reported_by_user": false,
+    "category": "Lottery/Prize Fee Scam",
+    "risk_level": "High",
+    "expected_score_range": [
+      58,
+      94
+    ],
+    "risk_factors": [
+      "winner or reward language",
+      "claim or release fee",
+      "urgent payment demand"
+    ],
+    "explanation": "Synthetic lottery/prize pattern where an advance release fee is demanded before a fake reward."
+  },
+  {
+    "id": "JOB-FEE-001",
+    "amount": 733,
+    "payment_method": "UPI",
+    "receiver_name": "Fictional Recruitment Desk 001",
+    "receiver_placeholder": "JOB_FEE_PLACEHOLDER_001",
+    "timestamp": "2026-03-02T11:07:00",
+    "city": "Demo City South",
+    "note": "FAKE DEMO TXN: job registration fee 001 for work from home task. Pay training fee today to activate profile.",
+    "user_age_group": "Job Seeker",
+    "previous_transaction_count": 1,
+    "is_first_time_receiver": true,
+    "reported_by_user": false,
+    "category": "Fake Job Registration Fee",
+    "risk_level": "High",
+    "expected_score_range": [
+      55,
+      88
+    ],
+    "risk_factors": [
+      "job registration fee",
+      "work-from-home task wording",
+      "student/job seeker targeting"
+    ],
+    "explanation": "Synthetic job scam pattern where a candidate is asked to pay registration or training fees."
+  },
+  {
+    "id": "JOB-FEE-002",
+    "amount": 816,
+    "payment_method": "UPI",
+    "receiver_name": "Fictional Recruitment Desk 002",
+    "receiver_placeholder": "JOB_FEE_PLACEHOLDER_002",
+    "timestamp": "2026-03-03T11:14:00",
+    "city": "Training Nagar",
+    "note": "FAKE DEMO TXN: job registration fee 002 for work from home task. Pay training fee today to activate profile.",
+    "user_age_group": "Student",
+    "previous_transaction_count": 1,
+    "is_first_time_receiver": true,
+    "reported_by_user": false,
+    "category": "Fake Job Registration Fee",
+    "risk_level": "High",
+    "expected_score_range": [
+      55,
+      88
+    ],
+    "risk_factors": [
+      "job registration fee",
+      "work-from-home task wording",
+      "student/job seeker targeting"
+    ],
+    "explanation": "Synthetic job scam pattern where a candidate is asked to pay registration or training fees."
+  },
+  {
+    "id": "JOB-FEE-003",
+    "amount": 899,
+    "payment_method": "wallet",
+    "receiver_name": "Fictional Recruitment Desk 003",
+    "receiver_placeholder": "JOB_FEE_PLACEHOLDER_003",
+    "timestamp": "2026-03-04T11:21:00",
+    "city": "Awareness Zone",
+    "note": "FAKE DEMO TXN: job registration fee 003 for work from home task. Pay training fee today to activate profile.",
+    "user_age_group": "Job Seeker",
+    "previous_transaction_count": 7,
+    "is_first_time_receiver": true,
+    "reported_by_user": false,
+    "category": "Fake Job Registration Fee",
+    "risk_level": "High",
+    "expected_score_range": [
+      55,
+      88
+    ],
+    "risk_factors": [
+      "job registration fee",
+      "work-from-home task wording",
+      "student/job seeker targeting"
+    ],
+    "explanation": "Synthetic job scam pattern where a candidate is asked to pay registration or training fees."
+  },
+  {
+    "id": "JOB-FEE-004",
+    "amount": 982,
+    "payment_method": "UPI",
+    "receiver_name": "Fictional Recruitment Desk 004",
+    "receiver_placeholder": "JOB_FEE_PLACEHOLDER_004",
+    "timestamp": "2026-03-05T23:28:00",
+    "city": "Cyber Demo Ward",
+    "note": "FAKE DEMO TXN: job registration fee 004 for work from home task. Pay training fee today to activate profile.",
+    "user_age_group": "Student",
+    "previous_transaction_count": 1,
+    "is_first_time_receiver": true,
+    "reported_by_user": true,
+    "category": "Fake Job Registration Fee",
+    "risk_level": "High",
+    "expected_score_range": [
+      55,
+      88
+    ],
+    "risk_factors": [
+      "job registration fee",
+      "work-from-home task wording",
+      "student/job seeker targeting"
+    ],
+    "explanation": "Synthetic job scam pattern where a candidate is asked to pay registration or training fees."
+  },
+  {
+    "id": "JOB-FEE-005",
+    "amount": 1065,
+    "payment_method": "UPI",
+    "receiver_name": "Fictional Recruitment Desk 005",
+    "receiver_placeholder": "JOB_FEE_PLACEHOLDER_005",
+    "timestamp": "2026-03-06T11:35:00",
+    "city": "Safety Town",
+    "note": "FAKE DEMO TXN: job registration fee 005 for work from home task. Pay training fee today to activate profile.",
+    "user_age_group": "Job Seeker",
+    "previous_transaction_count": 1,
+    "is_first_time_receiver": true,
+    "reported_by_user": false,
+    "category": "Fake Job Registration Fee",
+    "risk_level": "High",
+    "expected_score_range": [
+      55,
+      88
+    ],
+    "risk_factors": [
+      "job registration fee",
+      "work-from-home task wording",
+      "student/job seeker targeting"
+    ],
+    "explanation": "Synthetic job scam pattern where a candidate is asked to pay registration or training fees."
+  },
+  {
+    "id": "JOB-FEE-006",
+    "amount": 1148,
+    "payment_method": "wallet",
+    "receiver_name": "Fictional Recruitment Desk 006",
+    "receiver_placeholder": "JOB_FEE_PLACEHOLDER_006",
+    "timestamp": "2026-03-07T11:42:00",
+    "city": "Demo City North",
+    "note": "FAKE DEMO TXN: job registration fee 006 for work from home task. Pay training fee today to activate profile.",
+    "user_age_group": "Student",
+    "previous_transaction_count": 7,
+    "is_first_time_receiver": true,
+    "reported_by_user": false,
+    "category": "Fake Job Registration Fee",
+    "risk_level": "High",
+    "expected_score_range": [
+      55,
+      88
+    ],
+    "risk_factors": [
+      "job registration fee",
+      "work-from-home task wording",
+      "student/job seeker targeting"
+    ],
+    "explanation": "Synthetic job scam pattern where a candidate is asked to pay registration or training fees."
+  },
+  {
+    "id": "JOB-FEE-007",
+    "amount": 1231,
+    "payment_method": "UPI",
+    "receiver_name": "Fictional Recruitment Desk 007",
+    "receiver_placeholder": "JOB_FEE_PLACEHOLDER_007",
+    "timestamp": "2026-03-08T11:49:00",
+    "city": "Demo City South",
+    "note": "FAKE DEMO TXN: job registration fee 007 for work from home task. Pay training fee today to activate profile.",
+    "user_age_group": "Job Seeker",
+    "previous_transaction_count": 1,
+    "is_first_time_receiver": true,
+    "reported_by_user": false,
+    "category": "Fake Job Registration Fee",
+    "risk_level": "High",
+    "expected_score_range": [
+      55,
+      88
+    ],
+    "risk_factors": [
+      "job registration fee",
+      "work-from-home task wording",
+      "student/job seeker targeting"
+    ],
+    "explanation": "Synthetic job scam pattern where a candidate is asked to pay registration or training fees."
+  },
+  {
+    "id": "JOB-FEE-008",
+    "amount": 1314,
+    "payment_method": "UPI",
+    "receiver_name": "Fictional Recruitment Desk 008",
+    "receiver_placeholder": "JOB_FEE_PLACEHOLDER_008",
+    "timestamp": "2026-03-09T23:56:00",
+    "city": "Training Nagar",
+    "note": "FAKE DEMO TXN: job registration fee 008 for work from home task. Pay training fee today to activate profile.",
+    "user_age_group": "Student",
+    "previous_transaction_count": 1,
+    "is_first_time_receiver": true,
+    "reported_by_user": true,
+    "category": "Fake Job Registration Fee",
+    "risk_level": "High",
+    "expected_score_range": [
+      55,
+      88
+    ],
+    "risk_factors": [
+      "job registration fee",
+      "work-from-home task wording",
+      "student/job seeker targeting"
+    ],
+    "explanation": "Synthetic job scam pattern where a candidate is asked to pay registration or training fees."
+  },
+  {
+    "id": "JOB-FEE-009",
+    "amount": 1397,
+    "payment_method": "wallet",
+    "receiver_name": "Fictional Recruitment Desk 009",
+    "receiver_placeholder": "JOB_FEE_PLACEHOLDER_009",
+    "timestamp": "2026-03-10T11:03:00",
+    "city": "Awareness Zone",
+    "note": "FAKE DEMO TXN: job registration fee 009 for work from home task. Pay training fee today to activate profile.",
+    "user_age_group": "Job Seeker",
+    "previous_transaction_count": 7,
+    "is_first_time_receiver": true,
+    "reported_by_user": false,
+    "category": "Fake Job Registration Fee",
+    "risk_level": "High",
+    "expected_score_range": [
+      55,
+      88
+    ],
+    "risk_factors": [
+      "job registration fee",
+      "work-from-home task wording",
+      "student/job seeker targeting"
+    ],
+    "explanation": "Synthetic job scam pattern where a candidate is asked to pay registration or training fees."
+  },
+  {
+    "id": "JOB-FEE-010",
+    "amount": 1480,
+    "payment_method": "UPI",
+    "receiver_name": "Fictional Recruitment Desk 010",
+    "receiver_placeholder": "JOB_FEE_PLACEHOLDER_010",
+    "timestamp": "2026-03-11T11:10:00",
+    "city": "Cyber Demo Ward",
+    "note": "FAKE DEMO TXN: job registration fee 010 for work from home task. Pay training fee today to activate profile.",
+    "user_age_group": "Student",
+    "previous_transaction_count": 1,
+    "is_first_time_receiver": true,
+    "reported_by_user": false,
+    "category": "Fake Job Registration Fee",
+    "risk_level": "High",
+    "expected_score_range": [
+      55,
+      88
+    ],
+    "risk_factors": [
+      "job registration fee",
+      "work-from-home task wording",
+      "student/job seeker targeting"
+    ],
+    "explanation": "Synthetic job scam pattern where a candidate is asked to pay registration or training fees."
+  },
+  {
+    "id": "JOB-FEE-011",
+    "amount": 1563,
+    "payment_method": "UPI",
+    "receiver_name": "Fictional Recruitment Desk 011",
+    "receiver_placeholder": "JOB_FEE_PLACEHOLDER_011",
+    "timestamp": "2026-03-12T11:17:00",
+    "city": "Safety Town",
+    "note": "FAKE DEMO TXN: job registration fee 011 for work from home task. Pay training fee today to activate profile.",
+    "user_age_group": "Job Seeker",
+    "previous_transaction_count": 1,
+    "is_first_time_receiver": true,
+    "reported_by_user": false,
+    "category": "Fake Job Registration Fee",
+    "risk_level": "High",
+    "expected_score_range": [
+      55,
+      88
+    ],
+    "risk_factors": [
+      "job registration fee",
+      "work-from-home task wording",
+      "student/job seeker targeting"
+    ],
+    "explanation": "Synthetic job scam pattern where a candidate is asked to pay registration or training fees."
+  },
+  {
+    "id": "JOB-FEE-012",
+    "amount": 1646,
+    "payment_method": "wallet",
+    "receiver_name": "Fictional Recruitment Desk 012",
+    "receiver_placeholder": "JOB_FEE_PLACEHOLDER_012",
+    "timestamp": "2026-03-13T23:24:00",
+    "city": "Demo City North",
+    "note": "FAKE DEMO TXN: job registration fee 012 for work from home task. Pay training fee today to activate profile.",
+    "user_age_group": "Student",
+    "previous_transaction_count": 7,
+    "is_first_time_receiver": true,
+    "reported_by_user": true,
+    "category": "Fake Job Registration Fee",
+    "risk_level": "High",
+    "expected_score_range": [
+      55,
+      88
+    ],
+    "risk_factors": [
+      "job registration fee",
+      "work-from-home task wording",
+      "student/job seeker targeting"
+    ],
+    "explanation": "Synthetic job scam pattern where a candidate is asked to pay registration or training fees."
+  },
+  {
+    "id": "JOB-FEE-013",
+    "amount": 1729,
+    "payment_method": "UPI",
+    "receiver_name": "Fictional Recruitment Desk 013",
+    "receiver_placeholder": "JOB_FEE_PLACEHOLDER_013",
+    "timestamp": "2026-03-14T11:31:00",
+    "city": "Demo City South",
+    "note": "FAKE DEMO TXN: job registration fee 013 for work from home task. Pay training fee today to activate profile.",
+    "user_age_group": "Job Seeker",
+    "previous_transaction_count": 1,
+    "is_first_time_receiver": true,
+    "reported_by_user": false,
+    "category": "Fake Job Registration Fee",
+    "risk_level": "High",
+    "expected_score_range": [
+      55,
+      88
+    ],
+    "risk_factors": [
+      "job registration fee",
+      "work-from-home task wording",
+      "student/job seeker targeting"
+    ],
+    "explanation": "Synthetic job scam pattern where a candidate is asked to pay registration or training fees."
+  },
+  {
+    "id": "JOB-FEE-014",
+    "amount": 1812,
+    "payment_method": "UPI",
+    "receiver_name": "Fictional Recruitment Desk 014",
+    "receiver_placeholder": "JOB_FEE_PLACEHOLDER_014",
+    "timestamp": "2026-03-15T11:38:00",
+    "city": "Training Nagar",
+    "note": "FAKE DEMO TXN: job registration fee 014 for work from home task. Pay training fee today to activate profile.",
+    "user_age_group": "Student",
+    "previous_transaction_count": 1,
+    "is_first_time_receiver": true,
+    "reported_by_user": false,
+    "category": "Fake Job Registration Fee",
+    "risk_level": "High",
+    "expected_score_range": [
+      55,
+      88
+    ],
+    "risk_factors": [
+      "job registration fee",
+      "work-from-home task wording",
+      "student/job seeker targeting"
+    ],
+    "explanation": "Synthetic job scam pattern where a candidate is asked to pay registration or training fees."
+  },
+  {
+    "id": "JOB-FEE-015",
+    "amount": 1895,
+    "payment_method": "wallet",
+    "receiver_name": "Fictional Recruitment Desk 015",
+    "receiver_placeholder": "JOB_FEE_PLACEHOLDER_015",
+    "timestamp": "2026-03-16T11:45:00",
+    "city": "Awareness Zone",
+    "note": "FAKE DEMO TXN: job registration fee 015 for work from home task. Pay training fee today to activate profile.",
+    "user_age_group": "Job Seeker",
+    "previous_transaction_count": 7,
+    "is_first_time_receiver": true,
+    "reported_by_user": false,
+    "category": "Fake Job Registration Fee",
+    "risk_level": "High",
+    "expected_score_range": [
+      55,
+      88
+    ],
+    "risk_factors": [
+      "job registration fee",
+      "work-from-home task wording",
+      "student/job seeker targeting"
+    ],
+    "explanation": "Synthetic job scam pattern where a candidate is asked to pay registration or training fees."
+  },
+  {
+    "id": "JOB-FEE-016",
+    "amount": 1978,
+    "payment_method": "UPI",
+    "receiver_name": "Fictional Recruitment Desk 016",
+    "receiver_placeholder": "JOB_FEE_PLACEHOLDER_016",
+    "timestamp": "2026-03-17T23:52:00",
+    "city": "Cyber Demo Ward",
+    "note": "FAKE DEMO TXN: job registration fee 016 for work from home task. Pay training fee today to activate profile.",
+    "user_age_group": "Student",
+    "previous_transaction_count": 1,
+    "is_first_time_receiver": true,
+    "reported_by_user": true,
+    "category": "Fake Job Registration Fee",
+    "risk_level": "High",
+    "expected_score_range": [
+      55,
+      88
+    ],
+    "risk_factors": [
+      "job registration fee",
+      "work-from-home task wording",
+      "student/job seeker targeting"
+    ],
+    "explanation": "Synthetic job scam pattern where a candidate is asked to pay registration or training fees."
+  },
+  {
+    "id": "JOB-FEE-017",
+    "amount": 2061,
+    "payment_method": "UPI",
+    "receiver_name": "Fictional Recruitment Desk 017",
+    "receiver_placeholder": "JOB_FEE_PLACEHOLDER_017",
+    "timestamp": "2026-03-18T11:59:00",
+    "city": "Safety Town",
+    "note": "FAKE DEMO TXN: job registration fee 017 for work from home task. Pay training fee today to activate profile.",
+    "user_age_group": "Job Seeker",
+    "previous_transaction_count": 1,
+    "is_first_time_receiver": true,
+    "reported_by_user": false,
+    "category": "Fake Job Registration Fee",
+    "risk_level": "High",
+    "expected_score_range": [
+      55,
+      88
+    ],
+    "risk_factors": [
+      "job registration fee",
+      "work-from-home task wording",
+      "student/job seeker targeting"
+    ],
+    "explanation": "Synthetic job scam pattern where a candidate is asked to pay registration or training fees."
+  },
+  {
+    "id": "JOB-FEE-018",
+    "amount": 2144,
+    "payment_method": "wallet",
+    "receiver_name": "Fictional Recruitment Desk 018",
+    "receiver_placeholder": "JOB_FEE_PLACEHOLDER_018",
+    "timestamp": "2026-03-19T11:06:00",
+    "city": "Demo City North",
+    "note": "FAKE DEMO TXN: job registration fee 018 for work from home task. Pay training fee today to activate profile.",
+    "user_age_group": "Student",
+    "previous_transaction_count": 7,
+    "is_first_time_receiver": true,
+    "reported_by_user": false,
+    "category": "Fake Job Registration Fee",
+    "risk_level": "High",
+    "expected_score_range": [
+      55,
+      88
+    ],
+    "risk_factors": [
+      "job registration fee",
+      "work-from-home task wording",
+      "student/job seeker targeting"
+    ],
+    "explanation": "Synthetic job scam pattern where a candidate is asked to pay registration or training fees."
+  },
+  {
+    "id": "JOB-FEE-019",
+    "amount": 2227,
+    "payment_method": "UPI",
+    "receiver_name": "Fictional Recruitment Desk 019",
+    "receiver_placeholder": "JOB_FEE_PLACEHOLDER_019",
+    "timestamp": "2026-03-20T11:13:00",
+    "city": "Demo City South",
+    "note": "FAKE DEMO TXN: job registration fee 019 for work from home task. Pay training fee today to activate profile.",
+    "user_age_group": "Job Seeker",
+    "previous_transaction_count": 1,
+    "is_first_time_receiver": true,
+    "reported_by_user": false,
+    "category": "Fake Job Registration Fee",
+    "risk_level": "High",
+    "expected_score_range": [
+      55,
+      88
+    ],
+    "risk_factors": [
+      "job registration fee",
+      "work-from-home task wording",
+      "student/job seeker targeting"
+    ],
+    "explanation": "Synthetic job scam pattern where a candidate is asked to pay registration or training fees."
+  },
+  {
+    "id": "JOB-FEE-020",
+    "amount": 2310,
+    "payment_method": "UPI",
+    "receiver_name": "Fictional Recruitment Desk 020",
+    "receiver_placeholder": "JOB_FEE_PLACEHOLDER_020",
+    "timestamp": "2026-03-21T23:20:00",
+    "city": "Training Nagar",
+    "note": "FAKE DEMO TXN: job registration fee 020 for work from home task. Pay training fee today to activate profile.",
+    "user_age_group": "Student",
+    "previous_transaction_count": 1,
+    "is_first_time_receiver": true,
+    "reported_by_user": true,
+    "category": "Fake Job Registration Fee",
+    "risk_level": "High",
+    "expected_score_range": [
+      55,
+      88
+    ],
+    "risk_factors": [
+      "job registration fee",
+      "work-from-home task wording",
+      "student/job seeker targeting"
+    ],
+    "explanation": "Synthetic job scam pattern where a candidate is asked to pay registration or training fees."
+  },
+  {
+    "id": "CARE-REFUND-001",
+    "amount": 1390,
+    "payment_method": "UPI",
+    "receiver_name": "Demo Customer Care Refund Desk 001",
+    "receiver_placeholder": "CUSTOMER_CARE_PLACEHOLDER_001",
+    "timestamp": "2026-03-02T17:07:00",
+    "city": "Demo City South",
+    "note": "FAKE DEMO TXN: customer care support desk refund 001. Pay small activation amount now for cashback reversal.",
+    "user_age_group": "Adult",
+    "previous_transaction_count": 0,
+    "is_first_time_receiver": true,
+    "reported_by_user": true,
+    "category": "Fake Customer Care Refund Scam",
+    "risk_level": "High",
+    "expected_score_range": [
+      65,
+      98
+    ],
+    "risk_factors": [
+      "customer care wording",
+      "refund/cashback language",
+      "activation payment demand"
+    ],
+    "explanation": "Synthetic fake customer-care refund pattern using support language to request payment."
+  },
+  {
+    "id": "CARE-REFUND-002",
+    "amount": 1481,
+    "payment_method": "UPI",
+    "receiver_name": "Demo Customer Care Refund Desk 002",
+    "receiver_placeholder": "CUSTOMER_CARE_PLACEHOLDER_002",
+    "timestamp": "2026-03-03T17:14:00",
+    "city": "Training Nagar",
+    "note": "FAKE DEMO TXN: customer care support desk refund 002. Pay small activation amount now for cashback reversal.",
+    "user_age_group": "Adult",
+    "previous_transaction_count": 5,
+    "is_first_time_receiver": true,
+    "reported_by_user": true,
+    "category": "Fake Customer Care Refund Scam",
+    "risk_level": "High",
+    "expected_score_range": [
+      65,
+      98
+    ],
+    "risk_factors": [
+      "customer care wording",
+      "refund/cashback language",
+      "activation payment demand"
+    ],
+    "explanation": "Synthetic fake customer-care refund pattern using support language to request payment."
+  },
+  {
+    "id": "CARE-REFUND-003",
+    "amount": 1572,
+    "payment_method": "UPI",
+    "receiver_name": "Demo Customer Care Refund Desk 003",
+    "receiver_placeholder": "CUSTOMER_CARE_PLACEHOLDER_003",
+    "timestamp": "2026-03-04T17:21:00",
+    "city": "Awareness Zone",
+    "note": "FAKE DEMO TXN: customer care support desk refund 003. Pay small activation amount now for cashback reversal.",
+    "user_age_group": "Senior Citizen",
+    "previous_transaction_count": 0,
+    "is_first_time_receiver": true,
+    "reported_by_user": true,
+    "category": "Fake Customer Care Refund Scam",
+    "risk_level": "High",
+    "expected_score_range": [
+      65,
+      98
+    ],
+    "risk_factors": [
+      "customer care wording",
+      "refund/cashback language",
+      "activation payment demand"
+    ],
+    "explanation": "Synthetic fake customer-care refund pattern using support language to request payment."
+  },
+  {
+    "id": "CARE-REFUND-004",
+    "amount": 1663,
+    "payment_method": "UPI",
+    "receiver_name": "Demo Customer Care Refund Desk 004",
+    "receiver_placeholder": "CUSTOMER_CARE_PLACEHOLDER_004",
+    "timestamp": "2026-03-05T03:28:00",
+    "city": "Cyber Demo Ward",
+    "note": "FAKE DEMO TXN: customer care support desk refund 004. Pay small activation amount now for cashback reversal.",
+    "user_age_group": "Adult",
+    "previous_transaction_count": 5,
+    "is_first_time_receiver": true,
+    "reported_by_user": true,
+    "category": "Fake Customer Care Refund Scam",
+    "risk_level": "Critical",
+    "expected_score_range": [
+      65,
+      98
+    ],
+    "risk_factors": [
+      "customer care wording",
+      "refund/cashback language",
+      "activation payment demand"
+    ],
+    "explanation": "Synthetic fake customer-care refund pattern using support language to request payment."
+  },
+  {
+    "id": "CARE-REFUND-005",
+    "amount": 1754,
+    "payment_method": "UPI",
+    "receiver_name": "Demo Customer Care Refund Desk 005",
+    "receiver_placeholder": "CUSTOMER_CARE_PLACEHOLDER_005",
+    "timestamp": "2026-03-06T17:35:00",
+    "city": "Safety Town",
+    "note": "FAKE DEMO TXN: customer care support desk refund 005. Pay small activation amount now for cashback reversal.",
+    "user_age_group": "Adult",
+    "previous_transaction_count": 0,
+    "is_first_time_receiver": true,
+    "reported_by_user": true,
+    "category": "Fake Customer Care Refund Scam",
+    "risk_level": "High",
+    "expected_score_range": [
+      65,
+      98
+    ],
+    "risk_factors": [
+      "customer care wording",
+      "refund/cashback language",
+      "activation payment demand"
+    ],
+    "explanation": "Synthetic fake customer-care refund pattern using support language to request payment."
+  },
+  {
+    "id": "CARE-REFUND-006",
+    "amount": 1845,
+    "payment_method": "UPI",
+    "receiver_name": "Demo Customer Care Refund Desk 006",
+    "receiver_placeholder": "CUSTOMER_CARE_PLACEHOLDER_006",
+    "timestamp": "2026-03-07T17:42:00",
+    "city": "Demo City North",
+    "note": "FAKE DEMO TXN: customer care support desk refund 006. Pay small activation amount now for cashback reversal.",
+    "user_age_group": "Senior Citizen",
+    "previous_transaction_count": 5,
+    "is_first_time_receiver": true,
+    "reported_by_user": true,
+    "category": "Fake Customer Care Refund Scam",
+    "risk_level": "High",
+    "expected_score_range": [
+      65,
+      98
+    ],
+    "risk_factors": [
+      "customer care wording",
+      "refund/cashback language",
+      "activation payment demand"
+    ],
+    "explanation": "Synthetic fake customer-care refund pattern using support language to request payment."
+  },
+  {
+    "id": "CARE-REFUND-007",
+    "amount": 1936,
+    "payment_method": "UPI",
+    "receiver_name": "Demo Customer Care Refund Desk 007",
+    "receiver_placeholder": "CUSTOMER_CARE_PLACEHOLDER_007",
+    "timestamp": "2026-03-08T17:49:00",
+    "city": "Demo City South",
+    "note": "FAKE DEMO TXN: customer care support desk refund 007. Pay small activation amount now for cashback reversal.",
+    "user_age_group": "Adult",
+    "previous_transaction_count": 0,
+    "is_first_time_receiver": true,
+    "reported_by_user": true,
+    "category": "Fake Customer Care Refund Scam",
+    "risk_level": "High",
+    "expected_score_range": [
+      65,
+      98
+    ],
+    "risk_factors": [
+      "customer care wording",
+      "refund/cashback language",
+      "activation payment demand"
+    ],
+    "explanation": "Synthetic fake customer-care refund pattern using support language to request payment."
+  },
+  {
+    "id": "CARE-REFUND-008",
+    "amount": 2027,
+    "payment_method": "UPI",
+    "receiver_name": "Demo Customer Care Refund Desk 008",
+    "receiver_placeholder": "CUSTOMER_CARE_PLACEHOLDER_008",
+    "timestamp": "2026-03-09T03:56:00",
+    "city": "Training Nagar",
+    "note": "FAKE DEMO TXN: customer care support desk refund 008. Pay small activation amount now for cashback reversal.",
+    "user_age_group": "Adult",
+    "previous_transaction_count": 5,
+    "is_first_time_receiver": true,
+    "reported_by_user": true,
+    "category": "Fake Customer Care Refund Scam",
+    "risk_level": "Critical",
+    "expected_score_range": [
+      65,
+      98
+    ],
+    "risk_factors": [
+      "customer care wording",
+      "refund/cashback language",
+      "activation payment demand"
+    ],
+    "explanation": "Synthetic fake customer-care refund pattern using support language to request payment."
+  },
+  {
+    "id": "CARE-REFUND-009",
+    "amount": 2118,
+    "payment_method": "UPI",
+    "receiver_name": "Demo Customer Care Refund Desk 009",
+    "receiver_placeholder": "CUSTOMER_CARE_PLACEHOLDER_009",
+    "timestamp": "2026-03-10T17:03:00",
+    "city": "Awareness Zone",
+    "note": "FAKE DEMO TXN: customer care support desk refund 009. Pay small activation amount now for cashback reversal.",
+    "user_age_group": "Senior Citizen",
+    "previous_transaction_count": 0,
+    "is_first_time_receiver": true,
+    "reported_by_user": true,
+    "category": "Fake Customer Care Refund Scam",
+    "risk_level": "High",
+    "expected_score_range": [
+      65,
+      98
+    ],
+    "risk_factors": [
+      "customer care wording",
+      "refund/cashback language",
+      "activation payment demand"
+    ],
+    "explanation": "Synthetic fake customer-care refund pattern using support language to request payment."
+  },
+  {
+    "id": "CARE-REFUND-010",
+    "amount": 2209,
+    "payment_method": "UPI",
+    "receiver_name": "Demo Customer Care Refund Desk 010",
+    "receiver_placeholder": "CUSTOMER_CARE_PLACEHOLDER_010",
+    "timestamp": "2026-03-11T17:10:00",
+    "city": "Cyber Demo Ward",
+    "note": "FAKE DEMO TXN: customer care support desk refund 010. Pay small activation amount now for cashback reversal.",
+    "user_age_group": "Adult",
+    "previous_transaction_count": 5,
+    "is_first_time_receiver": true,
+    "reported_by_user": true,
+    "category": "Fake Customer Care Refund Scam",
+    "risk_level": "High",
+    "expected_score_range": [
+      65,
+      98
+    ],
+    "risk_factors": [
+      "customer care wording",
+      "refund/cashback language",
+      "activation payment demand"
+    ],
+    "explanation": "Synthetic fake customer-care refund pattern using support language to request payment."
+  },
+  {
+    "id": "CARE-REFUND-011",
+    "amount": 2300,
+    "payment_method": "UPI",
+    "receiver_name": "Demo Customer Care Refund Desk 011",
+    "receiver_placeholder": "CUSTOMER_CARE_PLACEHOLDER_011",
+    "timestamp": "2026-03-12T17:17:00",
+    "city": "Safety Town",
+    "note": "FAKE DEMO TXN: customer care support desk refund 011. Pay small activation amount now for cashback reversal.",
+    "user_age_group": "Adult",
+    "previous_transaction_count": 0,
+    "is_first_time_receiver": true,
+    "reported_by_user": true,
+    "category": "Fake Customer Care Refund Scam",
+    "risk_level": "High",
+    "expected_score_range": [
+      65,
+      98
+    ],
+    "risk_factors": [
+      "customer care wording",
+      "refund/cashback language",
+      "activation payment demand"
+    ],
+    "explanation": "Synthetic fake customer-care refund pattern using support language to request payment."
+  },
+  {
+    "id": "CARE-REFUND-012",
+    "amount": 2391,
+    "payment_method": "UPI",
+    "receiver_name": "Demo Customer Care Refund Desk 012",
+    "receiver_placeholder": "CUSTOMER_CARE_PLACEHOLDER_012",
+    "timestamp": "2026-03-13T03:24:00",
+    "city": "Demo City North",
+    "note": "FAKE DEMO TXN: customer care support desk refund 012. Pay small activation amount now for cashback reversal.",
+    "user_age_group": "Senior Citizen",
+    "previous_transaction_count": 5,
+    "is_first_time_receiver": true,
+    "reported_by_user": true,
+    "category": "Fake Customer Care Refund Scam",
+    "risk_level": "Critical",
+    "expected_score_range": [
+      65,
+      98
+    ],
+    "risk_factors": [
+      "customer care wording",
+      "refund/cashback language",
+      "activation payment demand"
+    ],
+    "explanation": "Synthetic fake customer-care refund pattern using support language to request payment."
+  },
+  {
+    "id": "CARE-REFUND-013",
+    "amount": 2482,
+    "payment_method": "UPI",
+    "receiver_name": "Demo Customer Care Refund Desk 013",
+    "receiver_placeholder": "CUSTOMER_CARE_PLACEHOLDER_013",
+    "timestamp": "2026-03-14T17:31:00",
+    "city": "Demo City South",
+    "note": "FAKE DEMO TXN: customer care support desk refund 013. Pay small activation amount now for cashback reversal.",
+    "user_age_group": "Adult",
+    "previous_transaction_count": 0,
+    "is_first_time_receiver": true,
+    "reported_by_user": true,
+    "category": "Fake Customer Care Refund Scam",
+    "risk_level": "High",
+    "expected_score_range": [
+      65,
+      98
+    ],
+    "risk_factors": [
+      "customer care wording",
+      "refund/cashback language",
+      "activation payment demand"
+    ],
+    "explanation": "Synthetic fake customer-care refund pattern using support language to request payment."
+  },
+  {
+    "id": "CARE-REFUND-014",
+    "amount": 2573,
+    "payment_method": "UPI",
+    "receiver_name": "Demo Customer Care Refund Desk 014",
+    "receiver_placeholder": "CUSTOMER_CARE_PLACEHOLDER_014",
+    "timestamp": "2026-03-15T17:38:00",
+    "city": "Training Nagar",
+    "note": "FAKE DEMO TXN: customer care support desk refund 014. Pay small activation amount now for cashback reversal.",
+    "user_age_group": "Adult",
+    "previous_transaction_count": 5,
+    "is_first_time_receiver": true,
+    "reported_by_user": true,
+    "category": "Fake Customer Care Refund Scam",
+    "risk_level": "High",
+    "expected_score_range": [
+      65,
+      98
+    ],
+    "risk_factors": [
+      "customer care wording",
+      "refund/cashback language",
+      "activation payment demand"
+    ],
+    "explanation": "Synthetic fake customer-care refund pattern using support language to request payment."
+  },
+  {
+    "id": "CARE-REFUND-015",
+    "amount": 2664,
+    "payment_method": "UPI",
+    "receiver_name": "Demo Customer Care Refund Desk 015",
+    "receiver_placeholder": "CUSTOMER_CARE_PLACEHOLDER_015",
+    "timestamp": "2026-03-16T17:45:00",
+    "city": "Awareness Zone",
+    "note": "FAKE DEMO TXN: customer care support desk refund 015. Pay small activation amount now for cashback reversal.",
+    "user_age_group": "Senior Citizen",
+    "previous_transaction_count": 0,
+    "is_first_time_receiver": true,
+    "reported_by_user": true,
+    "category": "Fake Customer Care Refund Scam",
+    "risk_level": "High",
+    "expected_score_range": [
+      65,
+      98
+    ],
+    "risk_factors": [
+      "customer care wording",
+      "refund/cashback language",
+      "activation payment demand"
+    ],
+    "explanation": "Synthetic fake customer-care refund pattern using support language to request payment."
+  },
+  {
+    "id": "CARE-REFUND-016",
+    "amount": 2755,
+    "payment_method": "UPI",
+    "receiver_name": "Demo Customer Care Refund Desk 016",
+    "receiver_placeholder": "CUSTOMER_CARE_PLACEHOLDER_016",
+    "timestamp": "2026-03-17T03:52:00",
+    "city": "Cyber Demo Ward",
+    "note": "FAKE DEMO TXN: customer care support desk refund 016. Pay small activation amount now for cashback reversal.",
+    "user_age_group": "Adult",
+    "previous_transaction_count": 5,
+    "is_first_time_receiver": true,
+    "reported_by_user": true,
+    "category": "Fake Customer Care Refund Scam",
+    "risk_level": "Critical",
+    "expected_score_range": [
+      65,
+      98
+    ],
+    "risk_factors": [
+      "customer care wording",
+      "refund/cashback language",
+      "activation payment demand"
+    ],
+    "explanation": "Synthetic fake customer-care refund pattern using support language to request payment."
+  },
+  {
+    "id": "CARE-REFUND-017",
+    "amount": 2846,
+    "payment_method": "UPI",
+    "receiver_name": "Demo Customer Care Refund Desk 017",
+    "receiver_placeholder": "CUSTOMER_CARE_PLACEHOLDER_017",
+    "timestamp": "2026-03-18T17:59:00",
+    "city": "Safety Town",
+    "note": "FAKE DEMO TXN: customer care support desk refund 017. Pay small activation amount now for cashback reversal.",
+    "user_age_group": "Adult",
+    "previous_transaction_count": 0,
+    "is_first_time_receiver": true,
+    "reported_by_user": true,
+    "category": "Fake Customer Care Refund Scam",
+    "risk_level": "High",
+    "expected_score_range": [
+      65,
+      98
+    ],
+    "risk_factors": [
+      "customer care wording",
+      "refund/cashback language",
+      "activation payment demand"
+    ],
+    "explanation": "Synthetic fake customer-care refund pattern using support language to request payment."
+  },
+  {
+    "id": "CARE-REFUND-018",
+    "amount": 2937,
+    "payment_method": "UPI",
+    "receiver_name": "Demo Customer Care Refund Desk 018",
+    "receiver_placeholder": "CUSTOMER_CARE_PLACEHOLDER_018",
+    "timestamp": "2026-03-19T17:06:00",
+    "city": "Demo City North",
+    "note": "FAKE DEMO TXN: customer care support desk refund 018. Pay small activation amount now for cashback reversal.",
+    "user_age_group": "Senior Citizen",
+    "previous_transaction_count": 5,
+    "is_first_time_receiver": true,
+    "reported_by_user": true,
+    "category": "Fake Customer Care Refund Scam",
+    "risk_level": "High",
+    "expected_score_range": [
+      65,
+      98
+    ],
+    "risk_factors": [
+      "customer care wording",
+      "refund/cashback language",
+      "activation payment demand"
+    ],
+    "explanation": "Synthetic fake customer-care refund pattern using support language to request payment."
+  },
+  {
+    "id": "CARE-REFUND-019",
+    "amount": 3028,
+    "payment_method": "UPI",
+    "receiver_name": "Demo Customer Care Refund Desk 019",
+    "receiver_placeholder": "CUSTOMER_CARE_PLACEHOLDER_019",
+    "timestamp": "2026-03-20T17:13:00",
+    "city": "Demo City South",
+    "note": "FAKE DEMO TXN: customer care support desk refund 019. Pay small activation amount now for cashback reversal.",
+    "user_age_group": "Adult",
+    "previous_transaction_count": 0,
+    "is_first_time_receiver": true,
+    "reported_by_user": true,
+    "category": "Fake Customer Care Refund Scam",
+    "risk_level": "High",
+    "expected_score_range": [
+      65,
+      98
+    ],
+    "risk_factors": [
+      "customer care wording",
+      "refund/cashback language",
+      "activation payment demand"
+    ],
+    "explanation": "Synthetic fake customer-care refund pattern using support language to request payment."
+  },
+  {
+    "id": "CARE-REFUND-020",
+    "amount": 3119,
+    "payment_method": "UPI",
+    "receiver_name": "Demo Customer Care Refund Desk 020",
+    "receiver_placeholder": "CUSTOMER_CARE_PLACEHOLDER_020",
+    "timestamp": "2026-03-21T03:20:00",
+    "city": "Training Nagar",
+    "note": "FAKE DEMO TXN: customer care support desk refund 020. Pay small activation amount now for cashback reversal.",
+    "user_age_group": "Adult",
+    "previous_transaction_count": 5,
+    "is_first_time_receiver": true,
+    "reported_by_user": true,
+    "category": "Fake Customer Care Refund Scam",
+    "risk_level": "Critical",
+    "expected_score_range": [
+      65,
+      98
+    ],
+    "risk_factors": [
+      "customer care wording",
+      "refund/cashback language",
+      "activation payment demand"
+    ],
+    "explanation": "Synthetic fake customer-care refund pattern using support language to request payment."
+  },
+  {
+    "id": "QR-SCAM-001",
+    "amount": 863,
+    "payment_method": "UPI",
+    "receiver_name": "Demo QR Collection Receiver 001",
+    "receiver_placeholder": "QR_RECEIVER_PLACEHOLDER_001",
+    "timestamp": "2026-03-02T18:07:00",
+    "city": "Demo City South",
+    "note": "FAKE DEMO TXN: scan QR and enter UPI PIN to receive refund 001. Approve request immediately.",
+    "user_age_group": "Adult",
+    "previous_transaction_count": 2,
+    "is_first_time_receiver": true,
+    "reported_by_user": false,
+    "category": "QR Code Scam",
+    "risk_level": "High",
+    "expected_score_range": [
+      62,
+      96
+    ],
+    "risk_factors": [
+      "scan QR request",
+      "UPI PIN wording",
+      "refund claim",
+      "urgent approval"
+    ],
+    "explanation": "Synthetic QR scam pattern asking the victim to scan or approve payment to receive money."
+  },
+  {
+    "id": "QR-SCAM-002",
+    "amount": 927,
+    "payment_method": "UPI",
+    "receiver_name": "Demo QR Collection Receiver 002",
+    "receiver_placeholder": "QR_RECEIVER_PLACEHOLDER_002",
+    "timestamp": "2026-03-03T18:14:00",
+    "city": "Training Nagar",
+    "note": "FAKE DEMO TXN: scan QR and enter UPI PIN to receive refund 002. Approve request immediately.",
+    "user_age_group": "Adult",
+    "previous_transaction_count": 6,
+    "is_first_time_receiver": true,
+    "reported_by_user": true,
+    "category": "QR Code Scam",
+    "risk_level": "High",
+    "expected_score_range": [
+      62,
+      96
+    ],
+    "risk_factors": [
+      "scan QR request",
+      "UPI PIN wording",
+      "refund claim",
+      "urgent approval"
+    ],
+    "explanation": "Synthetic QR scam pattern asking the victim to scan or approve payment to receive money."
+  },
+  {
+    "id": "QR-SCAM-003",
+    "amount": 991,
+    "payment_method": "UPI",
+    "receiver_name": "Demo QR Collection Receiver 003",
+    "receiver_placeholder": "QR_RECEIVER_PLACEHOLDER_003",
+    "timestamp": "2026-03-04T18:21:00",
+    "city": "Awareness Zone",
+    "note": "FAKE DEMO TXN: scan QR and enter UPI PIN to receive refund 003. Approve request immediately.",
+    "user_age_group": "Adult",
+    "previous_transaction_count": 2,
+    "is_first_time_receiver": true,
+    "reported_by_user": false,
+    "category": "QR Code Scam",
+    "risk_level": "High",
+    "expected_score_range": [
+      62,
+      96
+    ],
+    "risk_factors": [
+      "scan QR request",
+      "UPI PIN wording",
+      "refund claim",
+      "urgent approval"
+    ],
+    "explanation": "Synthetic QR scam pattern asking the victim to scan or approve payment to receive money."
+  },
+  {
+    "id": "QR-SCAM-004",
+    "amount": 1055,
+    "payment_method": "UPI",
+    "receiver_name": "Demo QR Collection Receiver 004",
+    "receiver_placeholder": "QR_RECEIVER_PLACEHOLDER_004",
+    "timestamp": "2026-03-05T18:28:00",
+    "city": "Cyber Demo Ward",
+    "note": "FAKE DEMO TXN: scan QR and enter UPI PIN to receive refund 004. Approve request immediately.",
+    "user_age_group": "Senior Citizen",
+    "previous_transaction_count": 6,
+    "is_first_time_receiver": true,
+    "reported_by_user": true,
+    "category": "QR Code Scam",
+    "risk_level": "High",
+    "expected_score_range": [
+      62,
+      96
+    ],
+    "risk_factors": [
+      "scan QR request",
+      "UPI PIN wording",
+      "refund claim",
+      "urgent approval"
+    ],
+    "explanation": "Synthetic QR scam pattern asking the victim to scan or approve payment to receive money."
+  },
+  {
+    "id": "QR-SCAM-005",
+    "amount": 1119,
+    "payment_method": "UPI",
+    "receiver_name": "Demo QR Collection Receiver 005",
+    "receiver_placeholder": "QR_RECEIVER_PLACEHOLDER_005",
+    "timestamp": "2026-03-06T01:35:00",
+    "city": "Safety Town",
+    "note": "FAKE DEMO TXN: scan QR and enter UPI PIN to receive refund 005. Approve request immediately.",
+    "user_age_group": "Adult",
+    "previous_transaction_count": 2,
+    "is_first_time_receiver": true,
+    "reported_by_user": false,
+    "category": "QR Code Scam",
+    "risk_level": "Critical",
+    "expected_score_range": [
+      62,
+      96
+    ],
+    "risk_factors": [
+      "scan QR request",
+      "UPI PIN wording",
+      "refund claim",
+      "urgent approval"
+    ],
+    "explanation": "Synthetic QR scam pattern asking the victim to scan or approve payment to receive money."
+  },
+  {
+    "id": "QR-SCAM-006",
+    "amount": 1183,
+    "payment_method": "UPI",
+    "receiver_name": "Demo QR Collection Receiver 006",
+    "receiver_placeholder": "QR_RECEIVER_PLACEHOLDER_006",
+    "timestamp": "2026-03-07T18:42:00",
+    "city": "Demo City North",
+    "note": "FAKE DEMO TXN: scan QR and enter UPI PIN to receive refund 006. Approve request immediately.",
+    "user_age_group": "Adult",
+    "previous_transaction_count": 6,
+    "is_first_time_receiver": true,
+    "reported_by_user": true,
+    "category": "QR Code Scam",
+    "risk_level": "High",
+    "expected_score_range": [
+      62,
+      96
+    ],
+    "risk_factors": [
+      "scan QR request",
+      "UPI PIN wording",
+      "refund claim",
+      "urgent approval"
+    ],
+    "explanation": "Synthetic QR scam pattern asking the victim to scan or approve payment to receive money."
+  },
+  {
+    "id": "QR-SCAM-007",
+    "amount": 1247,
+    "payment_method": "UPI",
+    "receiver_name": "Demo QR Collection Receiver 007",
+    "receiver_placeholder": "QR_RECEIVER_PLACEHOLDER_007",
+    "timestamp": "2026-03-08T18:49:00",
+    "city": "Demo City South",
+    "note": "FAKE DEMO TXN: scan QR and enter UPI PIN to receive refund 007. Approve request immediately.",
+    "user_age_group": "Adult",
+    "previous_transaction_count": 2,
+    "is_first_time_receiver": true,
+    "reported_by_user": false,
+    "category": "QR Code Scam",
+    "risk_level": "High",
+    "expected_score_range": [
+      62,
+      96
+    ],
+    "risk_factors": [
+      "scan QR request",
+      "UPI PIN wording",
+      "refund claim",
+      "urgent approval"
+    ],
+    "explanation": "Synthetic QR scam pattern asking the victim to scan or approve payment to receive money."
+  },
+  {
+    "id": "QR-SCAM-008",
+    "amount": 1311,
+    "payment_method": "UPI",
+    "receiver_name": "Demo QR Collection Receiver 008",
+    "receiver_placeholder": "QR_RECEIVER_PLACEHOLDER_008",
+    "timestamp": "2026-03-09T18:56:00",
+    "city": "Training Nagar",
+    "note": "FAKE DEMO TXN: scan QR and enter UPI PIN to receive refund 008. Approve request immediately.",
+    "user_age_group": "Senior Citizen",
+    "previous_transaction_count": 6,
+    "is_first_time_receiver": true,
+    "reported_by_user": true,
+    "category": "QR Code Scam",
+    "risk_level": "High",
+    "expected_score_range": [
+      62,
+      96
+    ],
+    "risk_factors": [
+      "scan QR request",
+      "UPI PIN wording",
+      "refund claim",
+      "urgent approval"
+    ],
+    "explanation": "Synthetic QR scam pattern asking the victim to scan or approve payment to receive money."
+  },
+  {
+    "id": "QR-SCAM-009",
+    "amount": 1375,
+    "payment_method": "UPI",
+    "receiver_name": "Demo QR Collection Receiver 009",
+    "receiver_placeholder": "QR_RECEIVER_PLACEHOLDER_009",
+    "timestamp": "2026-03-10T18:03:00",
+    "city": "Awareness Zone",
+    "note": "FAKE DEMO TXN: scan QR and enter UPI PIN to receive refund 009. Approve request immediately.",
+    "user_age_group": "Adult",
+    "previous_transaction_count": 2,
+    "is_first_time_receiver": true,
+    "reported_by_user": false,
+    "category": "QR Code Scam",
+    "risk_level": "High",
+    "expected_score_range": [
+      62,
+      96
+    ],
+    "risk_factors": [
+      "scan QR request",
+      "UPI PIN wording",
+      "refund claim",
+      "urgent approval"
+    ],
+    "explanation": "Synthetic QR scam pattern asking the victim to scan or approve payment to receive money."
+  },
+  {
+    "id": "QR-SCAM-010",
+    "amount": 1439,
+    "payment_method": "UPI",
+    "receiver_name": "Demo QR Collection Receiver 010",
+    "receiver_placeholder": "QR_RECEIVER_PLACEHOLDER_010",
+    "timestamp": "2026-03-11T01:10:00",
+    "city": "Cyber Demo Ward",
+    "note": "FAKE DEMO TXN: scan QR and enter UPI PIN to receive refund 010. Approve request immediately.",
+    "user_age_group": "Adult",
+    "previous_transaction_count": 6,
+    "is_first_time_receiver": true,
+    "reported_by_user": true,
+    "category": "QR Code Scam",
+    "risk_level": "Critical",
+    "expected_score_range": [
+      62,
+      96
+    ],
+    "risk_factors": [
+      "scan QR request",
+      "UPI PIN wording",
+      "refund claim",
+      "urgent approval"
+    ],
+    "explanation": "Synthetic QR scam pattern asking the victim to scan or approve payment to receive money."
+  },
+  {
+    "id": "QR-SCAM-011",
+    "amount": 1503,
+    "payment_method": "UPI",
+    "receiver_name": "Demo QR Collection Receiver 011",
+    "receiver_placeholder": "QR_RECEIVER_PLACEHOLDER_011",
+    "timestamp": "2026-03-12T18:17:00",
+    "city": "Safety Town",
+    "note": "FAKE DEMO TXN: scan QR and enter UPI PIN to receive refund 011. Approve request immediately.",
+    "user_age_group": "Adult",
+    "previous_transaction_count": 2,
+    "is_first_time_receiver": true,
+    "reported_by_user": false,
+    "category": "QR Code Scam",
+    "risk_level": "High",
+    "expected_score_range": [
+      62,
+      96
+    ],
+    "risk_factors": [
+      "scan QR request",
+      "UPI PIN wording",
+      "refund claim",
+      "urgent approval"
+    ],
+    "explanation": "Synthetic QR scam pattern asking the victim to scan or approve payment to receive money."
+  },
+  {
+    "id": "QR-SCAM-012",
+    "amount": 1567,
+    "payment_method": "UPI",
+    "receiver_name": "Demo QR Collection Receiver 012",
+    "receiver_placeholder": "QR_RECEIVER_PLACEHOLDER_012",
+    "timestamp": "2026-03-13T18:24:00",
+    "city": "Demo City North",
+    "note": "FAKE DEMO TXN: scan QR and enter UPI PIN to receive refund 012. Approve request immediately.",
+    "user_age_group": "Senior Citizen",
+    "previous_transaction_count": 6,
+    "is_first_time_receiver": true,
+    "reported_by_user": true,
+    "category": "QR Code Scam",
+    "risk_level": "High",
+    "expected_score_range": [
+      62,
+      96
+    ],
+    "risk_factors": [
+      "scan QR request",
+      "UPI PIN wording",
+      "refund claim",
+      "urgent approval"
+    ],
+    "explanation": "Synthetic QR scam pattern asking the victim to scan or approve payment to receive money."
+  },
+  {
+    "id": "QR-SCAM-013",
+    "amount": 1631,
+    "payment_method": "UPI",
+    "receiver_name": "Demo QR Collection Receiver 013",
+    "receiver_placeholder": "QR_RECEIVER_PLACEHOLDER_013",
+    "timestamp": "2026-03-14T18:31:00",
+    "city": "Demo City South",
+    "note": "FAKE DEMO TXN: scan QR and enter UPI PIN to receive refund 013. Approve request immediately.",
+    "user_age_group": "Adult",
+    "previous_transaction_count": 2,
+    "is_first_time_receiver": true,
+    "reported_by_user": false,
+    "category": "QR Code Scam",
+    "risk_level": "High",
+    "expected_score_range": [
+      62,
+      96
+    ],
+    "risk_factors": [
+      "scan QR request",
+      "UPI PIN wording",
+      "refund claim",
+      "urgent approval"
+    ],
+    "explanation": "Synthetic QR scam pattern asking the victim to scan or approve payment to receive money."
+  },
+  {
+    "id": "QR-SCAM-014",
+    "amount": 1695,
+    "payment_method": "UPI",
+    "receiver_name": "Demo QR Collection Receiver 014",
+    "receiver_placeholder": "QR_RECEIVER_PLACEHOLDER_014",
+    "timestamp": "2026-03-15T18:38:00",
+    "city": "Training Nagar",
+    "note": "FAKE DEMO TXN: scan QR and enter UPI PIN to receive refund 014. Approve request immediately.",
+    "user_age_group": "Adult",
+    "previous_transaction_count": 6,
+    "is_first_time_receiver": true,
+    "reported_by_user": true,
+    "category": "QR Code Scam",
+    "risk_level": "High",
+    "expected_score_range": [
+      62,
+      96
+    ],
+    "risk_factors": [
+      "scan QR request",
+      "UPI PIN wording",
+      "refund claim",
+      "urgent approval"
+    ],
+    "explanation": "Synthetic QR scam pattern asking the victim to scan or approve payment to receive money."
+  },
+  {
+    "id": "QR-SCAM-015",
+    "amount": 1759,
+    "payment_method": "UPI",
+    "receiver_name": "Demo QR Collection Receiver 015",
+    "receiver_placeholder": "QR_RECEIVER_PLACEHOLDER_015",
+    "timestamp": "2026-03-16T01:45:00",
+    "city": "Awareness Zone",
+    "note": "FAKE DEMO TXN: scan QR and enter UPI PIN to receive refund 015. Approve request immediately.",
+    "user_age_group": "Adult",
+    "previous_transaction_count": 2,
+    "is_first_time_receiver": true,
+    "reported_by_user": false,
+    "category": "QR Code Scam",
+    "risk_level": "Critical",
+    "expected_score_range": [
+      62,
+      96
+    ],
+    "risk_factors": [
+      "scan QR request",
+      "UPI PIN wording",
+      "refund claim",
+      "urgent approval"
+    ],
+    "explanation": "Synthetic QR scam pattern asking the victim to scan or approve payment to receive money."
+  },
+  {
+    "id": "QR-SCAM-016",
+    "amount": 1823,
+    "payment_method": "UPI",
+    "receiver_name": "Demo QR Collection Receiver 016",
+    "receiver_placeholder": "QR_RECEIVER_PLACEHOLDER_016",
+    "timestamp": "2026-03-17T18:52:00",
+    "city": "Cyber Demo Ward",
+    "note": "FAKE DEMO TXN: scan QR and enter UPI PIN to receive refund 016. Approve request immediately.",
+    "user_age_group": "Senior Citizen",
+    "previous_transaction_count": 6,
+    "is_first_time_receiver": true,
+    "reported_by_user": true,
+    "category": "QR Code Scam",
+    "risk_level": "High",
+    "expected_score_range": [
+      62,
+      96
+    ],
+    "risk_factors": [
+      "scan QR request",
+      "UPI PIN wording",
+      "refund claim",
+      "urgent approval"
+    ],
+    "explanation": "Synthetic QR scam pattern asking the victim to scan or approve payment to receive money."
+  },
+  {
+    "id": "QR-SCAM-017",
+    "amount": 1887,
+    "payment_method": "UPI",
+    "receiver_name": "Demo QR Collection Receiver 017",
+    "receiver_placeholder": "QR_RECEIVER_PLACEHOLDER_017",
+    "timestamp": "2026-03-18T18:59:00",
+    "city": "Safety Town",
+    "note": "FAKE DEMO TXN: scan QR and enter UPI PIN to receive refund 017. Approve request immediately.",
+    "user_age_group": "Adult",
+    "previous_transaction_count": 2,
+    "is_first_time_receiver": true,
+    "reported_by_user": false,
+    "category": "QR Code Scam",
+    "risk_level": "High",
+    "expected_score_range": [
+      62,
+      96
+    ],
+    "risk_factors": [
+      "scan QR request",
+      "UPI PIN wording",
+      "refund claim",
+      "urgent approval"
+    ],
+    "explanation": "Synthetic QR scam pattern asking the victim to scan or approve payment to receive money."
+  },
+  {
+    "id": "QR-SCAM-018",
+    "amount": 1951,
+    "payment_method": "UPI",
+    "receiver_name": "Demo QR Collection Receiver 018",
+    "receiver_placeholder": "QR_RECEIVER_PLACEHOLDER_018",
+    "timestamp": "2026-03-19T18:06:00",
+    "city": "Demo City North",
+    "note": "FAKE DEMO TXN: scan QR and enter UPI PIN to receive refund 018. Approve request immediately.",
+    "user_age_group": "Adult",
+    "previous_transaction_count": 6,
+    "is_first_time_receiver": true,
+    "reported_by_user": true,
+    "category": "QR Code Scam",
+    "risk_level": "High",
+    "expected_score_range": [
+      62,
+      96
+    ],
+    "risk_factors": [
+      "scan QR request",
+      "UPI PIN wording",
+      "refund claim",
+      "urgent approval"
+    ],
+    "explanation": "Synthetic QR scam pattern asking the victim to scan or approve payment to receive money."
+  },
+  {
+    "id": "QR-SCAM-019",
+    "amount": 2015,
+    "payment_method": "UPI",
+    "receiver_name": "Demo QR Collection Receiver 019",
+    "receiver_placeholder": "QR_RECEIVER_PLACEHOLDER_019",
+    "timestamp": "2026-03-20T18:13:00",
+    "city": "Demo City South",
+    "note": "FAKE DEMO TXN: scan QR and enter UPI PIN to receive refund 019. Approve request immediately.",
+    "user_age_group": "Adult",
+    "previous_transaction_count": 2,
+    "is_first_time_receiver": true,
+    "reported_by_user": false,
+    "category": "QR Code Scam",
+    "risk_level": "High",
+    "expected_score_range": [
+      62,
+      96
+    ],
+    "risk_factors": [
+      "scan QR request",
+      "UPI PIN wording",
+      "refund claim",
+      "urgent approval"
+    ],
+    "explanation": "Synthetic QR scam pattern asking the victim to scan or approve payment to receive money."
+  },
+  {
+    "id": "QR-SCAM-020",
+    "amount": 2079,
+    "payment_method": "UPI",
+    "receiver_name": "Demo QR Collection Receiver 020",
+    "receiver_placeholder": "QR_RECEIVER_PLACEHOLDER_020",
+    "timestamp": "2026-03-21T01:20:00",
+    "city": "Training Nagar",
+    "note": "FAKE DEMO TXN: scan QR and enter UPI PIN to receive refund 020. Approve request immediately.",
+    "user_age_group": "Senior Citizen",
+    "previous_transaction_count": 6,
+    "is_first_time_receiver": true,
+    "reported_by_user": true,
+    "category": "QR Code Scam",
+    "risk_level": "Critical",
+    "expected_score_range": [
+      62,
+      96
+    ],
+    "risk_factors": [
+      "scan QR request",
+      "UPI PIN wording",
+      "refund claim",
+      "urgent approval"
+    ],
+    "explanation": "Synthetic QR scam pattern asking the victim to scan or approve payment to receive money."
+  }
+]
