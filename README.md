@@ -177,19 +177,27 @@ cybershield-police/
 
 Prerequisites:
 
-- Python 3.10+ or the Codex bundled Python runtime. If you deleted Python, use `start_backend.bat`; it will try the bundled runtime available on this machine.
+- Python 3.10+
 - Node.js 18+ with npm
+- Git, if cloning from GitHub
+
+Clone the repository:
+
+```powershell
+git clone https://github.com/avirabh/cybershield-police.git
+cd cybershield-police
+```
 
 ## Run Backend
 
 Open the first terminal:
 
 ```powershell
-cd C:\Users\anubr\Documents\Codex\2026-06-19\prompt-1-master-build-prompt-you\cybershield-police\backend
+cd backend
 .\start_backend.bat
 ```
 
-The script finds Python, creates `.venv`, installs dependencies, and starts FastAPI. It avoids the common Windows issue where `python` or `uvicorn` is not available on PATH.
+The script finds Python, creates `.venv`, installs dependencies, and starts FastAPI. It avoids the common Windows issue where `uvicorn` is not available on PATH.
 
 Backend URL:
 
@@ -208,7 +216,7 @@ http://localhost:8000/docs
 Open a second terminal:
 
 ```powershell
-cd C:\Users\anubr\Documents\Codex\2026-06-19\prompt-1-master-build-prompt-you\cybershield-police\frontend
+cd frontend
 .\start_frontend.bat
 ```
 
@@ -362,21 +370,21 @@ They use fake text, fake amounts, placeholders, and reserved `.test` / `.invalid
 Load missing demo cases and transactions without deleting existing reports:
 
 ```powershell
-cd C:\Users\anubr\Documents\Codex\2026-06-19\prompt-1-master-build-prompt-you\cybershield-police\backend
+cd backend
 .\.venv\Scripts\python.exe seed_demo_data.py
 ```
 
 If Python is installed globally, this also works:
 
 ```powershell
-cd C:\Users\anubr\Documents\Codex\2026-06-19\prompt-1-master-build-prompt-you\cybershield-police\backend
+cd backend
 python seed_demo_data.py
 ```
 
 Reset the database to the clean demo dataset:
 
 ```powershell
-cd C:\Users\anubr\Documents\Codex\2026-06-19\prompt-1-master-build-prompt-you\cybershield-police\backend
+cd backend
 .\.venv\Scripts\python.exe seed_demo_data.py --reset
 ```
 
@@ -538,14 +546,14 @@ FAKE DEMO TEST: Cyber cell officer says case file opened and security deposit mu
 The detector tests load all 300 synthetic examples, run the analyzer, check category and score quality, verify safe examples score low, and print a demo accuracy summary.
 
 ```powershell
-cd C:\Users\anubr\Documents\Codex\2026-06-19\prompt-1-master-build-prompt-you\cybershield-police\backend
+cd backend
 .\.venv\Scripts\python.exe -m unittest app.tests.test_scam_detector app.tests.test_product_polish -v
 ```
 
 To include the authentication and police verification tests:
 
 ```powershell
-cd C:\Users\anubr\Documents\Codex\2026-06-19\prompt-1-master-build-prompt-you\cybershield-police\backend
+cd backend
 .\.venv\Scripts\python.exe -m unittest app.tests.test_auth_flow app.tests.test_product_polish app.tests.test_scam_detector -v
 ```
 
@@ -608,14 +616,12 @@ Open the final PowerPoint deck:
 presentation/CyberShield_Police_Hackathon_Pitch.pptx
 ```
 
-Supporting presentation files:
+Supporting judge-prep file:
 
-- `presentation/demo-video-script.md`
-- `presentation/judge-speech.md`
 - `presentation/judge-qna.md`
 - `docs/presentation-and-demo-kit.md`
 
-These files are included so judges can quickly review the project story, demo flow, speeches, and Q&A.
+The PowerPoint deck is the main judge-facing presentation deliverable. The supporting files help reviewers quickly understand the project story, demo flow, and Q&A.
 
 ## Deployment Notes
 
