@@ -673,19 +673,6 @@ git push -u origin main
 
 Before pushing, confirm `.env`, `*.db`, `.venv`, `node_modules`, and `dist` are not staged.
 
-## Limitations
-
-- Rule-based detection is explainable but not a replacement for a full cyber forensics workflow.
-- Some scams overlap across categories, so the dashboard shows related categories and matched rules, not only the primary label.
-- Demo data and transaction data are synthetic and intentionally fake.
-- No real identity verification, police verification, domain reputation lookup, telecom lookup, or payment gateway integration is included.
-- Login, registration, and police verification are mock/demo workflows only.
-- The phishing dataset is synthetic and supports demo validation; it is not a real threat feed.
-- Screenshot analysis uses metadata and pasted visible text; local OCR is not bundled.
-- Optional AI providers are disabled unless configured in backend environment variables and explicitly enabled in supported UI flows.
-- Prototype translations are demo-level and should be reviewed by native speakers before any real public deployment.
-- Risk scores are triage signals, not legal conclusions.
-
 ## Future Scope
 
 - Add native-speaker reviewed translations and richer voice/audio accessibility.
@@ -706,5 +693,5 @@ All datasets are synthetic for demonstration. No real victim data is used. No pr
 ## Team
 
 - Team Lead / Developer: Anubrata Sarker
-- Member 2: Placeholder Member
-- Member 3: Placeholder Member
+- Member 2: Arkaprabha De
+- Member 3: Abhirup Goutam
